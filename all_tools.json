@@ -1,0 +1,3647 @@
+{
+    "11": [
+        {
+            "document": "generate image",
+            "type": "trig",
+            "tool_id": 11
+        },
+        {
+            "document": "create image",
+            "type": "trig",
+            "tool_id": 11
+        },
+        {
+            "document": "draw image",
+            "tool_id": 11,
+            "type": "trig"
+        },
+        {
+            "document": "image",
+            "type": "trig",
+            "tool_id": 11
+        },
+        {
+            "document": "draw something as a picture",
+            "type": "trig",
+            "tool_id": 11
+        },
+        {
+            "document": "Generate or edit an image with text description",
+            "type": "desc",
+            "tool_id": 11
+        },
+        {
+            "document": "Generate Image",
+            "type": "name",
+            "tool_id": 11
+        },
+        {
+            "document": "Write Python Code to Solve Problem without Running it.",
+            "type": "desc",
+            "tool_id": 11
+        },
+        {
+            "document": "Write Python Code without Running",
+            "tool_id": 11,
+            "type": "name"
+        }
+    ],
+    "1": [
+        {
+            "document": "Save this conversation as an automated workflow.",
+            "tool_id": 1,
+            "type": "desc"
+        },
+        {
+            "document": "Create Automated Workflow From Conversation",
+            "type": "name",
+            "tool_id": 1
+        }
+    ],
+    "3": [
+        {
+            "document": "Answer questions that needs up-to-date information from the internet.",
+            "type": "desc",
+            "tool_id": 3
+        },
+        {
+            "document": "Live Web Search",
+            "type": "name",
+            "tool_id": 3
+        }
+    ],
+    "4": [
+        {
+            "document": "record screen",
+            "type": "trig",
+            "tool_id": 4
+        },
+        {
+            "document": "screen recording",
+            "type": "trig",
+            "tool_id": 4
+        },
+        {
+            "document": "Capture your screen with ease.",
+            "tool_id": 4,
+            "type": "desc"
+        },
+        {
+            "document": "Record Screen",
+            "tool_id": 4,
+            "type": "name"
+        }
+    ],
+    "6": [
+        {
+            "document": "data analysis",
+            "type": "trig",
+            "tool_id": 6
+        },
+        {
+            "document": "create plot",
+            "tool_id": 6,
+            "type": "trig"
+        },
+        {
+            "document": "analyze and plot",
+            "type": "trig",
+            "tool_id": 6
+        },
+        {
+            "document": "do data analysis",
+            "type": "trig",
+            "tool_id": 6
+        },
+        {
+            "document": "data analyst",
+            "type": "trig",
+            "tool_id": 6
+        },
+        {
+            "document": "do data analysis for the above file",
+            "tool_id": 6,
+            "type": "trig"
+        },
+        {
+            "document": "sumarize the above data",
+            "type": "trig",
+            "tool_id": 6
+        },
+        {
+            "document": "sumarize the data",
+            "tool_id": 6,
+            "type": "trig"
+        },
+        {
+            "document": "Do data analysis including plotting on a set of data.",
+            "type": "desc",
+            "tool_id": 6
+        },
+        {
+            "document": "Data Analysis",
+            "tool_id": 6,
+            "type": "name"
+        }
+    ],
+    "10": [
+        {
+            "document": "Convert Scanned PDF File into a text-based PDF or Markdown file",
+            "type": "desc",
+            "tool_id": 10
+        },
+        {
+            "document": "Convert Scanned PDF File",
+            "type": "name",
+            "tool_id": 10
+        }
+    ],
+    "12": [
+        {
+            "document": "Execute python code and return the result.",
+            "type": "desc",
+            "tool_id": 12
+        },
+        {
+            "document": "Execute Python Code",
+            "type": "name",
+            "tool_id": 12
+        }
+    ],
+    "13": [
+        {
+            "document": "open a web page",
+            "type": "trig",
+            "tool_id": 13
+        },
+        {
+            "document": "download file",
+            "type": "trig",
+            "tool_id": 13
+        },
+        {
+            "document": "click on",
+            "type": "trig",
+            "tool_id": 13
+        },
+        {
+            "document": "Browse the Web",
+            "type": "desc",
+            "tool_id": 13
+        },
+        {
+            "document": "Browse the Web",
+            "tool_id": 13,
+            "type": "name"
+        }
+    ],
+    "14": [
+        {
+            "document": "Re-index Index Search Database",
+            "tool_id": 14,
+            "type": "desc"
+        },
+        {
+            "document": "Re-index Index Search Database",
+            "type": "name",
+            "tool_id": 14
+        }
+    ],
+    "15": [
+        {
+            "document": "Automate web browsing by recording user action and play back.",
+            "type": "desc",
+            "tool_id": 15
+        },
+        {
+            "document": "Record Web Browsing Actions",
+            "type": "name",
+            "tool_id": 15
+        }
+    ],
+    "24": [
+        {
+            "document": "Report the tokens used by users and agents.",
+            "tool_id": 24,
+            "type": "desc"
+        },
+        {
+            "document": "User Usage Reporter",
+            "type": "name",
+            "tool_id": 24
+        }
+    ],
+    "9": [
+        {
+            "document": "Translate",
+            "type": "trig",
+            "tool_id": 9
+        },
+        {
+            "document": "Translate to a selected language",
+            "tool_id": 9,
+            "type": "trig"
+        },
+        {
+            "document": "Translate a document from original language to a selected language",
+            "type": "desc",
+            "tool_id": 9
+        },
+        {
+            "document": "Language translation",
+            "tool_id": 9,
+            "type": "name"
+        }
+    ],
+    "32": [
+        {
+            "document": "open my folder",
+            "tool_id": 32,
+            "type": "trig"
+        },
+        {
+            "document": "open my data folder",
+            "type": "trig",
+            "tool_id": 32
+        },
+        {
+            "document": "Open the user data and conversation cloud folder. No other functionalities such as unzipping is allowed.",
+            "type": "desc",
+            "tool_id": 32
+        },
+        {
+            "document": "File Browser",
+            "tool_id": 32,
+            "type": "name"
+        }
+    ],
+    "33": [
+        {
+            "document": "Construction Data analysts",
+            "tool_id": 33,
+            "type": "name"
+        },
+        {
+            "document": "Gives expert insight on construction data, only runs once a chart has been produced. Anwers user questions, and produces python code on the fly depending on users requests",
+            "tool_id": 33,
+            "type": "desc"
+        }
+    ],
+    "36": [
+        {
+            "document": "Upload PDF File",
+            "type": "desc",
+            "tool_id": 36
+        },
+        {
+            "document": "Upload PDF File",
+            "tool_id": 36,
+            "type": "name"
+        }
+    ],
+    "37": [
+        {
+            "document": "Upload data for Project financial data analyst agent.",
+            "type": "desc",
+            "tool_id": 37
+        },
+        {
+            "document": "Upload Data for Project Financial Data Analyst",
+            "type": "name",
+            "tool_id": 37
+        }
+    ],
+    "38": [
+        {
+            "document": "Show Project Financial Data",
+            "type": "desc",
+            "tool_id": 38
+        },
+        {
+            "document": "Show Project Financial Data",
+            "tool_id": 38,
+            "type": "name"
+        }
+    ],
+    "42": [
+        {
+            "document": "Fetches json data from a directory, then exits and ask what type of graph it should create. If the user doesn't specify between plot, bar chart, or pie chart, create custom python code and execute it",
+            "type": "desc",
+            "tool_id": 42
+        },
+        {
+            "document": "Fetch Construction Data",
+            "type": "name",
+            "tool_id": 42
+        }
+    ],
+    "34": [
+        {
+            "document": "RFP Analyst and Strategist",
+            "tool_id": 34,
+            "type": "name"
+        },
+        {
+            "document": "Analyzes Requests for Proposals(RFP's) and analyzes how to write a winning proposal",
+            "type": "desc",
+            "tool_id": 34
+        }
+    ],
+    "43": [
+        {
+            "document": "Upload multiple files to a folder",
+            "type": "desc",
+            "tool_id": 43
+        },
+        {
+            "document": "TEST AGENT FOR MULTIPLE FILES",
+            "type": "name",
+            "tool_id": 43
+        }
+    ],
+    "30": [
+        {
+            "document": "Converts construction json data into to a pie chart, then exits and analyzes data using construction data analyst agent. Make sure the x axis is in the right order of dates. sorting by year then months.",
+            "tool_id": 30,
+            "type": "desc"
+        },
+        {
+            "document": "Convert Data into Pie Chart",
+            "type": "name",
+            "tool_id": 30
+        }
+    ],
+    "29": [
+        {
+            "document": "Converts construction json data to a bar chart, then exits and analyzes data using construction data analyst agent. Make sure the date format is MM-DD-YY",
+            "type": "desc",
+            "tool_id": 29
+        },
+        {
+            "document": "Convert Data into Bar Graph",
+            "type": "name",
+            "tool_id": 29
+        }
+    ],
+    "27": [
+        {
+            "document": "Converts json to plot, then exits and analyzes data using construction data analyst agent. Make sure date key is in MM-DD-YY",
+            "tool_id": 27,
+            "type": "desc"
+        },
+        {
+            "document": "Convert Data into Plot Chart",
+            "tool_id": 27,
+            "type": "name"
+        }
+    ],
+    "39": [
+        {
+            "document": "Upload PDF to Construction Database",
+            "tool_id": 39,
+            "type": "name"
+        },
+        {
+            "document": "Uploads a pdf and saves it as a json into a database\n",
+            "type": "desc",
+            "tool_id": 39
+        }
+    ],
+    "44": [
+        {
+            "document": "Lessons Learned",
+            "tool_id": 44,
+            "type": "trig"
+        },
+        {
+            "document": "past lesson",
+            "type": "trig",
+            "tool_id": 44
+        },
+        {
+            "document": "Herrero lesson",
+            "tool_id": 44,
+            "type": "trig"
+        },
+        {
+            "document": "small wins",
+            "tool_id": 44,
+            "type": "trig"
+        },
+        {
+            "document": "project experience",
+            "tool_id": 44,
+            "type": "trig"
+        },
+        {
+            "document": "Fine and summary lessons learned, small wins from past Herrero projects",
+            "tool_id": 44,
+            "type": "desc"
+        },
+        {
+            "document": "Lessons Learned",
+            "type": "name",
+            "tool_id": 44
+        }
+    ],
+    "45": [
+        {
+            "document": "Eligibility",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "enrollments,",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "Medical Coverage plans",
+            "tool_id": 45,
+            "type": "trig"
+        },
+        {
+            "document": "Dental",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "Vision",
+            "tool_id": 45,
+            "type": "trig"
+        },
+        {
+            "document": "Spending account",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "cost",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "contact information",
+            "tool_id": 45,
+            "type": "trig"
+        },
+        {
+            "document": "Kaiser HMO",
+            "type": "trig",
+            "tool_id": 45
+        },
+        {
+            "document": "Cigna",
+            "tool_id": 45,
+            "type": "trig"
+        },
+        {
+            "document": "Answer questions about Herrero Benefits including Eligibility, enrollments, Medical Coverage plans, Dental, Vision, Spending account, cost, contact information",
+            "type": "desc",
+            "tool_id": 45
+        },
+        {
+            "document": "Herrero Benefits",
+            "tool_id": 45,
+            "type": "name"
+        }
+    ],
+    "31": [
+        {
+            "document": "Send Email to IT Supporter",
+            "type": "name",
+            "tool_id": 31
+        },
+        {
+            "document": "If the question is too specific or relates to the company's private settings, ask user if they want to send an email to the IT Specialist. If user confirms as yes, compose an email based on the conversation history and send it to support@herrero.com.",
+            "tool_id": 31,
+            "type": "desc"
+        }
+    ],
+    "47": [
+        {
+            "document": "Lean Training Agent",
+            "type": "name",
+            "tool_id": 47
+        },
+        {
+            "document": "Answer the user's question regarding the lean training content",
+            "tool_id": 47,
+            "type": "desc"
+        }
+    ],
+    "49": [
+        {
+            "document": "Generate marketing content based on company's previous marketing posts and user's desciption.",
+            "type": "desc",
+            "tool_id": 49
+        },
+        {
+            "document": "Marketing Content Generator",
+            "type": "name",
+            "tool_id": 49
+        }
+    ],
+    "50": [
+        {
+            "document": "Herrero Handbook",
+            "type": "name",
+            "tool_id": 50
+        },
+        {
+            "document": "Answer questions related to Herrero policies and procedures, workplace expectations, employment, attendance, compensation, time off, leave, performance, discipline, termination, benefits, diversity, pension, remote work, PTO, jury duty,  others.",
+            "type": "desc",
+            "tool_id": 50
+        }
+    ],
+    "52": [
+        {
+            "document": "Analyze this RFP and summarize its key components.",
+            "type": "trig",
+            "tool_id": 52
+        },
+        {
+            "document": "What are the mandatory requirements in this RFP?",
+            "tool_id": 52,
+            "type": "trig"
+        },
+        {
+            "document": "Provide a win strategy for the attached RFP.",
+            "type": "trig",
+            "tool_id": 52
+        },
+        {
+            "document": "Summarize the objectives and timeline of this RFP.",
+            "type": "trig",
+            "tool_id": 52
+        },
+        {
+            "document": "Reviews RFPs and provides strategic, actionable proposal insights.",
+            "type": "desc",
+            "tool_id": 52
+        },
+        {
+            "document": "Herrero RFP Analyzer",
+            "tool_id": 52,
+            "type": "name"
+        }
+    ],
+    "53": [
+        {
+            "document": "Perform webserch, research, brain storming, programing, general Q&A",
+            "type": "desc",
+            "tool_id": 53
+        },
+        {
+            "document": "General Assistant",
+            "tool_id": 53,
+            "type": "name"
+        }
+    ],
+    "54": [
+        {
+            "document": "Answer questions that needs up-to-date information from the internet. This is a quick search, not a deep search.",
+            "tool_id": 54,
+            "type": "desc"
+        },
+        {
+            "document": "Deep Search",
+            "tool_id": 54,
+            "type": "name"
+        }
+    ],
+    "55": [
+        {
+            "document": "Download files from sharepoints using public link.",
+            "type": "desc",
+            "tool_id": 55
+        },
+        {
+            "document": "Download Files from Sharepoints",
+            "tool_id": 55,
+            "type": "name"
+        }
+    ],
+    "2": [
+        {
+            "document": "Add IP to maxflow git server",
+            "tool_id": 2,
+            "type": "trig"
+        },
+        {
+            "document": "Allow for maxflow git server",
+            "tool_id": 2,
+            "type": "trig"
+        },
+        {
+            "document": "Add IP address to maxflow",
+            "type": "trig",
+            "tool_id": 2
+        },
+        {
+            "document": "add IP to git server: 12.13.14.15",
+            "type": "trig",
+            "tool_id": 2
+        },
+        {
+            "document": "add 12.13.14.15 for git server",
+            "tool_id": 2,
+            "type": "trig"
+        },
+        {
+            "document": "Add an IP to the GIT server.",
+            "tool_id": 2,
+            "type": "desc"
+        },
+        {
+            "document": "Add IP to git server",
+            "type": "name",
+            "tool_id": 2
+        }
+    ],
+    "7": [
+        {
+            "document": "Test the optional input",
+            "type": "trig",
+            "tool_id": 7
+        },
+        {
+            "document": "Test optional inputs",
+            "type": "desc",
+            "tool_id": 7
+        },
+        {
+            "document": "Test optional inputs",
+            "type": "name",
+            "tool_id": 7
+        }
+    ],
+    "8770": [
+        {
+            "document": "Show me the available tools.",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "What's in our toolbox?",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "What can you do?",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "Display the tools you have.",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "List out the current tools.",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "Show the current toolset.",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "What tools do you have?",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "List of available actions.",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "Show me what you can do.",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "What can you help with?",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "What agents do you have?",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "List all agents",
+            "type": "trig",
+            "tool_id": 8770
+        },
+        {
+            "document": "What can you help?",
+            "tool_id": 8770,
+            "type": "trig"
+        },
+        {
+            "document": "Describe what this app can do. In other words, what you Genie can do.",
+            "type": "desc",
+            "tool_id": 8770
+        },
+        {
+            "document": "What I can do for you",
+            "tool_id": 8770,
+            "type": "name"
+        }
+    ],
+    "8809": [
+        {
+            "document": "Reads new emails in your inbox and generates suggested actions.",
+            "type": "trig",
+            "tool_id": 8809
+        },
+        {
+            "document": "process emails",
+            "type": "trig",
+            "tool_id": 8809
+        },
+        {
+            "document": "process gmails",
+            "tool_id": 8809,
+            "type": "trig"
+        },
+        {
+            "document": "check gmail",
+            "type": "trig",
+            "tool_id": 8809
+        },
+        {
+            "document": "Reads new emails in your inbox and generates quick action suggestions.",
+            "type": "desc",
+            "tool_id": 8809
+        },
+        {
+            "document": "Process Gmails",
+            "tool_id": 8809,
+            "type": "name"
+        }
+    ],
+    "8824": [
+        {
+            "document": "show email docs",
+            "tool_id": 8824,
+            "type": "trig"
+        },
+        {
+            "document": "Show Email Supporting Docs",
+            "type": "desc",
+            "tool_id": 8824
+        },
+        {
+            "document": "Show Email Supporting Docs",
+            "type": "name",
+            "tool_id": 8824
+        }
+    ],
+    "5": [
+        {
+            "document": "Show example responses",
+            "type": "trig",
+            "tool_id": 5
+        },
+        {
+            "document": "Give me demo responses",
+            "tool_id": 5,
+            "type": "trig"
+        },
+        {
+            "document": "Examples of types of outputs that workflows send to users",
+            "tool_id": 5,
+            "type": "desc"
+        },
+        {
+            "document": "Show example responses",
+            "type": "name",
+            "tool_id": 5
+        }
+    ],
+    "8": [
+        {
+            "document": "Show me my user email address",
+            "type": "trig",
+            "tool_id": 8
+        },
+        {
+            "document": "get user",
+            "type": "trig",
+            "tool_id": 8
+        },
+        {
+            "document": "Get user email, or 'my' email",
+            "tool_id": 8,
+            "type": "desc"
+        },
+        {
+            "document": "Get user email",
+            "type": "name",
+            "tool_id": 8
+        }
+    ],
+    "8780": [
+        {
+            "document": "Risk analysis with Excel",
+            "tool_id": 8780,
+            "type": "trig"
+        },
+        {
+            "document": "Monte Carlo with Excel",
+            "tool_id": 8780,
+            "type": "trig"
+        },
+        {
+            "document": "Oracle Crystalball",
+            "tool_id": 8780,
+            "type": "trig"
+        },
+        {
+            "document": "Crystalball",
+            "type": "trig",
+            "tool_id": 8780
+        },
+        {
+            "document": "Risk analysis with the above Excel file",
+            "tool_id": 8780,
+            "type": "trig"
+        },
+        {
+            "document": "Monte Carlo with the above Excel file",
+            "type": "trig",
+            "tool_id": 8780
+        },
+        {
+            "document": "Run Monte Carlo and plot objective and parameter probabilities.",
+            "type": "desc",
+            "tool_id": 8780
+        },
+        {
+            "document": "Risk analysis with Excel",
+            "tool_id": 8780,
+            "type": "name"
+        }
+    ],
+    "8823": [
+        {
+            "document": "add email doc",
+            "type": "trig",
+            "tool_id": 8823
+        },
+        {
+            "document": "Add supporting docs for email answer automation",
+            "type": "desc",
+            "tool_id": 8823
+        },
+        {
+            "document": "Add Email Supporting Docs",
+            "type": "name",
+            "tool_id": 8823
+        }
+    ],
+    "8872": [
+        {
+            "document": "get mineopt map",
+            "type": "trig",
+            "tool_id": 8872
+        },
+        {
+            "document": "get google map for mineopt",
+            "tool_id": 8872,
+            "type": "trig"
+        },
+        {
+            "document": "get 3D site map for mineopt",
+            "type": "trig",
+            "tool_id": 8872
+        },
+        {
+            "document": "create 3d map",
+            "tool_id": 8872,
+            "type": "trig"
+        },
+        {
+            "document": "get mineopt map at lat, lon",
+            "tool_id": 8872,
+            "type": "trig"
+        },
+        {
+            "document": "get google map for mineopt at lat, lon",
+            "type": "trig",
+            "tool_id": 8872
+        },
+        {
+            "document": "get 3D site map for mineopt at lat, lon",
+            "tool_id": 8872,
+            "type": "trig"
+        },
+        {
+            "document": "create 3d map at a location",
+            "type": "trig",
+            "tool_id": 8872
+        },
+        {
+            "document": "get mineopt map at a location",
+            "tool_id": 8872,
+            "type": "trig"
+        },
+        {
+            "document": "Get a 3D Map for use in other simulation apps.",
+            "tool_id": 8872,
+            "type": "desc"
+        },
+        {
+            "document": "Get 3D Site Map",
+            "type": "name",
+            "tool_id": 8872
+        }
+    ],
+    "8874": [
+        {
+            "document": "Convert Webm to MP4",
+            "tool_id": 8874,
+            "type": "trig"
+        },
+        {
+            "document": "Convert Webm to MP4",
+            "type": "desc",
+            "tool_id": 8874
+        },
+        {
+            "document": "Convert Webm to MP4",
+            "type": "name",
+            "tool_id": 8874
+        }
+    ],
+    "8886": [
+        {
+            "document": "Summarize a word or pdf document.",
+            "tool_id": 8886,
+            "type": "trig"
+        },
+        {
+            "document": "Summarize a document for me.",
+            "tool_id": 8886,
+            "type": "trig"
+        },
+        {
+            "document": "Summarize a word or pdf document",
+            "tool_id": 8886,
+            "type": "desc"
+        },
+        {
+            "document": "Summarize Document",
+            "tool_id": 8886,
+            "type": "name"
+        }
+    ],
+    "8940": [
+        {
+            "document": "I would like to talk to turbine blade 8768",
+            "tool_id": 8940,
+            "type": "trig"
+        },
+        {
+            "document": "Check out turbine blade 8768",
+            "type": "trig",
+            "tool_id": 8940
+        },
+        {
+            "document": "Know about 8768",
+            "tool_id": 8940,
+            "type": "trig"
+        },
+        {
+            "document": "I would like to check out the 8768 turbine blade.",
+            "tool_id": 8940,
+            "type": "trig"
+        },
+        {
+            "document": "Answer questions as relating to the turbine blade 6768",
+            "tool_id": 8940,
+            "type": "desc"
+        },
+        {
+            "document": "Turbine Blade 8768",
+            "type": "name",
+            "tool_id": 8940
+        }
+    ],
+    "8941": [
+        {
+            "document": "tool call debug",
+            "type": "trig",
+            "tool_id": 8941
+        },
+        {
+            "document": "tool call optimization",
+            "type": "trig",
+            "tool_id": 8941
+        },
+        {
+            "document": "tool call test",
+            "type": "trig",
+            "tool_id": 8941
+        },
+        {
+            "document": "test tool suggestion",
+            "tool_id": 8941,
+            "type": "trig"
+        },
+        {
+            "document": "Calls the debug tool call API",
+            "tool_id": 8941,
+            "type": "desc"
+        },
+        {
+            "document": "Test Tool Suggestion",
+            "type": "name",
+            "tool_id": 8941
+        }
+    ],
+    "8949": [
+        {
+            "document": "record screen",
+            "tool_id": 8949,
+            "type": "trig"
+        },
+        {
+            "document": "screen recording",
+            "tool_id": 8949,
+            "type": "trig"
+        },
+        {
+            "document": "Capture your screen with ease.",
+            "tool_id": 8949,
+            "type": "desc"
+        },
+        {
+            "document": "Record Screen",
+            "type": "name",
+            "tool_id": 8949
+        }
+    ],
+    "8954": [
+        {
+            "document": "capture screen",
+            "tool_id": 8954,
+            "type": "trig"
+        },
+        {
+            "document": "Open the Sniping tool to capture screen ",
+            "type": "desc",
+            "tool_id": 8954
+        },
+        {
+            "document": "Capture Screen",
+            "tool_id": 8954,
+            "type": "name"
+        }
+    ],
+    "8956": [
+        {
+            "document": "manage user prompts",
+            "type": "trig",
+            "tool_id": 8956
+        },
+        {
+            "document": "delete user prompts for tool call API",
+            "type": "trig",
+            "tool_id": 8956
+        },
+        {
+            "document": "view tool call user prompt embeddings",
+            "tool_id": 8956,
+            "type": "trig"
+        },
+        {
+            "document": "View and delete user prompts that have been added to Chroma DB embedding database in MaxGPT's tool call API.",
+            "tool_id": 8956,
+            "type": "desc"
+        },
+        {
+            "document": "Manage User Prompts",
+            "tool_id": 8956,
+            "type": "name"
+        }
+    ],
+    "8985": [
+        {
+            "document": "Remind me in 10 minutes to call Mr. ABC.",
+            "tool_id": 8985,
+            "type": "trig"
+        },
+        {
+            "document": "Set reminder",
+            "type": "trig",
+            "tool_id": 8985
+        },
+        {
+            "document": "Remind me after 5 seconds",
+            "tool_id": 8985,
+            "type": "trig"
+        },
+        {
+            "document": "Set quick reminders to keep you on track.",
+            "type": "desc",
+            "tool_id": 8985
+        },
+        {
+            "document": "Reminder",
+            "type": "name",
+            "tool_id": 8985
+        }
+    ],
+    "8986": [
+        {
+            "document": "Edit Video",
+            "tool_id": 8986,
+            "type": "trig"
+        },
+        {
+            "document": "Edit the screen recording video.",
+            "type": "trig",
+            "tool_id": 8986
+        },
+        {
+            "document": "Edit the video provided above.",
+            "tool_id": 8986,
+            "type": "trig"
+        },
+        {
+            "document": "Open the video editor",
+            "tool_id": 8986,
+            "type": "desc"
+        },
+        {
+            "document": "Edit Video",
+            "type": "name",
+            "tool_id": 8986
+        }
+    ],
+    "9020": [
+        {
+            "document": "Do design exploration with Excel",
+            "tool_id": 9020,
+            "type": "trig"
+        },
+        {
+            "document": "Do a design of experiment (DOE) and helps users explore the design space and find optimal solutions.",
+            "tool_id": 9020,
+            "type": "desc"
+        },
+        {
+            "document": "Design Exploration",
+            "tool_id": 9020,
+            "type": "name"
+        }
+    ],
+    "9047": [
+        {
+            "document": "Answer questions based on document.",
+            "tool_id": 9047,
+            "type": "trig"
+        },
+        {
+            "document": "Chat with document",
+            "tool_id": 9047,
+            "type": "trig"
+        },
+        {
+            "document": "document qa",
+            "tool_id": 9047,
+            "type": "trig"
+        },
+        {
+            "document": "Answer questions based on document.",
+            "tool_id": 9047,
+            "type": "desc"
+        },
+        {
+            "document": "Document Q&A",
+            "type": "name",
+            "tool_id": 9047
+        }
+    ],
+    "9048": [
+        {
+            "document": "get gpts data",
+            "type": "trig",
+            "tool_id": 9048
+        },
+        {
+            "document": "download gpts data",
+            "type": "trig",
+            "tool_id": 9048
+        },
+        {
+            "document": "Gets the json data of the available GPTs in the Tool Call API.",
+            "tool_id": 9048,
+            "type": "desc"
+        },
+        {
+            "document": "Get GPTs Data",
+            "tool_id": 9048,
+            "type": "name"
+        }
+    ],
+    "9049": [
+        {
+            "document": "update gpts data",
+            "type": "trig",
+            "tool_id": 9049
+        },
+        {
+            "document": "upload gpts data",
+            "tool_id": 9049,
+            "type": "trig"
+        },
+        {
+            "document": "upload gpts json",
+            "type": "trig",
+            "tool_id": 9049
+        },
+        {
+            "document": "update gpts embeddings",
+            "type": "trig",
+            "tool_id": 9049
+        },
+        {
+            "document": "Updates the embeddings for GPT store tools in the Tool Call API.",
+            "type": "desc",
+            "tool_id": 9049
+        },
+        {
+            "document": "Update GPTs Data",
+            "tool_id": 9049,
+            "type": "name"
+        }
+    ],
+    "9091": [
+        {
+            "document": "Answer questions that needs up-to-date information from the internet. This is a quick search, not a deep search.",
+            "tool_id": 9091,
+            "type": "desc"
+        },
+        {
+            "document": "Live Web Search",
+            "type": "name",
+            "tool_id": 9091
+        }
+    ],
+    "9119": [
+        {
+            "document": "open 3d viewer",
+            "type": "trig",
+            "tool_id": 9119
+        },
+        {
+            "document": "Open the 3d viewer and load a 3d file if provided.",
+            "type": "desc",
+            "tool_id": 9119
+        },
+        {
+            "document": "3D Visualizer",
+            "type": "name",
+            "tool_id": 9119
+        }
+    ],
+    "9130": [
+        {
+            "document": "I have a question about the law consulting contract",
+            "type": "trig",
+            "tool_id": 9130
+        },
+        {
+            "document": "Answer question about the law consulting contract",
+            "type": "desc",
+            "tool_id": 9130
+        },
+        {
+            "document": "Test copilot",
+            "tool_id": 9130,
+            "type": "name"
+        }
+    ],
+    "9170": [
+        {
+            "document": "Try the latest GPT models",
+            "type": "desc",
+            "tool_id": 9170
+        },
+        {
+            "document": "GPT Models",
+            "tool_id": 9170,
+            "type": "name"
+        }
+    ],
+    "9219": [
+        {
+            "document": "data analysis",
+            "type": "trig",
+            "tool_id": 9219
+        },
+        {
+            "document": "create plot",
+            "type": "trig",
+            "tool_id": 9219
+        },
+        {
+            "document": "analyze and plot",
+            "type": "trig",
+            "tool_id": 9219
+        },
+        {
+            "document": "do data analysis",
+            "tool_id": 9219,
+            "type": "trig"
+        },
+        {
+            "document": "data analyst",
+            "type": "trig",
+            "tool_id": 9219
+        },
+        {
+            "document": "do data analysis for the above file",
+            "type": "trig",
+            "tool_id": 9219
+        },
+        {
+            "document": "sumarize the above data",
+            "tool_id": 9219,
+            "type": "trig"
+        },
+        {
+            "document": "sumarize the data",
+            "tool_id": 9219,
+            "type": "trig"
+        },
+        {
+            "document": "Do data analysis including plotting on a set of data.",
+            "type": "desc",
+            "tool_id": 9219
+        },
+        {
+            "document": "Data Analysis",
+            "type": "name",
+            "tool_id": 9219
+        }
+    ],
+    "9249": [
+        {
+            "document": "extract data in log to dataset",
+            "type": "desc",
+            "tool_id": 9249
+        },
+        {
+            "document": "Log2Dataset",
+            "tool_id": 9249,
+            "type": "name"
+        }
+    ],
+    "9250": [
+        {
+            "document": "record audio",
+            "type": "trig",
+            "tool_id": 9250
+        },
+        {
+            "document": "This is tool for recording audio",
+            "tool_id": 9250,
+            "type": "desc"
+        },
+        {
+            "document": "Record Audio",
+            "tool_id": 9250,
+            "type": "name"
+        }
+    ],
+    "9260": [
+        {
+            "document": "Test",
+            "tool_id": 9260,
+            "type": "desc"
+        },
+        {
+            "document": "Chau Experiment",
+            "type": "name",
+            "tool_id": 9260
+        }
+    ],
+    "9296": [
+        {
+            "document": "test web automation",
+            "tool_id": 9296,
+            "type": "desc"
+        },
+        {
+            "document": "Test Web Automation - Binh",
+            "tool_id": 9296,
+            "type": "name"
+        }
+    ],
+    "9308": [
+        {
+            "document": "Pay UIUC Rent",
+            "type": "desc",
+            "tool_id": 9308
+        },
+        {
+            "document": "Pay UIUC Rent",
+            "tool_id": 9308,
+            "type": "name"
+        }
+    ],
+    "9310": [
+        {
+            "document": "Request Alias Record",
+            "tool_id": 9310,
+            "type": "desc"
+        },
+        {
+            "document": "Request Alias Record",
+            "type": "name",
+            "tool_id": 9310
+        }
+    ],
+    "9311": [
+        {
+            "document": "Get amazon invoices",
+            "type": "desc",
+            "tool_id": 9311
+        },
+        {
+            "document": "Amazon Web Automation",
+            "tool_id": 9311,
+            "type": "name"
+        }
+    ],
+    "9312": [
+        {
+            "document": "Chrome river automations",
+            "tool_id": 9312,
+            "type": "desc"
+        },
+        {
+            "document": "Test Chrome River Integration",
+            "type": "name",
+            "tool_id": 9312
+        }
+    ],
+    "9313": [
+        {
+            "document": "get inbox in outlook and create suggestions",
+            "type": "desc",
+            "tool_id": 9313
+        },
+        {
+            "document": "Process Outlook Emails",
+            "type": "name",
+            "tool_id": 9313
+        }
+    ],
+    "9317": [
+        {
+            "document": "process mail",
+            "type": "desc",
+            "tool_id": 9317
+        },
+        {
+            "document": "Process gmail v2 - with settings",
+            "tool_id": 9317,
+            "type": "name"
+        }
+    ],
+    "9318": [
+        {
+            "document": "settings gmail",
+            "type": "desc",
+            "tool_id": 9318
+        },
+        {
+            "document": "Email Settings",
+            "type": "name",
+            "tool_id": 9318
+        }
+    ],
+    "9327": [
+        {
+            "document": "open my folder",
+            "type": "trig",
+            "tool_id": 9327
+        },
+        {
+            "document": "open my data folder",
+            "type": "trig",
+            "tool_id": 9327
+        },
+        {
+            "document": "Show cloud folder User Data folder and the Current Conversation folder. Helpful for user to upload or download files from cloud.",
+            "tool_id": 9327,
+            "type": "desc"
+        },
+        {
+            "document": "Open my cloud folders",
+            "tool_id": 9327,
+            "type": "name"
+        }
+    ],
+    "9331": [
+        {
+            "document": "DOE Data Analytics",
+            "type": "desc",
+            "tool_id": 9331
+        },
+        {
+            "document": "DOE Data Analytics",
+            "tool_id": 9331,
+            "type": "name"
+        }
+    ],
+    "9346": [
+        {
+            "document": "Trả lời câu hỏi về luật VN",
+            "tool_id": 9346,
+            "type": "desc"
+        },
+        {
+            "document": "VN Law (Không hướng dẫn)",
+            "type": "name",
+            "tool_id": 9346
+        }
+    ],
+    "9347": [
+        {
+            "document": "Tạo hợp đồng lao động",
+            "type": "trig",
+            "tool_id": 9347
+        },
+        {
+            "document": "Tạo hợp đồng lao động cho nhân viên mới.",
+            "type": "desc",
+            "tool_id": 9347
+        },
+        {
+            "document": "Labor Contract Generator",
+            "tool_id": 9347,
+            "type": "name"
+        }
+    ],
+    "9348": [
+        {
+            "document": "Get my user folder",
+            "tool_id": 9348,
+            "type": "desc"
+        },
+        {
+            "document": "Get user folder",
+            "type": "name",
+            "tool_id": 9348
+        }
+    ],
+    "9353": [
+        {
+            "document": "Reviews legal contracts",
+            "type": "desc",
+            "tool_id": 9353
+        },
+        {
+            "document": "VN Law - Sửa Hợp đồng",
+            "tool_id": 9353,
+            "type": "name"
+        }
+    ],
+    "9354": [
+        {
+            "document": "Chuyển hợp đồng từ Word sang markdown theo định dạng của Maxflow.",
+            "tool_id": 9354,
+            "type": "desc"
+        },
+        {
+            "document": "Chuyen_sang_markdown",
+            "tool_id": 9354,
+            "type": "name"
+        }
+    ],
+    "9355": [
+        {
+            "document": "Test markdown template xem dien so that vao no nhu the nao.",
+            "tool_id": 9355,
+            "type": "desc"
+        },
+        {
+            "document": "Thu markdown voi gia tri that cho de nhin",
+            "tool_id": 9355,
+            "type": "name"
+        }
+    ],
+    "9362": [
+        {
+            "document": "Tạo hợp đồng theo yêu cầu người dùng",
+            "tool_id": 9362,
+            "type": "desc"
+        },
+        {
+            "document": "Contract Generator",
+            "tool_id": 9362,
+            "type": "name"
+        }
+    ],
+    "9363": [
+        {
+            "document": "open python coder",
+            "type": "trig",
+            "tool_id": 9363
+        },
+        {
+            "document": "Open the code editor for users to manually write python code.",
+            "type": "desc",
+            "tool_id": 9363
+        },
+        {
+            "document": "Open Code Editor",
+            "tool_id": 9363,
+            "type": "name"
+        }
+    ],
+    "9368": [
+        {
+            "document": "generate image",
+            "tool_id": 9368,
+            "type": "trig"
+        },
+        {
+            "document": "create image",
+            "type": "trig",
+            "tool_id": 9368
+        },
+        {
+            "document": "draw image",
+            "tool_id": 9368,
+            "type": "trig"
+        },
+        {
+            "document": "image",
+            "type": "trig",
+            "tool_id": 9368
+        },
+        {
+            "document": "draw something as a picture",
+            "tool_id": 9368,
+            "type": "trig"
+        },
+        {
+            "document": "Generate or edit an image with text description",
+            "tool_id": 9368,
+            "type": "desc"
+        },
+        {
+            "document": "Generate Image",
+            "type": "name",
+            "tool_id": 9368
+        }
+    ],
+    "9369": [
+        {
+            "document": "Create a CAD model based on a description",
+            "type": "desc",
+            "tool_id": 9369
+        },
+        {
+            "document": "Text to CAD",
+            "tool_id": 9369,
+            "type": "name"
+        }
+    ],
+    "9370": [
+        {
+            "document": "Dear Hunting Permit",
+            "tool_id": 9370,
+            "type": "trig"
+        },
+        {
+            "document": "POH Deer hunting permit",
+            "tool_id": 9370,
+            "type": "trig"
+        },
+        {
+            "document": "Dear Hunting Permit Application or Renewal",
+            "type": "desc",
+            "tool_id": 9370
+        },
+        {
+            "document": "Get Hunting Permit",
+            "tool_id": 9370,
+            "type": "name"
+        }
+    ],
+    "9372": [
+        {
+            "document": "Get current user location location, if not provided.",
+            "tool_id": 9372,
+            "type": "desc"
+        },
+        {
+            "document": "Get User Location",
+            "tool_id": 9372,
+            "type": "name"
+        }
+    ],
+    "9374": [
+        {
+            "document": "download youtube video: <youtube link>",
+            "type": "trig",
+            "tool_id": 9374
+        },
+        {
+            "document": "youtube to mp4 tool",
+            "tool_id": 9374,
+            "type": "trig"
+        },
+        {
+            "document": "download youtube link: <youtube link>",
+            "type": "trig",
+            "tool_id": 9374
+        },
+        {
+            "document": "Download Youtube video as mp4 file. Youtube to mp4 converter.",
+            "tool_id": 9374,
+            "type": "desc"
+        },
+        {
+            "document": "Download Youtube Video",
+            "tool_id": 9374,
+            "type": "name"
+        }
+    ],
+    "9375": [
+        {
+            "document": "[Generate, create] monthly financial report for uiuc econ department",
+            "type": "trig",
+            "tool_id": 9375
+        },
+        {
+            "document": "Download UIUC Econ Department Monthly Financial Report",
+            "type": "desc",
+            "tool_id": 9375
+        },
+        {
+            "document": "Download UIUC Econ Department Monthly Financial Re",
+            "tool_id": 9375,
+            "type": "name"
+        }
+    ],
+    "9393": [
+        {
+            "document": "Answer questions about Maxflow corporate travel policy. Not for generic traveling advice.",
+            "type": "desc",
+            "tool_id": 9393
+        },
+        {
+            "document": "Maxflow Travel Policy",
+            "tool_id": 9393,
+            "type": "name"
+        }
+    ],
+    "9396": [
+        {
+            "document": "Test agent for web automation builder",
+            "tool_id": 9396,
+            "type": "desc"
+        },
+        {
+            "document": "Dat test",
+            "tool_id": 9396,
+            "type": "name"
+        }
+    ],
+    "9397": [
+        {
+            "document": "Build automated workflow with step by step prompting",
+            "tool_id": 9397,
+            "type": "desc"
+        },
+        {
+            "document": "Workflow Builder",
+            "tool_id": 9397,
+            "type": "name"
+        }
+    ],
+    "9398": [
+        {
+            "document": "Help write email replies, without access to email account.",
+            "tool_id": 9398,
+            "type": "desc"
+        },
+        {
+            "document": "Prepare Email Reply",
+            "type": "name",
+            "tool_id": 9398
+        }
+    ],
+    "9399": [
+        {
+            "document": "What is the difference between you and ChatGPT",
+            "type": "trig",
+            "tool_id": 9399
+        },
+        {
+            "document": "Compare yourself with ChatGPT",
+            "type": "trig",
+            "tool_id": 9399
+        },
+        {
+            "document": "Compare and highlight the difference between you (maxflow.ai) and ChatGPT.",
+            "type": "desc",
+            "tool_id": 9399
+        },
+        {
+            "document": "Compare to ChatGPT",
+            "tool_id": 9399,
+            "type": "name"
+        }
+    ],
+    "9400": [
+        {
+            "document": "Why Maxflow",
+            "tool_id": 9400,
+            "type": "trig"
+        },
+        {
+            "document": "Why is Maxflow team is right for this platform",
+            "tool_id": 9400,
+            "type": "trig"
+        },
+        {
+            "document": "Answer the question: why is Maxflow the right team for this platform",
+            "type": "desc",
+            "tool_id": 9400
+        },
+        {
+            "document": "Why Maxflow for GenAI",
+            "tool_id": 9400,
+            "type": "name"
+        }
+    ],
+    "9402": [
+        {
+            "document": "Update Preferences for Simple Email Reply",
+            "type": "desc",
+            "tool_id": 9402
+        },
+        {
+            "document": "Update Preferences for Simple Email Reply",
+            "type": "name",
+            "tool_id": 9402
+        }
+    ],
+    "9404": [
+        {
+            "document": "Test Khai",
+            "type": "desc",
+            "tool_id": 9404
+        },
+        {
+            "document": "Khai Test",
+            "type": "name",
+            "tool_id": 9404
+        }
+    ],
+    "9410": [
+        {
+            "document": "test",
+            "type": "desc",
+            "tool_id": 9410
+        },
+        {
+            "document": "Temp",
+            "type": "name",
+            "tool_id": 9410
+        }
+    ],
+    "9412": [
+        {
+            "document": "Download",
+            "type": "desc",
+            "tool_id": 9412
+        },
+        {
+            "document": "Download File Web Automation",
+            "tool_id": 9412,
+            "type": "name"
+        }
+    ],
+    "9420": [
+        {
+            "document": "Uiuc course registration",
+            "tool_id": 9420,
+            "type": "desc"
+        },
+        {
+            "document": "uiuc course registration",
+            "type": "name",
+            "tool_id": 9420
+        }
+    ],
+    "9425": [
+        {
+            "document": "For fun, if you want to try out someone cold.",
+            "type": "desc",
+            "tool_id": 9425
+        },
+        {
+            "document": "Cold Mode",
+            "tool_id": 9425,
+            "type": "name"
+        }
+    ],
+    "9428": [
+        {
+            "document": "Run Payroll",
+            "tool_id": 9428,
+            "type": "desc"
+        },
+        {
+            "document": "Run Payroll",
+            "tool_id": 9428,
+            "type": "name"
+        }
+    ],
+    "9434": [
+        {
+            "document": "Testing. Don't call",
+            "type": "desc",
+            "tool_id": 9434
+        },
+        {
+            "document": "Web Automation Prompting - Binh",
+            "type": "name",
+            "tool_id": 9434
+        }
+    ],
+    "9439": [
+        {
+            "document": "generate the 3D model for a",
+            "tool_id": 9439,
+            "type": "trig"
+        },
+        {
+            "document": "Generate a 3D model based on a description",
+            "type": "desc",
+            "tool_id": 9439
+        },
+        {
+            "document": "Generate a  3D model",
+            "type": "name",
+            "tool_id": 9439
+        }
+    ],
+    "9440": [
+        {
+            "document": "dich van ban",
+            "tool_id": 9440,
+            "type": "trig"
+        },
+        {
+            "document": "dich cac file van ban tu ngon ngu goc sang ngon ngu duoc chon",
+            "type": "trig",
+            "tool_id": 9440
+        },
+        {
+            "document": "dịch văn bản",
+            "type": "trig",
+            "tool_id": 9440
+        },
+        {
+            "document": "translate a document",
+            "type": "trig",
+            "tool_id": 9440
+        },
+        {
+            "document": "Translate a document from one language to another while preserving the document format.",
+            "type": "desc",
+            "tool_id": 9440
+        },
+        {
+            "document": "Document Translator",
+            "type": "name",
+            "tool_id": 9440
+        }
+    ],
+    "9447": [
+        {
+            "document": "Convert Voice to Sign Language Info",
+            "tool_id": 9447,
+            "type": "desc"
+        },
+        {
+            "document": "Convert Voice to Sign Language Info",
+            "tool_id": 9447,
+            "type": "name"
+        }
+    ],
+    "9449": [
+        {
+            "document": "Convert ASL Gloss To Hamnosys",
+            "type": "desc",
+            "tool_id": 9449
+        },
+        {
+            "document": "ASL Gloss To Hamnosys",
+            "tool_id": 9449,
+            "type": "name"
+        }
+    ],
+    "9450": [
+        {
+            "document": "Report the tokens used by users and agents.",
+            "type": "desc",
+            "tool_id": 9450
+        },
+        {
+            "document": "User Usage Reporter",
+            "tool_id": 9450,
+            "type": "name"
+        }
+    ],
+    "9451": [
+        {
+            "document": "web auto test performance of FE",
+            "type": "desc",
+            "tool_id": 9451
+        },
+        {
+            "document": "WAB Test performance",
+            "tool_id": 9451,
+            "type": "name"
+        }
+    ],
+    "9453": [
+        {
+            "document": "Build automated workflow",
+            "type": "desc",
+            "tool_id": 9453
+        },
+        {
+            "document": "Workflow Builder",
+            "type": "name",
+            "tool_id": 9453
+        }
+    ],
+    "9472": [
+        {
+            "document": "Opens Google, searches for 'swan fun facts', copies a fun fact, and sends it back to the user.",
+            "type": "desc",
+            "tool_id": 9472
+        },
+        {
+            "document": "Swan Fun Fact Finder",
+            "tool_id": 9472,
+            "type": "name"
+        }
+    ],
+    "9473": [
+        {
+            "document": "Automates the process of opening Google, searching for 'Harding Pipeline', accessing the first result, navigating to the student tab, selecting 'degree evaluation', and then choosing 'uachieve'.",
+            "tool_id": 9473,
+            "type": "desc"
+        },
+        {
+            "document": "Harding Pipeline Degree Evaluation",
+            "type": "name",
+            "tool_id": 9473
+        }
+    ],
+    "9474": [
+        {
+            "document": "This tool opens Gmail and automatically opens the top (most recent) email in the inbox.",
+            "type": "desc",
+            "tool_id": 9474
+        },
+        {
+            "document": "Open Gmail and Read Top Email",
+            "tool_id": 9474,
+            "type": "name"
+        }
+    ],
+    "9476": [
+        {
+            "document": "Automates the process of opening Google, searching for 'harding pipeline', navigating to the first result, searching for 'schedule' within the pipeline, and selecting 'My Classes (registration)', then 'my class schedule', and finally 'next term'.",
+            "tool_id": 9476,
+            "type": "desc"
+        },
+        {
+            "document": "Harding Pipeline Class Schedule Navigator",
+            "tool_id": 9476,
+            "type": "name"
+        }
+    ],
+    "9529": [
+        {
+            "document": "Create Automated Workflow from Conversation",
+            "type": "name",
+            "tool_id": 9529
+        },
+        {
+            "document": "Save this conversation as an automated workflow. ",
+            "tool_id": 9529,
+            "type": "desc"
+        }
+    ],
+    "9539": [
+        {
+            "document": "open a web page",
+            "type": "trig",
+            "tool_id": 9539
+        },
+        {
+            "document": "download file",
+            "tool_id": 9539,
+            "type": "trig"
+        },
+        {
+            "document": "click on",
+            "tool_id": 9539,
+            "type": "trig"
+        },
+        {
+            "document": "Browse the Web, including going to an web page or URL, take actions, downloaf files, or get data.",
+            "tool_id": 9539,
+            "type": "desc"
+        },
+        {
+            "document": "Browse the Web",
+            "tool_id": 9539,
+            "type": "name"
+        }
+    ],
+    "9554": [
+        {
+            "document": "Write Python Code to Solve Problem without Executing/Running the code.",
+            "type": "desc",
+            "tool_id": 9554
+        },
+        {
+            "document": "Write Python Code without Executing",
+            "tool_id": 9554,
+            "type": "name"
+        }
+    ],
+    "9565": [
+        {
+            "document": "Send SMS",
+            "type": "trig",
+            "tool_id": 9565
+        },
+        {
+            "document": "Send text message",
+            "tool_id": 9565,
+            "type": "trig"
+        },
+        {
+            "document": "Send SMS",
+            "type": "desc",
+            "tool_id": 9565
+        },
+        {
+            "document": "Send SMS",
+            "type": "name",
+            "tool_id": 9565
+        }
+    ],
+    "9566": [
+        {
+            "document": "send email",
+            "tool_id": 9566,
+            "type": "trig"
+        },
+        {
+            "document": "email",
+            "tool_id": 9566,
+            "type": "trig"
+        },
+        {
+            "document": "Send an email",
+            "type": "desc",
+            "tool_id": 9566
+        },
+        {
+            "document": "Send Email",
+            "type": "name",
+            "tool_id": 9566
+        },
+        {
+            "document": "email to",
+            "tool_id": 9566,
+            "type": "trig"
+        }
+    ],
+    "9567": [
+        {
+            "document": "Get My Email Address",
+            "tool_id": 9567,
+            "type": "desc"
+        },
+        {
+            "document": "Get My Email Address",
+            "tool_id": 9567,
+            "type": "name"
+        }
+    ],
+    "9569": [
+        {
+            "document": "353453",
+            "tool_id": 9569,
+            "type": "desc"
+        },
+        {
+            "document": "Khai Test UI UC",
+            "type": "name",
+            "tool_id": 9569
+        }
+    ],
+    "9570": [
+        {
+            "document": "I want to summarize a RFP.",
+            "type": "trig",
+            "tool_id": 9570
+        },
+        {
+            "document": "I want to analyze a RFP.",
+            "tool_id": 9570,
+            "type": "trig"
+        },
+        {
+            "document": "Analyze the Request for Proposal (RFP) and create a summary. This is the simple version.",
+            "tool_id": 9570,
+            "type": "desc"
+        },
+        {
+            "document": "RFP Analyzer simple",
+            "type": "name",
+            "tool_id": 9570
+        }
+    ],
+    "9575": [
+        {
+            "document": "Record Web Browsing Actions",
+            "tool_id": 9575,
+            "type": "name"
+        },
+        {
+            "document": "Recording user action on a browser so that it can be played back later.",
+            "type": "desc",
+            "tool_id": 9575
+        }
+    ],
+    "9602": [
+        {
+            "document": "Re-index Index Search Database",
+            "type": "desc",
+            "tool_id": 9602
+        },
+        {
+            "document": "Re-index Index Search Database",
+            "tool_id": 9602,
+            "type": "name"
+        }
+    ],
+    "9606": [
+        {
+            "document": "Extract information page by page.",
+            "tool_id": 9606,
+            "type": "desc"
+        },
+        {
+            "document": "PDF Info Extract page by page",
+            "type": "name",
+            "tool_id": 9606
+        }
+    ],
+    "9618": [
+        {
+            "document": "Test Simple Assistant Python Functions",
+            "tool_id": 9618,
+            "type": "desc"
+        },
+        {
+            "document": "Test Simple Assistant Python Functions",
+            "type": "name",
+            "tool_id": 9618
+        }
+    ],
+    "9619": [
+        {
+            "document": "Convert Scanned PDF File into a text-based PDF or Markdown file",
+            "type": "desc",
+            "tool_id": 9619
+        },
+        {
+            "document": "Convert Scanned PDF File",
+            "type": "name",
+            "tool_id": 9619
+        }
+    ],
+    "9622": [
+        {
+            "document": "RFP Analyzer Comprehensive",
+            "type": "desc",
+            "tool_id": 9622
+        },
+        {
+            "document": "RFP Analyzer Comprehensive",
+            "type": "name",
+            "tool_id": 9622
+        }
+    ],
+    "9624": [
+        {
+            "document": "Browse the Web, including going to an web page or URL, take actions, downloaf files, or get data.",
+            "type": "desc",
+            "tool_id": 9624
+        },
+        {
+            "document": "Browse The Web - NO LOOP",
+            "tool_id": 9624,
+            "type": "name"
+        }
+    ],
+    "9627": [
+        {
+            "document": "Test Greetings",
+            "tool_id": 9627,
+            "type": "desc"
+        },
+        {
+            "document": "Test Greetings",
+            "type": "name",
+            "tool_id": 9627
+        }
+    ],
+    "9635": [
+        {
+            "document": "upload file thuật ngữ",
+            "type": "trig",
+            "tool_id": 9635
+        },
+        {
+            "document": "upload glossary file",
+            "type": "trig",
+            "tool_id": 9635
+        },
+        {
+            "document": "glossary file",
+            "tool_id": 9635,
+            "type": "trig"
+        },
+        {
+            "document": "Update the glossary file for use by the Document Translator agent",
+            "tool_id": 9635,
+            "type": "desc"
+        },
+        {
+            "document": "Update Glossary File for Document Translator",
+            "type": "name",
+            "tool_id": 9635
+        }
+    ],
+    "9636": [
+        {
+            "document": "Notes for agent creation.",
+            "type": "desc",
+            "tool_id": 9636
+        },
+        {
+            "document": "Agent Creation Help",
+            "tool_id": 9636,
+            "type": "name"
+        }
+    ],
+    "9637": [
+        {
+            "document": "Test canvas",
+            "type": "desc",
+            "tool_id": 9637
+        },
+        {
+            "document": "Test canvas",
+            "tool_id": 9637,
+            "type": "name"
+        }
+    ],
+    "9640": [
+        {
+            "document": "EnterpriseWorks Rent Agreement",
+            "tool_id": 9640,
+            "type": "name"
+        },
+        {
+            "document": "Answer questions about the agreement with enterprise works, UIUC where my company Maxflow to be an affiliate. This is like a rent contract with special terms.",
+            "tool_id": 9640,
+            "type": "desc"
+        }
+    ],
+    "9643": [
+        {
+            "document": "Genie: Do not use this",
+            "tool_id": 9643,
+            "type": "desc"
+        },
+        {
+            "document": "Example of buttons and link buttons",
+            "type": "name",
+            "tool_id": 9643
+        }
+    ],
+    "9644": [
+        {
+            "document": "test 7",
+            "tool_id": 9644,
+            "type": "desc"
+        },
+        {
+            "document": "Test 7",
+            "type": "name",
+            "tool_id": 9644
+        }
+    ],
+    "9646": [
+        {
+            "document": "test cache",
+            "type": "desc",
+            "tool_id": 9646
+        },
+        {
+            "document": "test cache",
+            "type": "name",
+            "tool_id": 9646
+        }
+    ],
+    "9647": [
+        {
+            "document": "Testing",
+            "tool_id": 9647,
+            "type": "desc"
+        },
+        {
+            "document": "Binh Test",
+            "type": "name",
+            "tool_id": 9647
+        }
+    ],
+    "9648": [
+        {
+            "document": "test time uiuc",
+            "type": "desc",
+            "tool_id": 9648
+        },
+        {
+            "document": "Test UIUC",
+            "tool_id": 9648,
+            "type": "name"
+        }
+    ],
+    "9650": [
+        {
+            "document": "Show a picture from a picture file.",
+            "type": "desc",
+            "tool_id": 9650
+        },
+        {
+            "document": "Picture viewer",
+            "tool_id": 9650,
+            "type": "name"
+        }
+    ],
+    "9651": [
+        {
+            "document": "Generate a link to download a file that exists in this conversation.",
+            "tool_id": 9651,
+            "type": "desc"
+        },
+        {
+            "document": "Get file download link",
+            "tool_id": 9651,
+            "type": "name"
+        }
+    ],
+    "9668": [
+        {
+            "document": "Deep Search",
+            "type": "name",
+            "tool_id": 9668
+        },
+        {
+            "document": "Do a deep research using content on the web",
+            "type": "desc",
+            "tool_id": 9668
+        }
+    ],
+    "9671": [
+        {
+            "document": "Show a stock chart and live information about a stock.",
+            "type": "desc",
+            "tool_id": 9671
+        },
+        {
+            "document": "Get Live Stock Info",
+            "type": "name",
+            "tool_id": 9671
+        }
+    ],
+    "9686": [
+        {
+            "document": "45345",
+            "tool_id": 9686,
+            "type": "desc"
+        },
+        {
+            "document": "Khai test json form",
+            "tool_id": 9686,
+            "type": "name"
+        }
+    ],
+    "9690": [
+        {
+            "document": "create form",
+            "tool_id": 9690,
+            "type": "desc"
+        },
+        {
+            "document": "Create Form",
+            "tool_id": 9690,
+            "type": "name"
+        }
+    ],
+    "9692": [
+        {
+            "document": "Report",
+            "type": "desc",
+            "tool_id": 9692
+        },
+        {
+            "document": "Report",
+            "tool_id": 9692,
+            "type": "name"
+        }
+    ],
+    "9696": [
+        {
+            "document": "show form",
+            "tool_id": 9696,
+            "type": "desc"
+        },
+        {
+            "document": "Show Form",
+            "tool_id": 9696,
+            "type": "name"
+        }
+    ],
+    "9705": [
+        {
+            "document": "Create monthly project financial analysis report",
+            "tool_id": 9705,
+            "type": "desc"
+        },
+        {
+            "document": "Create Project Financial Status Report",
+            "type": "name",
+            "tool_id": 9705
+        }
+    ],
+    "9706": [
+        {
+            "document": "Upload Monthly Project Report for processing it and make it ready for the Project Monthly Status report agent.",
+            "type": "desc",
+            "tool_id": 9706
+        },
+        {
+            "document": "Upload Monthly Project Data",
+            "type": "name",
+            "tool_id": 9706
+        }
+    ],
+    "9724": [
+        {
+            "document": "Call LLM",
+            "tool_id": 9724,
+            "type": "desc"
+        },
+        {
+            "document": "Call LLM",
+            "type": "name",
+            "tool_id": 9724
+        }
+    ],
+    "9725": [
+        {
+            "document": "call LLM python code",
+            "type": "desc",
+            "tool_id": 9725
+        },
+        {
+            "document": "call LLM python code",
+            "type": "name",
+            "tool_id": 9725
+        }
+    ],
+    "9735": [
+        {
+            "document": "One Pager on how to create an agent.",
+            "tool_id": 9735,
+            "type": "desc"
+        },
+        {
+            "document": "How to Create Agent",
+            "type": "name",
+            "tool_id": 9735
+        }
+    ],
+    "9747": [
+        {
+            "document": "Stock analysis and recommendation",
+            "type": "desc",
+            "tool_id": 9747
+        },
+        {
+            "document": "Stock analysis and recommendation",
+            "type": "name",
+            "tool_id": 9747
+        }
+    ],
+    "9748": [
+        {
+            "document": "Generate hypothesis to assist a conversation for scientific discovery",
+            "type": "desc",
+            "tool_id": 9748
+        },
+        {
+            "document": "Hypothesis generator",
+            "type": "name",
+            "tool_id": 9748
+        }
+    ],
+    "9749": [
+        {
+            "document": "Research compiler",
+            "type": "desc",
+            "tool_id": 9749
+        },
+        {
+            "document": "Research compiler",
+            "tool_id": 9749,
+            "type": "name"
+        }
+    ],
+    "9750": [
+        {
+            "document": "Simulate some pythothesis and give results.",
+            "type": "desc",
+            "tool_id": 9750
+        },
+        {
+            "document": "Scientific Simulator",
+            "type": "name",
+            "tool_id": 9750
+        }
+    ],
+    "9754": [
+        {
+            "document": "AI",
+            "tool_id": 9754,
+            "type": "desc"
+        },
+        {
+            "document": "TEST",
+            "tool_id": 9754,
+            "type": "name"
+        }
+    ],
+    "9756": [
+        {
+            "document": "Làm thế nào để dùng chức năng đánh pickle ball trên máy?",
+            "type": "trig",
+            "tool_id": 9756
+        },
+        {
+            "document": "cách dùng mũ pickle ball ?",
+            "tool_id": 9756,
+            "type": "trig"
+        },
+        {
+            "document": "Test agent",
+            "tool_id": 9756,
+            "type": "desc"
+        },
+        {
+            "document": "Test",
+            "tool_id": 9756,
+            "type": "name"
+        }
+    ],
+    "9757": [
+        {
+            "document": "Resume automation process for searching Chau Le on Google",
+            "tool_id": 9757,
+            "type": "desc"
+        },
+        {
+            "document": "browser_the_web_hang_dev",
+            "tool_id": 9757,
+            "type": "name"
+        }
+    ],
+    "9763": [
+        {
+            "document": "Test Python Code",
+            "type": "desc",
+            "tool_id": 9763
+        },
+        {
+            "document": "Test Python Code",
+            "tool_id": 9763,
+            "type": "name"
+        }
+    ],
+    "9765": [
+        {
+            "document": "Show References for Previous Answer",
+            "type": "desc",
+            "tool_id": 9765
+        },
+        {
+            "document": "Show References for Previous Answer",
+            "type": "name",
+            "tool_id": 9765
+        }
+    ],
+    "9767": [
+        {
+            "document": "List all customer servers.",
+            "type": "desc",
+            "tool_id": 9767
+        },
+        {
+            "document": "List customer servers",
+            "tool_id": 9767,
+            "type": "name"
+        }
+    ],
+    "9768": [
+        {
+            "document": "Export Models",
+            "type": "trig",
+            "tool_id": 9768
+        },
+        {
+            "document": "Export Models",
+            "type": "desc",
+            "tool_id": 9768
+        },
+        {
+            "document": "Export Models",
+            "tool_id": 9768,
+            "type": "name"
+        }
+    ],
+    "9769": [
+        {
+            "document": "Import Models",
+            "type": "trig",
+            "tool_id": 9769
+        },
+        {
+            "document": "Import Models",
+            "type": "desc",
+            "tool_id": 9769
+        },
+        {
+            "document": "Import Models",
+            "tool_id": 9769,
+            "type": "name"
+        }
+    ],
+    "9770": [
+        {
+            "document": "Schedule",
+            "tool_id": 9770,
+            "type": "desc"
+        },
+        {
+            "document": "Schedule",
+            "tool_id": 9770,
+            "type": "name"
+        }
+    ],
+    "9774": [
+        {
+            "document": "Turn On Download Location Suggestion",
+            "type": "desc",
+            "tool_id": 9774
+        },
+        {
+            "document": "Turn On Download Location Suggestion",
+            "tool_id": 9774,
+            "type": "name"
+        }
+    ],
+    "9779": [
+        {
+            "document": "Export Agent",
+            "tool_id": 9779,
+            "type": "trig"
+        },
+        {
+            "document": "Export Agent",
+            "tool_id": 9779,
+            "type": "desc"
+        },
+        {
+            "document": "Export Agent",
+            "tool_id": 9779,
+            "type": "name"
+        }
+    ],
+    "9781": [
+        {
+            "document": "Agent Make Public",
+            "type": "desc",
+            "tool_id": 9781
+        },
+        {
+            "document": "Agent Make Public",
+            "type": "name",
+            "tool_id": 9781
+        }
+    ],
+    "9782": [
+        {
+            "document": "Check sprinkler head coverage",
+            "tool_id": 9782,
+            "type": "desc"
+        },
+        {
+            "document": "Check sprinkler head coverage",
+            "type": "name",
+            "tool_id": 9782
+        }
+    ],
+    "9783": [
+        {
+            "document": "Take user feedback.",
+            "tool_id": 9783,
+            "type": "desc"
+        },
+        {
+            "document": "Feedback",
+            "tool_id": 9783,
+            "type": "name"
+        }
+    ],
+    "9784": [
+        {
+            "document": "Show an example of a canvas response",
+            "tool_id": 9784,
+            "type": "desc"
+        },
+        {
+            "document": "Show Canvas Example",
+            "tool_id": 9784,
+            "type": "name"
+        }
+    ],
+    "9785": [
+        {
+            "document": "Test PDF BBB",
+            "type": "trig",
+            "tool_id": 9785
+        },
+        {
+            "document": "For test PDF ",
+            "type": "desc",
+            "tool_id": 9785
+        },
+        {
+            "document": "Test PDF BBB",
+            "tool_id": 9785,
+            "type": "name"
+        }
+    ],
+    "9788": [
+        {
+            "document": "Answer questions based on document.",
+            "tool_id": 9788,
+            "type": "trig"
+        },
+        {
+            "document": "Chat with document",
+            "tool_id": 9788,
+            "type": "trig"
+        },
+        {
+            "document": "document qa",
+            "type": "trig",
+            "tool_id": 9788
+        },
+        {
+            "document": "Answer questions based on document.",
+            "type": "desc",
+            "tool_id": 9788
+        },
+        {
+            "document": "Document Q&A(TP)",
+            "type": "name",
+            "tool_id": 9788
+        }
+    ],
+    "9817": [
+        {
+            "document": "Read Document Files including .pdf, .docx, .doc, .txt, .md, .html",
+            "tool_id": 9817,
+            "type": "desc"
+        },
+        {
+            "document": "Read Files for Content",
+            "tool_id": 9817,
+            "type": "name"
+        }
+    ],
+    "9819": [
+        {
+            "document": "Create Form Public Link",
+            "tool_id": 9819,
+            "type": "desc"
+        },
+        {
+            "document": "Create Public Link to a form",
+            "type": "name",
+            "tool_id": 9819
+        }
+    ],
+    "9820": [
+        {
+            "document": "Get Stock Historical Data",
+            "tool_id": 9820,
+            "type": "desc"
+        },
+        {
+            "document": "Get Stock Historical Data",
+            "type": "name",
+            "tool_id": 9820
+        }
+    ],
+    "9828": [
+        {
+            "document": "Import Agent",
+            "type": "desc",
+            "tool_id": 9828
+        },
+        {
+            "document": "Import Agent",
+            "type": "name",
+            "tool_id": 9828
+        }
+    ],
+    "9830": [
+        {
+            "document": "This agent will answer your questions about SLIM and its software, Fiji, and ImageJ.",
+            "tool_id": 9830,
+            "type": "desc"
+        },
+        {
+            "document": "SLIM Instruction ",
+            "type": "name",
+            "tool_id": 9830
+        }
+    ],
+    "9839": [
+        {
+            "document": "Answer fundamental biology questions ",
+            "type": "desc",
+            "tool_id": 9839
+        },
+        {
+            "document": "Biology Mentor ",
+            "type": "name",
+            "tool_id": 9839
+        }
+    ],
+    "9841": [
+        {
+            "document": "For Admin Only, show messages before it is sent to GPTs. To enable, start a conversation with #debug:",
+            "type": "desc",
+            "tool_id": 9841
+        },
+        {
+            "document": "Show Debug Messages",
+            "tool_id": 9841,
+            "type": "name"
+        }
+    ],
+    "9845": [
+        {
+            "document": "56546",
+            "type": "desc",
+            "tool_id": 9845
+        },
+        {
+            "document": "khai test",
+            "tool_id": 9845,
+            "type": "name"
+        }
+    ],
+    "9850": [
+        {
+            "document": "Compare the two documents and highlight minor changes\n",
+            "type": "desc",
+            "tool_id": 9850
+        },
+        {
+            "document": "Compare the two documents for minor changes",
+            "tool_id": 9850,
+            "type": "name"
+        }
+    ],
+    "9851": [
+        {
+            "document": "Convert .doc to .docx",
+            "type": "desc",
+            "tool_id": 9851
+        },
+        {
+            "document": "Convert .doc to .docx",
+            "tool_id": 9851,
+            "type": "name"
+        }
+    ],
+    "9853": [
+        {
+            "document": "Answer questions about a document based on a document",
+            "type": "desc",
+            "tool_id": 9853
+        },
+        {
+            "document": "Simple Assistant Test",
+            "tool_id": 9853,
+            "type": "name"
+        }
+    ],
+    "9854": [
+        {
+            "document": "Compare this contract with Serac standard contract",
+            "type": "trig",
+            "tool_id": 9854
+        },
+        {
+            "document": "Review contract equipment supply",
+            "tool_id": 9854,
+            "type": "desc"
+        },
+        {
+            "document": "Serac Contract Reviewer",
+            "tool_id": 9854,
+            "type": "name"
+        }
+    ],
+    "9855": [
+        {
+            "document": "786786786",
+            "tool_id": 9855,
+            "type": "desc"
+        },
+        {
+            "document": "Test Gmail- Khai",
+            "type": "name",
+            "tool_id": 9855
+        }
+    ],
+    "9856": [
+        {
+            "document": "test",
+            "type": "desc",
+            "tool_id": 9856
+        },
+        {
+            "document": "test",
+            "type": "name",
+            "tool_id": 9856
+        }
+    ],
+    "9858": [
+        {
+            "document": "Test agent Thanh Do",
+            "type": "trig",
+            "tool_id": 9858
+        },
+        {
+            "document": "Test agent Thanh Do",
+            "type": "desc",
+            "tool_id": 9858
+        },
+        {
+            "document": "Test agent Thanh Do",
+            "tool_id": 9858,
+            "type": "name"
+        }
+    ],
+    "9859": [
+        {
+            "document": "Playback web automation script",
+            "tool_id": 9859,
+            "type": "desc"
+        },
+        {
+            "document": "Playback web automation script",
+            "tool_id": 9859,
+            "type": "name"
+        }
+    ],
+    "9860": [
+        {
+            "document": "Contract Review Serac",
+            "type": "desc",
+            "tool_id": 9860
+        },
+        {
+            "document": "Serac Test#2",
+            "type": "name",
+            "tool_id": 9860
+        }
+    ],
+    "9861": [
+        {
+            "document": "contract reviewer",
+            "type": "desc",
+            "tool_id": 9861
+        },
+        {
+            "document": "Serac #3",
+            "tool_id": 9861,
+            "type": "name"
+        }
+    ],
+    "9862": [
+        {
+            "document": "test serac",
+            "type": "desc",
+            "tool_id": 9862
+        },
+        {
+            "document": "test #4",
+            "tool_id": 9862,
+            "type": "name"
+        }
+    ],
+    "9864": [
+        {
+            "document": "Retrieve Python Code from a file",
+            "type": "desc",
+            "tool_id": 9864
+        },
+        {
+            "document": "Retrieve Python code from file",
+            "tool_id": 9864,
+            "type": "name"
+        }
+    ],
+    "9865": [
+        {
+            "document": "A workflow to compare two Python files using a Python script and output the differences.",
+            "type": "desc",
+            "tool_id": 9865
+        },
+        {
+            "document": "File Comparison Workflow",
+            "tool_id": 9865,
+            "type": "name"
+        }
+    ],
+    "9691": [
+        {
+            "document": "Execute Python Code",
+            "tool_id": 9691,
+            "type": "name"
+        },
+        {
+            "document": "Execute a python code and return the result.",
+            "tool_id": 9691,
+            "type": "desc"
+        }
+    ],
+    "9866": [
+        {
+            "document": "A workflow to retrieve historical stock data for NVIDIA (NVDA), analyze it using Python scripts, generate visualizations, and provide a buy/sell recommendation.",
+            "type": "desc",
+            "tool_id": 9866
+        },
+        {
+            "document": "NVDA Stock Analysis Workflow (loi execute nham pyt",
+            "type": "name",
+            "tool_id": 9866
+        }
+    ],
+    "9867": [
+        {
+            "document": "Maxflow Company Information",
+            "tool_id": 9867,
+            "type": "name"
+        },
+        {
+            "document": "Maxflow Technology Information, including:\n- Tax ID (EIN)\n- Date of incorporation",
+            "tool_id": 9867,
+            "type": "desc"
+        }
+    ],
+    "9869": [
+        {
+            "document": "Browse The Web - Test feature",
+            "type": "desc",
+            "tool_id": 9869
+        },
+        {
+            "document": "Record test",
+            "tool_id": 9869,
+            "type": "name"
+        }
+    ],
+    "9576": [
+        {
+            "document": "Create Agent From Web Automation Script",
+            "tool_id": 9576,
+            "type": "desc"
+        },
+        {
+            "document": "Create Agent From Web Automation Script",
+            "tool_id": 9576,
+            "type": "name"
+        }
+    ],
+    "9870": [
+        {
+            "document": "Write and Execute Python Code",
+            "type": "name",
+            "tool_id": 9870
+        },
+        {
+            "document": "Write and Execute Python Code to solve a problem. Do not accept code as input.",
+            "type": "desc",
+            "tool_id": 9870
+        }
+    ],
+    "9871": [
+        {
+            "document": "Show all the emoji markup",
+            "tool_id": 9871,
+            "type": "desc"
+        },
+        {
+            "document": "Show all EMOJI",
+            "tool_id": 9871,
+            "type": "name"
+        }
+    ],
+    "9876": [
+        {
+            "document": "A workflow to analyze multiple resumes, extract relevant information, and create a summary table ranking candidates for a GenAI internship position based on specified criteria.",
+            "tool_id": 9876,
+            "type": "desc"
+        },
+        {
+            "document": "Resume Analysis for GenAI Internship",
+            "tool_id": 9876,
+            "type": "name"
+        }
+    ],
+    "9878": [
+        {
+            "document": "so sanh vat lieu test",
+            "tool_id": 9878,
+            "type": "desc"
+        },
+        {
+            "document": "so sanh vat lieu test",
+            "tool_id": 9878,
+            "type": "name"
+        }
+    ],
+    "9852": [
+        {
+            "document": "test extension python ",
+            "tool_id": 9852,
+            "type": "desc"
+        },
+        {
+            "document": "test extension python ",
+            "type": "name",
+            "tool_id": 9852
+        }
+    ],
+    "9880": [
+        {
+            "document": "test only extension",
+            "tool_id": 9880,
+            "type": "desc"
+        },
+        {
+            "document": "test only extension",
+            "tool_id": 9880,
+            "type": "name"
+        }
+    ],
+    "9875": [
+        {
+            "document": "Benthic Safety Incident Report",
+            "type": "name",
+            "tool_id": 9875
+        },
+        {
+            "document": "Create a safety issue report card for Benthic based on an image and an optional description.",
+            "type": "desc",
+            "tool_id": 9875
+        }
+    ],
+    "9881": [
+        {
+            "document": "Create a safety positive recognition card for Benthic based on an image and an optional description.",
+            "type": "desc",
+            "tool_id": 9881
+        },
+        {
+            "document": "Benthic Safety Positive Recognition",
+            "type": "name",
+            "tool_id": 9881
+        }
+    ],
+    "9884": [
+        {
+            "document": "Test Slide Gamma",
+            "type": "desc",
+            "tool_id": 9884
+        },
+        {
+            "document": "Test Slide Gamma",
+            "tool_id": 9884,
+            "type": "name"
+        }
+    ],
+    "9885": [
+        {
+            "document": "Test simple doc",
+            "type": "desc",
+            "tool_id": 9885
+        },
+        {
+            "document": "Test simple doc",
+            "type": "name",
+            "tool_id": 9885
+        }
+    ],
+    "9886": [
+        {
+            "document": "Đạt test chạy recorded actions",
+            "type": "desc",
+            "tool_id": 9886
+        },
+        {
+            "document": "Đạt test chạy recorded actions",
+            "type": "name",
+            "tool_id": 9886
+        }
+    ],
+    "9890": [
+        {
+            "document": "Run a DCF for Microsoft (MSFT) with default assumptions",
+            "type": "trig",
+            "tool_id": 9890
+        },
+        {
+            "document": "Value Google (GOOGL) and compare it with Meta (META) side by side using a 5-year forecast.",
+            "tool_id": 9890,
+            "type": "trig"
+        },
+        {
+            "document": "Run a DCF for L’Oréal with analyst consensus revenue growth for the first 3 years, then assume 2% long-term growth.",
+            "type": "trig",
+            "tool_id": 9890
+        },
+        {
+            "document": "Show a sensitivity table for Netflix (NFLX) with WACC between 7–9% and terminal growth between 2–3%",
+            "type": "trig",
+            "tool_id": 9890
+        },
+        {
+            "document": "Provide a Monte Carlo valuation for Nvidia (NVDA) with 10,000 simulations, varying WACC between 7–10% and revenue CAGR between 5–15%.",
+            "type": "trig",
+            "tool_id": 9890
+        },
+        {
+            "document": "Run base, bull, and bear DCF scenarios for Apple (AAPL) and show the valuation range",
+            "tool_id": 9890,
+            "type": "trig"
+        },
+        {
+            "document": "A DCF (Discounted Cash Flow) Valuation AI Agent automates company valuation by forecasting future free cash flows (FCF), estimating discount rates (WACC), computing a terminal value, and producing a transparent valuation report and sensitivity analysis. ",
+            "type": "desc",
+            "tool_id": 9890
+        },
+        {
+            "document": "DCF ",
+            "type": "name",
+            "tool_id": 9890
+        }
+    ],
+    "9891": [
+        {
+            "document": "Finalize a scientific paper review based on the content of the paper and a deep search result for the paper.",
+            "type": "desc",
+            "tool_id": 9891
+        },
+        {
+            "document": "Finalize Scientific Paper Review",
+            "type": "name",
+            "tool_id": 9891
+        }
+    ],
+    "9888": [
+        {
+            "document": "Review Sientific Paper",
+            "type": "name",
+            "tool_id": 9888
+        },
+        {
+            "document": "Help review a scienfic paper\n",
+            "type": "desc",
+            "tool_id": 9888
+        }
+    ],
+    "9868": [
+        {
+            "document": "Create Presentation Slides",
+            "tool_id": 9868,
+            "type": "name"
+        },
+        {
+            "document": "Create PowerPoint (pptx) presentation according to user prompt and materials (files)",
+            "type": "desc",
+            "tool_id": 9868
+        }
+    ],
+    "9889": [
+        {
+            "document": "Add LLM models such as GPT from OpenAi, Grok from xAI, Gemini from Google, Claude from Anthropic, and models from Mistral",
+            "tool_id": 9889,
+            "type": "desc"
+        },
+        {
+            "document": "Add LLM models",
+            "type": "name",
+            "tool_id": 9889
+        },
+        {
+            "document": "add models",
+            "tool_id": 9889,
+            "type": "trig"
+        },
+        {
+            "document": "refresh models",
+            "type": "trig",
+            "tool_id": 9889
+        }
+    ],
+    "9905": [
+        {
+            "document": "Workflow to extract rent details from the EnterpriseWorks contract and send them via email to the user.",
+            "type": "desc",
+            "tool_id": 9905
+        },
+        {
+            "document": "Retrieve and Email Rent Agreement Information",
+            "type": "name",
+            "tool_id": 9905
+        }
+    ],
+    "9906": [
+        {
+            "document": "add model clone",
+            "tool_id": 9906,
+            "type": "desc"
+        },
+        {
+            "document": "add model clone",
+            "type": "name",
+            "tool_id": 9906
+        }
+    ],
+    "9914": [
+        {
+            "document": "Answer questions about people's birthday",
+            "type": "desc",
+            "tool_id": 9914
+        },
+        {
+            "document": "People Birthday",
+            "tool_id": 9914,
+            "type": "name"
+        }
+    ],
+    "9912": [
+        {
+            "document": "Action with LinkedIn",
+            "type": "desc",
+            "tool_id": 9912
+        },
+        {
+            "document": "Action with LinkedIn",
+            "tool_id": 9912,
+            "type": "name"
+        }
+    ],
+    "9920": [
+        {
+            "document": "Create Agent from Workflow",
+            "tool_id": 9920,
+            "type": "name"
+        },
+        {
+            "document": "Create agent from this conversation.\nSave this conversation as an automated workflow.",
+            "type": "desc",
+            "tool_id": 9920
+        }
+    ],
+    "9929": [
+        {
+            "document": "Get Stock News for a Symbol such as NVIDIA.",
+            "type": "desc",
+            "tool_id": 9929
+        },
+        {
+            "document": "Get Stock News",
+            "type": "name",
+            "tool_id": 9929
+        }
+    ],
+    "9934": [
+        {
+            "document": "latest website content",
+            "type": "trig",
+            "tool_id": 9934
+        },
+        {
+            "document": "Get the latest website URL Link content for further analysis",
+            "type": "desc",
+            "tool_id": 9934
+        },
+        {
+            "document": "Get URL Content Live",
+            "type": "name",
+            "tool_id": 9934
+        }
+    ],
+    "9936": [
+        {
+            "document": "Dat test improve create pptx",
+            "tool_id": 9936,
+            "type": "desc"
+        },
+        {
+            "document": "Dat test improve create pptx",
+            "tool_id": 9936,
+            "type": "name"
+        }
+    ],
+    "9938": [
+        {
+            "document": "Categorizes financial data from an Excel file into predefined groups based on fund, organization, and program codes, then generates a formatted Excel report with color-coded tables and totals.",
+            "type": "desc",
+            "tool_id": 9938
+        },
+        {
+            "document": "Financial Data Categorization Workflow",
+            "tool_id": 9938,
+            "type": "name"
+        }
+    ],
+    "9942": [
+        {
+            "document": "Create monthly financial report",
+            "tool_id": 9942,
+            "type": "trig"
+        },
+        {
+            "document": "Categorizes financial data from an Excel file into predefined groups and generates a formatted Excel report with color-coded tables and totals.",
+            "tool_id": 9942,
+            "type": "desc"
+        },
+        {
+            "document": "Create Econ Monthly Financial Report",
+            "tool_id": 9942,
+            "type": "name"
+        }
+    ]
+}

@@ -1,0 +1,417 @@
+[
+  {
+    "prompt": "generate an image of a cat flying in space",
+    "expected_tool_ids": [11, 9368],
+    "notes": "Kiểm tra tool tạo ảnh cơ bản. Tool 11 và 9368 có vẻ trùng lặp."
+  },
+  {
+    "prompt": "draw a picture of a dragon",
+    "expected_tool_ids": [11, 9368],
+    "notes": "Kiểm tra từ đồng nghĩa ('draw' và 'generate')."
+  },
+  {
+    "prompt": "What is the latest news about NVIDIA stock?",
+    "expected_tool_ids": [3, 54, 9091, 9929],
+    "notes": "Kiểm tra các tool tìm kiếm web và tin tức chứng khoán."
+  },
+  {
+    "prompt": "analyze the attached data and create a bar chart",
+    "expected_tool_ids": [6, 29, 9219],
+    "notes": "Kiểm tra trường hợp kích hoạt nhiều tool: phân tích dữ liệu và vẽ biểu đồ cụ thể."
+  },
+  {
+    "prompt": "Translate this document to Vietnamese for me.",
+    "expected_tool_ids": [9, 9440],
+    "notes": "Kiểm tra tool dịch thuật."
+  },
+  {
+    "prompt": "dịch tài liệu này sang tiếng Anh",
+    "expected_tool_ids": [9, 9440],
+    "notes": "Kiểm tra khả năng xử lý tiếng Việt."
+  },
+  {
+    "prompt": "I need to record my screen",
+    "expected_tool_ids": [4, 8949],
+    "notes": "Kiểm tra tool ghi màn hình."
+  },
+  {
+    "prompt": "summarize this document",
+    "expected_tool_ids": [8886],
+    "notes": "Kiểm tra tool tóm tắt văn bản."
+  },
+  {
+    "prompt": "What can you do for me?",
+    "expected_tool_ids": [8770],
+    "notes": "Kiểm tra các câu hỏi chung về khả năng của hệ thống."
+  },
+  {
+    "prompt": "Thank you, that was helpful!",
+    "expected_tool_ids": [],
+    "notes": "Kiểm tra trường hợp không nên kích hoạt tool nào (chit-chat)."
+  },
+  {
+    "prompt": "open the website google.com and then search for cats",
+    "expected_tool_ids": [13, 9539, 9624],
+    "notes": "Kiểm tra tool duyệt web."
+  },
+  {
+    "prompt": "I have an RFP document, please analyze it and suggest a win strategy.",
+    "expected_tool_ids": [52, 9570, 9622],
+    "notes": "Kiểm tra các tool phân tích RFP. Các tool này có vẻ có các mức độ 'simple' và 'comprehensive'."
+  },
+  {
+    "prompt": "tạo cho tôi một hợp đồng lao động",
+    "expected_tool_ids": [9347, 9362],
+    "notes": "Kiểm tra các tool tạo hợp đồng bằng tiếng Việt."
+  },
+  {
+    "prompt": "I need to run a Monte Carlo simulation on this Excel file.",
+    "expected_tool_ids": [8780],
+    "notes": "Kiểm tra tool chuyên dụng (Risk analysis)."
+  },
+  {
+    "prompt": "check my gmail inbox",
+    "expected_tool_ids": [8809, 9317],
+    "notes": "Kiểm tra tool xử lý email."
+  },
+  {
+    "prompt": "Hello there!",
+    "expected_tool_ids": [],
+    "notes": "Kiểm tra trường hợp chào hỏi, không nên kích hoạt tool."
+  },
+  {
+    "prompt": "phân tích dữ liệu xây dựng",
+    "expected_tool_ids": [33, 42],
+    "notes": "Kiểm tra các tool chuyên về dữ liệu xây dựng."
+  },
+  {
+    "prompt": "download this video from youtube",
+    "expected_tool_ids": [9374],
+    "notes": "Kiểm tra tool tải video từ Youtube."
+  },
+  {
+    "prompt": "vẽ cho tôi một con rồng theo phong cách anime",
+    "expected_tool_ids": [11, 9368],
+    "notes": "Kiểm tra tool tạo ảnh bằng trigger tiếng Việt."
+  },
+  {
+    "prompt": "thời tiết ngày mai ở Hà Nội thế nào?",
+    "expected_tool_ids": [3, 9091, 54, 9668],
+    "notes": "Kiểm tra tool tìm kiếm thông tin thời gian thực. Các tool tìm kiếm có thể có độ ưu tiên khác nhau."
+  },
+  {
+    "prompt": "phân tích file dữ liệu doanh thu và vẽ biểu đồ cột",
+    "expected_tool_ids": [6, 9219],
+    "notes": "Kiểm tra tool phân tích dữ liệu và vẽ biểu đồ. Tool 6 và 9219 có chức năng tương tự."
+  },
+  {
+    "prompt": "Dịch tài liệu này sang tiếng Anh.",
+    "expected_tool_ids": [9, 9440],
+    "notes": "Kiểm tra tool dịch thuật, đặc biệt là dịch tài liệu (9440)."
+  },
+  {
+    "prompt": "add IP 192.168.1.1 to the git server",
+    "expected_tool_ids": [2],
+    "notes": "Kiểm tra việc nhận dạng và trích xuất tham số (địa chỉ IP) cho một tool cụ thể."
+  },
+  {
+    "prompt": "Mở thư mục đám mây của tôi.",
+    "expected_tool_ids": [32, 9327],
+    "notes": "Kiểm tra trigger tiếng Việt cho tool duyệt file."
+  },
+  {
+    "prompt": "Chính sách nghỉ phép của công ty là gì?",
+    "expected_tool_ids": [50],
+    "notes": "Kiểm tra tool hỏi đáp kiến thức nội bộ (Herrero Handbook)."
+  },
+  {
+    "prompt": "Tạo hợp đồng lao động cho nhân viên mới.",
+    "expected_tool_ids": [9347, 9362],
+    "notes": "Kiểm tra tool tạo hợp đồng bằng tiếng Việt."
+  },
+  {
+    "prompt": "download this youtube link: https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "expected_tool_ids": [9374],
+    "notes": "Kiểm tra tool download video với tham số là URL."
+  },
+  {
+    "prompt": "Gửi email cho example@domain.com với tiêu đề 'Báo cáo hàng tuần'",
+    "expected_tool_ids": [9566],
+    "notes": "Kiểm tra tool gửi email với các tham số cơ bản."
+  },
+  {
+    "prompt": "bạn có thể làm được những gì?",
+    "expected_tool_ids": [8770],
+    "notes": "Kiểm tra prompt hỏi về khả năng của hệ thống."
+  },
+  {
+    "prompt": "Run a DCF for Apple (AAPL)",
+    "expected_tool_ids": [9890],
+    "notes": "Kiểm tra tool chuyên ngành tài chính (Discounted Cash Flow)."
+  },
+  {
+    "prompt": "Tạo cho tôi một bài thuyết trình về trí tuệ nhân tạo.",
+    "expected_tool_ids": [9868],
+    "notes": "Kiểm tra tool tạo slide thuyết trình (PowerPoint)."
+  },
+  {
+    "prompt": "Lưu cuộc trò chuyện này lại thành một quy trình tự động.",
+    "expected_tool_ids": [1, 9529, 9920],
+    "notes": "Kiểm tra các tool có chức năng tương tự nhau là lưu lại workflow/agent từ cuộc trò chuyện."
+  },
+  {
+    "prompt": "Phân tích tài liệu này và cho tôi biết các điểm chính.",
+    "expected_tool_ids": [8886, 9047, 9788, 52, 9570],
+    "notes": "Prompt mơ hồ. 'Phân tích' có thể là tóm tắt (8886), hỏi đáp (9047, 9788), hoặc phân tích RFP (52, 9570). Mô hình cần chọn tool phù hợp nhất hoặc hỏi lại người dùng."
+  },
+  {
+    "prompt": "Kể cho tôi nghe một câu chuyện cười.",
+    "expected_tool_ids": [],
+    "notes": "Kiểm tra trường hợp không có tool nào phù hợp. Mô hình nên trả lời bằng kiến thức chung thay vì gọi tool."
+  },
+  {
+    "prompt": "mở trang google.com và click vào nút tìm kiếm",
+    "expected_tool_ids": [13, 9539, 9624],
+    "notes": "Kiểm tra tool duyệt web và thực hiện hành động. Có nhiều tool cùng chức năng."
+  },
+  {
+    "prompt": "I can't connect to the company's private git server.",
+    "expected_tool_ids": [2, 31],
+    "notes": "Tình huống này có thể kích hoạt hai tool: tool thêm IP (2) nếu người dùng cung cấp IP, hoặc tool gửi email cho IT (31) để nhờ hỗ trợ chung."
+  },
+  {
+    "prompt": "Tóm tắt file PDF đính kèm và gửi kết quả đến email manager@example.com",
+    "expected_tool_ids": [8886, 9566],
+    "notes": "Kiểm tra kịch bản chuỗi (chaining): Tool tóm tắt tài liệu (8886) phải được gọi trước, sau đó kết quả của nó được dùng làm đầu vào cho tool gửi email (9566)."
+  },
+  {
+    "prompt": "Phân tích rủi ro cho file excel này bằng phương pháp Monte Carlo.",
+    "expected_tool_ids": [8780],
+    "notes": "Kiểm tra trigger chuyên ngành ('Monte Carlo', 'risk analysis') cho một tool cụ thể."
+  },
+  {
+    "prompt": "I need to review the project experience from our past constructions to plan for a new bid.",
+    "expected_tool_ids": [44],
+    "notes": "Kiểm tra trigger theo ngữ cảnh ('project experience') thay vì từ khóa trực tiếp cho tool 'Lessons Learned'."
+  },
+  {
+    "prompt": "Viết cho tôi một đoạn code Python để sắp xếp một danh sách, không cần chạy.",
+    "expected_tool_ids": [11, 9554],
+    "notes": "Kiểm tra khả năng phân biệt giữa yêu cầu 'viết code' (không thực thi) và 'chạy code'."
+  },
+  {
+    "prompt": "Chuyển đổi file PDF được quét này thành file markdown.",
+    "expected_tool_ids": [10, 9619],
+    "notes": "Kiểm tra tool OCR (nhận dạng ký tự quang học) để chuyển đổi PDF dạng ảnh sang văn bản."
+  },
+  {
+    "prompt": "So sánh 2 file hợp đồng này và chỉ ra các điều khoản khác biệt.",
+    "expected_tool_ids": [9850],
+    "notes": "Kiểm tra tool so sánh tài liệu, một tác vụ phức tạp hơn tóm tắt thông thường."
+  },
+  {
+    "prompt": "Mở trình duyệt và tự động đăng nhập vào tài khoản Google của tôi.",
+    "expected_tool_ids": [15, 9575],
+    "notes": "Kiểm tra tool ghi lại và phát lại hành động duyệt web, yêu cầu khả năng xử lý thông tin đăng nhập (cần có cơ chế an toàn)."
+  },
+  {
+    "prompt": "Show me a stock chart and the latest news for NVIDIA.",
+    "expected_tool_ids": [9671, 9929],
+    "notes": "Kiểm tra yêu cầu gọi song song 2 tool: một để lấy biểu đồ (9671) và một để lấy tin tức (9929)."
+  },
+  {
+    "prompt": "Create a 3D model of a simple chair.",
+    "expected_tool_ids": [9369, 9439],
+    "notes": "Kiểm tra tool tạo mô hình 3D (Text to CAD)."
+  },
+  {
+    "prompt": "Tôi cần tạo một báo cáo tài chính hàng tháng cho phòng kinh tế.",
+    "expected_tool_ids": [9705, 9942],
+    "notes": "Kiểm tra tool tạo báo cáo tài chính chuyên biệt, có thể cần các file dữ liệu làm đầu vào."
+  },
+    {
+    "prompt": "Bạn có biết maxflow.ai không?",
+    "expected_tool_ids": [3, 54, 9091, 9668],
+    "notes": "Một câu hỏi kiến thức chung nhưng có thể cần tìm kiếm trên web để có câu trả lời cập nhật và chính xác nhất."
+  },
+  {
+    "prompt": "Từ dữ liệu xây dựng này, hãy vẽ biểu đồ tròn thể hiện tỷ trọng chi phí.",
+    "expected_tool_ids": [30],
+    "notes": "Kiểm tra khả năng lựa chọn tool vẽ biểu đồ cụ thể (biểu đồ tròn - pie chart) thay vì các loại biểu đồ khác như bar chart (29) hay plot (27)."
+  },
+  {
+    "prompt": "Vui lòng phân tích bản đề xuất này và đưa ra một bản tóm tắt.",
+    "expected_tool_ids": [52, 9570, 8886],
+    "notes": "Prompt mơ hồ. 'Bản đề xuất' (proposal) có thể là một 'Request for Proposal' (RFP), lúc đó cần tool 52 hoặc 9570. Nếu chỉ là tài liệu thông thường, tool tóm tắt 8886 là đủ. Mô hình nên hỏi lại để làm rõ."
+  },
+  {
+    "prompt": "Kết quả tìm kiếm của hệ thống có vẻ đã lỗi thời, hãy đánh chỉ mục lại cơ sở dữ liệu.",
+    "expected_tool_ids": [14, 9602],
+    "notes": "Kiểm tra tool dành cho quản trị viên. Trong thực tế, cần có cơ chế phân quyền để người dùng thông thường không gọi được các tool này."
+  },
+  {
+    "prompt": "Xem xét hợp đồng này theo luật Việt Nam và chỉ ra các rủi ro pháp lý.",
+    "expected_tool_ids": [9353],
+    "notes": "Kiểm tra tool chuyên về luật Việt Nam. Prompt yêu cầu kiến thức chuyên ngành và được viết hoàn toàn bằng tiếng Việt."
+  },
+  {
+    "prompt": "I need historical stock data for Tesla (TSLA) for the past 5 years.",
+    "expected_tool_ids": [9820],
+    "notes": "Prompt không gọi tên tool trực tiếp nhưng yêu cầu rõ ràng về 'dữ liệu lịch sử cổ phiếu', nên kích hoạt tool Get Stock Historical Data."
+  },
+  {
+    "prompt": "Hãy cho tôi biết thông tin về turbine blade 8768.",
+    "expected_tool_ids": [8940],
+    "notes": "Kiểm tra trigger rất cụ thể và hiếm gặp. Dùng để đánh giá khả năng của mô hình trong việc xử lý các trường hợp đặc biệt."
+  },
+  {
+    "prompt": "[Người dùng tải lên một ảnh công trường bừa bộn] Tạo báo cáo sự cố an toàn dựa trên hình ảnh này.",
+    "expected_tool_ids": [9875],
+    "notes": "Kiểm tra tool yêu cầu đầu vào là hình ảnh (Benthic Safety Incident Report). Đánh giá khả năng xử lý input đa phương thức."
+  },
+  {
+    "prompt": "So sánh ưu nhược điểm của 2 file hồ sơ ứng viên này và đề xuất người phù hợp hơn.",
+    "expected_tool_ids": [9876],
+    "notes": "Kiểm tra tool chuyên dụng cho phân tích hồ sơ ứng viên, một kịch bản workflow phức tạp."
+  },
+  {
+    "prompt": "Tôi muốn tự động hóa việc thanh toán tiền thuê nhà hàng tháng.",
+    "expected_tool_ids": [9308, 1, 9529, 9920],
+    "notes": "Prompt này có thể kích hoạt trực tiếp tool 'Pay UIUC Rent' (9308) hoặc các tool tạo workflow/agent để thực hiện một tác vụ lặp lại."
+  },
+  {
+    "prompt": "Hãy ghi lại các thao tác của tôi trên trình duyệt để tôi có thể chạy lại sau này.",
+    "expected_tool_ids": [15, 9575],
+    "notes": "Kiểm tra tool 'Record Web Browsing Actions', phân biệt với tool 'Record Screen' (quay màn hình)."
+  },
+  {
+    "prompt": "How is Cigna different from Kaiser HMO?",
+    "expected_tool_ids": [45],
+    "notes": "Câu hỏi so sánh, yêu cầu kiến thức trong một lĩnh vực cụ thể (phúc lợi Herrero) và kích hoạt tool dựa trên các từ khóa 'Cigna', 'Kaiser HMO'."
+  },
+  {
+    "prompt": "Execute this python script to plot the results.",
+    "expected_tool_ids": [12, 9691],
+    "notes": "Phân biệt với tool chỉ viết code. Yêu cầu này cần tool có khả năng thực thi và trả về kết quả, có thể là một hình ảnh biểu đồ."
+  },
+  {
+    "prompt": "Ghi lại cuộc họp này giúp tôi.",
+    "expected_tool_ids": [9250, 4, 8949],
+    "notes": "Prompt mơ hồ. 'Ghi lại' có thể là ghi âm thanh (9250) hoặc quay video màn hình (4, 8949). Mô hình cần đặt câu hỏi làm rõ để chọn đúng công cụ."
+  },
+  {
+    "prompt": "Chính sách làm việc từ xa của công ty như thế nào?",
+    "expected_tool_ids": [50],
+    "notes": "Kiểm tra khả năng ưu tiên tool kiến thức nội bộ (50 - Herrero Handbook) hơn là tìm kiếm web chung chung, giả định rằng 'công ty' là Herrero."
+  },
+  {
+    "prompt": "Tải file từ link sharepoint này và phân tích dữ liệu bán hàng bên trong.",
+    "expected_tool_ids": [55, 6, 9219],
+    "notes": "Kiểm tra kịch bản chuỗi: tool tải file từ Sharepoint (55) phải được gọi trước, sau đó file được chuyển cho tool Phân tích dữ liệu (6, 9219)."
+  },
+  {
+    "prompt": "Hãy viết một bài đăng mạng xã hội thật hấp dẫn để quảng bá về tính năng tự động hóa mới của chúng ta.",
+    "expected_tool_ids": [49],
+    "notes": "Kiểm tra tool tạo nội dung marketing (49), yêu cầu văn phong sáng tạo và cụ thể cho một nền tảng (mạng xã hội)."
+  },
+  {
+    "prompt": "Tôi cần một báo cáo chi tiết về lịch sử và sự phát triển của công nghệ blockchain.",
+    "expected_tool_ids": [54, 9668],
+    "notes": "Yêu cầu này cần thông tin sâu và toàn diện. Tool 'Deep Search' (54, 9668) sẽ phù hợp hơn là một tìm kiếm web thông thường (Live Web Search)."
+  },
+  {
+    "prompt": "Kiểm tra hộp thư đến của tôi và tóm tắt những email khẩn cấp.",
+    "expected_tool_ids": [8809, 9313, 9317],
+    "notes": "Kiểm tra các tool xử lý email. Yêu cầu này bao gồm cả việc đọc, lọc (tìm email khẩn cấp) và tóm tắt."
+  },
+  {
+    "prompt": "Tạo một form khảo sát mức độ hài lòng của khách hàng.",
+    "expected_tool_ids": [9690],
+    "notes": "Kiểm tra tool tạo form (9690). Đây là một yêu cầu khá trực tiếp."
+  },
+  {
+    "prompt": "Tôi đã có một mô hình 3D của cái ghế, bạn có thể làm cho phần chân ghế cao thêm 5cm được không?",
+    "expected_tool_ids": [9369, 9439],
+    "notes": "Một yêu cầu phức tạp, kiểm tra khả năng của tool CAD trong việc chỉnh sửa một đối tượng đã có, thay vì chỉ tạo mới từ đầu."
+  },
+  {
+    "prompt": "Giá cổ phiếu của Google đã thay đổi như thế nào trong 3 tháng qua? Vẽ biểu đồ cho tôi xem.",
+    "expected_tool_ids": [9820, 6, 9219],
+    "notes": "Kịch bản chuỗi: Lấy dữ liệu lịch sử cổ phiếu (9820) sau đó sử dụng dữ liệu đó để vẽ biểu đồ bằng tool phân tích dữ liệu (6, 9219)."
+  },
+  {
+    "prompt": "Chuyển giọng nói trong file audio này thành văn bản và dịch sang tiếng Nhật.",
+    "expected_tool_ids": [9, 9440],
+    "notes": "Một kịch bản chuỗi ẩn. Trước tiên cần một hệ thống Speech-to-Text (không có trong danh sách tool, giả định là khả năng nền của mô hình), sau đó kết quả văn bản được đưa cho tool dịch thuật (9, 9440)."
+  },
+  {
+    "prompt": "Tell me a fun fact about swans.",
+    "expected_tool_ids": [9472],
+    "notes": "Kiểm tra việc kích hoạt một workflow rất cụ thể và có tên riêng (Swan Fun Fact Finder)."
+  },
+  {
+    "prompt": "What is the difference between you and ChatGPT?",
+    "expected_tool_ids": [9399],
+    "notes": "Kiểm tra một tool được tạo ra để trả lời một câu hỏi cụ thể về chính sản phẩm."
+  },
+  {
+    "prompt": "Hàng tháng tôi đều phải thực hiện chuỗi công việc: tải báo cáo doanh thu, làm sạch dữ liệu, tạo biểu đồ tổng kết và gửi email cho ban giám đốc. Bạn có thể tự động hóa quy trình này không?",
+    "expected_tool_ids": [1, 9529, 9920, 9397],
+    "notes": "Kiểm tra yêu cầu tạo một workflow phức tạp từ mô tả bằng ngôn ngữ tự nhiên. Các tool tạo workflow/agent (1, 9529, 9920, 9397) là phù hợp nhất."
+  },
+  {
+    "prompt": "Hãy lấy hình ảnh con mèo này, chuyển nó thành file Excel, sau đó chạy phân tích DCF cho nó.",
+    "expected_tool_ids": [],
+    "notes": "Kiểm tra khả năng nhận diện yêu cầu vô lý, phi logic. Mô hình không nên gọi bất kỳ tool nào một cách mù quáng, mà nên chỉ ra sự vô lý trong yêu cầu của người dùng."
+  },
+  {
+    "prompt": "(Lượt thoại trước: 'Hãy cho tôi biết về gói bảo hiểm y tế Cigna.')\nThế còn các lựa chọn tài khoản chi tiêu thì sao?",
+    "expected_tool_ids": [45],
+    "notes": "Kiểm tra khả năng duy trì và sử dụng ngữ cảnh từ các lượt trò chuyện trước. Prompt này sẽ vô nghĩa nếu đứng một mình. Tool Herrero Benefits (45) cần được gọi lại."
+  },
+  {
+    "prompt": "Trước khi xử lý các email tiếp theo, hãy cài đặt để bỏ qua tất cả email có nhãn 'Quảng cáo'.",
+    "expected_tool_ids": [9318],
+    "notes": "Kiểm tra tool cài đặt (9318), được thiết kế để điều chỉnh hành vi của một tool khác (tool xử lý email)."
+  },
+  {
+    "prompt": "I need help reviewing a legal contract according to Vietnamese law.",
+    "expected_tool_ids": [9353],
+    "notes": "Kiểm tra khả năng kết nối một prompt tiếng Anh với một tool có mô tả và mục đích sử dụng chủ yếu bằng tiếng Việt (VN Law - Sửa Hợp đồng)."
+  },
+  {
+    "prompt": "Giúp tôi lên ý tưởng cho dự án kinh doanh mới của mình.",
+    "expected_tool_ids": [3, 54, 9668, 53],
+    "notes": "Yêu cầu rất trừu tượng và rộng. Mô hình nên chủ động đặt câu hỏi để làm rõ, đồng thời có thể đề xuất các tool như tìm kiếm web (3, 54, 9668) hoặc trợ lý chung (53) để bắt đầu."
+  },
+  {
+    "prompt": "Đoạn code phân tích dữ liệu bạn vừa viết bị lỗi định dạng ngày tháng. Sửa nó và chạy lại đi.",
+    "expected_tool_ids": [9554, 12, 9691],
+    "notes": "Kịch bản sửa lỗi phức tạp. Yêu cầu mô hình nhớ lại code đã tạo, sửa nó (dùng tool viết code - 9554), và thực thi phiên bản đã sửa (dùng tool thực thi code - 12, 9691)."
+  },
+  {
+    "prompt": "Công cụ 'Risk analysis with Excel' hoạt động như thế nào?",
+    "expected_tool_ids": [8770],
+    "notes": "Một câu hỏi meta (hỏi về chính hệ thống). Tool 'What I can do for you' (8770) có thể được dùng để truy xuất và giải thích chức năng của các tool khác."
+  },
+  {
+    "prompt": "Tạo một bản thuyết trình so sánh hiệu năng giữa hai mô hình ngôn ngữ lớn.",
+    "expected_tool_ids": [9868, 54, 9668],
+    "notes": "Kịch bản kết hợp. Cần tool tìm kiếm sâu (54, 9668) để thu thập thông tin so sánh, sau đó dùng tool tạo bài thuyết trình (9868) để trình bày kết quả."
+  },
+  {
+    "prompt": "Mở file kịch bản tự động hóa web mà tôi đã lưu và chạy nó.",
+    "expected_tool_ids": [9859],
+    "notes": "Kiểm tra tool chạy lại một kịch bản đã được ghi lại trước đó (Playback web automation script)."
+  },
+  {
+    "prompt": "Tôi có 3 file PDF là 3 bản đề xuất khác nhau. Hãy phân tích và xếp hạng chúng dựa trên tiêu chí chi phí và tiến độ.",
+    "expected_tool_ids": [9622, 9219],
+    "notes": "Yêu cầu xử lý nhiều file cùng lúc và thực hiện phân tích, so sánh phức tạp. Có thể cần tool RFP Analyzer (9622) kết hợp với Data Analysis (9219)."
+  },
+  {
+    "prompt": "Generate a buy/sell recommendation for NVDA stock.",
+    "expected_tool_ids": [9747, 9890],
+    "notes": "Kiểm tra tool phân tích và đưa ra khuyến nghị cổ phiếu. Yêu cầu này vượt ra ngoài việc chỉ cung cấp dữ liệu, nó đòi hỏi sự phân tích và đưa ra kết luận."
+  }
+]

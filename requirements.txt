@@ -1,0 +1,9 @@
+numpy
+regex
+chromadb
+pydantic
+onnxruntime
+safetensors
+huggingface-hub
+bm25s
+fasttext-wheel

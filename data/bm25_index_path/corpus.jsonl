@@ -1,0 +1,640 @@
+{"tool_id":11,"type":"trig","id":"a60cf24a-23d7-4027-981f-612bf2d781db","text":"generate image"}
+{"tool_id":11,"type":"trig","id":"1795bbc8-0279-4a7c-910c-b7f428c3a5b0","text":"create image"}
+{"tool_id":11,"type":"trig","id":"c73c6560-6bd2-4de8-b133-f8cdaa3d6ec2","text":"draw image"}
+{"type":"trig","tool_id":11,"id":"4fa34502-1948-4b49-b601-48de6a3e234d","text":"image"}
+{"type":"trig","tool_id":11,"id":"63f11f61-ad52-4bee-b12a-5f5bbabd61d7","text":"draw something as a picture"}
+{"type":"desc","tool_id":11,"id":"59a80a52-e93f-430e-b5b2-6003489163c4","text":"Generate or edit an image with text description"}
+{"tool_id":11,"type":"name","id":"cbc99164-a567-4c24-98a5-2c2f04e02558","text":"Generate Image"}
+{"type":"desc","tool_id":1,"id":"7b703988-42d6-45d7-b445-f11a828c8148","text":"Save this conversation as an automated workflow."}
+{"tool_id":1,"type":"name","id":"37a39063-ee6f-45fe-8e16-63a33e592187","text":"Create Automated Workflow From Conversation"}
+{"type":"desc","tool_id":3,"id":"15c6b15b-ee60-4aa1-876c-2a539f8a044e","text":"Answer questions that needs up-to-date information from the internet."}
+{"tool_id":3,"type":"name","id":"5cc57bd4-a623-4b39-bb73-ccda29bc5fd0","text":"Live Web Search"}
+{"type":"trig","tool_id":4,"id":"6cf7c947-3bd2-44eb-92b5-df97dcf2d2fc","text":"record screen"}
+{"tool_id":4,"type":"trig","id":"770655e7-8e69-45b3-adc9-ab1babc35235","text":"screen recording"}
+{"tool_id":4,"type":"desc","id":"dc491c45-ce65-4b8b-a82f-7488fe96e674","text":"Capture your screen with ease."}
+{"type":"name","tool_id":4,"id":"a466d755-2cb4-4311-ba9a-662cded1888d","text":"Record Screen"}
+{"type":"trig","tool_id":6,"id":"731a8b8b-bf78-4df7-a7d1-6cc1ad24111f","text":"data analysis"}
+{"type":"trig","tool_id":6,"id":"5d905ecd-a0cd-405d-bb1e-09ff3f376d2e","text":"create plot"}
+{"type":"trig","tool_id":6,"id":"ce759392-41c4-4b0c-86a0-042e81dd054d","text":"analyze and plot"}
+{"type":"trig","tool_id":6,"id":"9c896741-b9cb-4307-b1f0-35796e57716e","text":"do data analysis"}
+{"tool_id":6,"type":"trig","id":"9a0c8e40-e45f-4b2c-8f75-c7ca97d76a18","text":"data analyst"}
+{"tool_id":6,"type":"trig","id":"d9cb18d8-ca2b-4a60-826d-97fabc98004a","text":"do data analysis for the above file"}
+{"tool_id":6,"type":"trig","id":"c1e24bcc-0615-402e-8bff-5e37918b8a31","text":"sumarize the above data"}
+{"tool_id":6,"type":"trig","id":"691e3681-e82e-4a2e-a819-55c45f7d0799","text":"sumarize the data"}
+{"tool_id":6,"type":"desc","id":"e12c68dd-0780-4fe2-b508-6f0801043f4e","text":"Do data analysis including plotting on a set of data."}
+{"tool_id":6,"type":"name","id":"931a009f-0c95-48b2-9815-3f36995790c8","text":"Data Analysis"}
+{"type":"desc","tool_id":10,"id":"4fb7ac74-9534-46a0-bb83-5aa6bd55ef95","text":"Convert Scanned PDF File into a text-based PDF or Markdown file"}
+{"tool_id":10,"type":"name","id":"3df94d5d-339e-4794-8684-e5acc4a07dd9","text":"Convert Scanned PDF File"}
+{"type":"desc","tool_id":11,"id":"442898cf-a0e6-4208-95a1-0b2aac565fc0","text":"Write Python Code to Solve Problem without Running it."}
+{"type":"name","tool_id":11,"id":"c6d01e2c-ad96-4b46-b266-ec0d1b586f35","text":"Write Python Code without Running"}
+{"tool_id":12,"type":"desc","id":"7782d49a-4dad-4ddb-ad2f-324c8bb6b43b","text":"Execute python code and return the result."}
+{"type":"name","tool_id":12,"id":"07d70c1f-9b08-4954-89ac-b2f77a4c8d35","text":"Execute Python Code"}
+{"type":"trig","tool_id":13,"id":"6ed8aa5b-f30d-4389-ab11-1f6ba2ded0ea","text":"open a web page"}
+{"tool_id":13,"type":"trig","id":"30e9649e-5671-4cc4-bac7-b8db3a806916","text":"download file"}
+{"type":"trig","tool_id":13,"id":"1b1c6ad1-10fc-42e0-9da0-f009ece83c8c","text":"click on"}
+{"tool_id":13,"type":"desc","id":"4e519a38-b003-4f14-96f6-12aa7d577758","text":"Browse the Web"}
+{"type":"name","tool_id":13,"id":"db3467b9-7095-4c6b-a1ff-44f6504ca899","text":"Browse the Web"}
+{"type":"desc","tool_id":14,"id":"676242ee-264f-4fae-9949-dfa0fe0e8397","text":"Re-index Index Search Database"}
+{"type":"name","tool_id":14,"id":"e43d5622-319a-427d-b161-7dc80d7badd3","text":"Re-index Index Search Database"}
+{"type":"desc","tool_id":15,"id":"5ed518f9-19d4-4dd0-aefd-75ba311479a1","text":"Automate web browsing by recording user action and play back."}
+{"tool_id":15,"type":"name","id":"b35d0502-c3ec-47f5-8a2e-4334d8eb217b","text":"Record Web Browsing Actions"}
+{"type":"desc","tool_id":24,"id":"4380a86b-9f45-4e72-925a-9b2af141153a","text":"Report the tokens used by users and agents."}
+{"type":"name","tool_id":24,"id":"2325cfde-8f15-4244-bd97-28a53218d0ee","text":"User Usage Reporter"}
+{"type":"trig","tool_id":9,"id":"6d6fecc7-cd20-42e8-a205-a571c5bcd6ef","text":"Translate"}
+{"tool_id":9,"type":"trig","id":"d14141ce-cf6c-4b3b-a5ad-2570cada18b0","text":"Translate to a selected language"}
+{"type":"desc","tool_id":9,"id":"c9ac3e5e-1eb4-4f6c-b55c-86e42667fdc8","text":"Translate a document from original language to a selected language"}
+{"tool_id":9,"type":"name","id":"c60fe636-62d9-4114-937d-eaa1942d9c33","text":"Language translation"}
+{"type":"trig","tool_id":32,"id":"09229db7-60cf-442f-8d63-a63fee0b502c","text":"open my folder"}
+{"type":"trig","tool_id":32,"id":"88e1eab5-6764-4b71-8487-9914a2d898fd","text":"open my data folder"}
+{"type":"desc","tool_id":32,"id":"4c76e3d5-2306-42f0-862b-6c6207ba7790","text":"Open the user data and conversation cloud folder. No other functionalities such as unzipping is allowed."}
+{"tool_id":32,"type":"name","id":"38c696ff-4491-41f9-8f67-daf4af1bd829","text":"File Browser"}
+{"type":"name","tool_id":33,"id":"60a9a43c-f7b2-48c8-a6e9-215b5f650451","text":"Construction Data analysts"}
+{"type":"desc","tool_id":33,"id":"f24e22f3-b1dd-40ee-8114-547bdc4a128d","text":"Gives expert insight on construction data, only runs once a chart has been produced. Anwers user questions, and produces python code on the fly depending on users requests"}
+{"type":"desc","tool_id":36,"id":"ef4e9bba-1794-4dd7-b6f9-bc7a2e9543d1","text":"Upload PDF File"}
+{"type":"name","tool_id":36,"id":"895e9bd7-3c90-4496-afa0-de7ac4036325","text":"Upload PDF File"}
+{"tool_id":37,"type":"desc","id":"df514e5a-98f1-494f-8b21-d2f14aabf3c3","text":"Upload data for Project financial data analyst agent."}
+{"tool_id":37,"type":"name","id":"aa2f6f74-7f6e-49b9-9731-e46b3c0cbfd7","text":"Upload Data for Project Financial Data Analyst"}
+{"tool_id":38,"type":"desc","id":"5959ab3d-5ad0-4b8a-bb35-13b48d866b37","text":"Show Project Financial Data"}
+{"tool_id":38,"type":"name","id":"732179d3-2af4-4c9b-8e0b-2adb98480ed6","text":"Show Project Financial Data"}
+{"type":"desc","tool_id":42,"id":"04232ce2-9977-49e0-a592-c2cd1f93fb0e","text":"Fetches json data from a directory, then exits and ask what type of graph it should create. If the user doesn't specify between plot, bar chart, or pie chart, create custom python code and execute it"}
+{"type":"name","tool_id":34,"id":"f06ca876-fa66-4cb9-a53f-763f1c356b59","text":"RFP Analyst and Strategist"}
+{"tool_id":34,"type":"desc","id":"b5608cb1-0e40-43fe-84ca-3f0992dd10d1","text":"Analyzes Requests for Proposals(RFP's) and analyzes how to write a winning proposal"}
+{"type":"desc","tool_id":43,"id":"7426dc86-22db-4953-888c-23261693a2bd","text":"Upload multiple files to a folder"}
+{"tool_id":43,"type":"name","id":"a461ea58-b776-478a-9446-ca48d3a1aa57","text":"TEST AGENT FOR MULTIPLE FILES"}
+{"type":"desc","tool_id":30,"id":"fa5cf925-0cc9-4746-8b37-4946cdc94553","text":"Converts construction json data into to a pie chart, then exits and analyzes data using construction data analyst agent. Make sure the x axis is in the right order of dates. sorting by year then months."}
+{"type":"desc","tool_id":29,"id":"3164cbf3-ac51-4123-aa08-e85b3aee29e6","text":"Converts construction json data to a bar chart, then exits and analyzes data using construction data analyst agent. Make sure the date format is MM-DD-YY"}
+{"type":"desc","tool_id":27,"id":"2c30350b-3768-49a6-b8c0-3194d6a59151","text":"Converts json to plot, then exits and analyzes data using construction data analyst agent. Make sure date key is in MM-DD-YY"}
+{"type":"name","tool_id":27,"id":"c07846d4-c2e2-4491-9420-6c368e7cde7c","text":"Convert Data into Plot Chart"}
+{"tool_id":29,"type":"name","id":"5dd3af83-60ab-41f5-9fcd-539d5b4b427e","text":"Convert Data into Bar Graph"}
+{"tool_id":30,"type":"name","id":"422f71cb-871a-4201-b687-359b3f30b401","text":"Convert Data into Pie Chart"}
+{"type":"name","tool_id":39,"id":"5fd366e7-40c9-41ef-81e4-67fae35d6378","text":"Upload PDF to Construction Database"}
+{"type":"name","tool_id":42,"id":"01f1fffd-7d2a-4b0f-8922-76f1329b50c4","text":"Fetch Construction Data"}
+{"tool_id":44,"type":"trig","id":"275bd023-e54f-4892-97e5-f817f04695c8","text":"Lessons Learned"}
+{"type":"trig","tool_id":44,"id":"5cde2cd3-ed79-4426-9d2f-db06587b26aa","text":"past lesson"}
+{"type":"trig","tool_id":44,"id":"354db358-cfc7-4d4b-86d2-266d0499ca1f","text":"Herrero lesson"}
+{"tool_id":44,"type":"trig","id":"abccffb8-f32a-4201-8d36-656f295b4fe9","text":"small wins"}
+{"tool_id":44,"type":"trig","id":"ce6f65d4-d10a-4fa3-83a3-92bb2fbd36ce","text":"project experience"}
+{"tool_id":44,"type":"desc","id":"88266cc2-8d70-47b1-966f-c6386aecab61","text":"Fine and summary lessons learned, small wins from past Herrero projects"}
+{"tool_id":44,"type":"name","id":"07dd127a-5799-4fcc-8ec4-93f704c66367","text":"Lessons Learned"}
+{"type":"trig","tool_id":45,"id":"446791e0-dd47-46fe-bdeb-006d8e5244d4","text":"Eligibility"}
+{"type":"trig","tool_id":45,"id":"61455f36-22a6-4877-8612-da2df4c0da65","text":"enrollments,"}
+{"type":"trig","tool_id":45,"id":"84e36d15-4ddf-41f1-a221-366d1e3f8dc7","text":"Medical Coverage plans"}
+{"type":"trig","tool_id":45,"id":"6bc9d5fa-9f15-4a20-8f2a-5a86c0ea0a49","text":"Dental"}
+{"type":"trig","tool_id":45,"id":"c2bc77e9-bbc8-4c4c-9976-4aba262d0036","text":"Vision"}
+{"type":"trig","tool_id":45,"id":"45c3bcb4-f8bc-4322-adf1-cbef493f702b","text":"Spending account"}
+{"type":"trig","tool_id":45,"id":"991255cc-6d71-459b-a975-505255d6ca64","text":"cost"}
+{"type":"trig","tool_id":45,"id":"1d646883-2964-4cd9-8fd5-3c9431e23de0","text":"contact information"}
+{"tool_id":45,"type":"trig","id":"b23e9986-7d2b-4213-bc25-e5c7d7bb91d7","text":"Kaiser HMO"}
+{"type":"trig","tool_id":45,"id":"4eefa5f6-3371-4ce2-a8a8-7f75356a663d","text":"Cigna"}
+{"type":"desc","tool_id":45,"id":"9a5bcc15-ab26-4d62-80d2-ff39c57f3e93","text":"Answer questions about Herrero Benefits including Eligibility, enrollments, Medical Coverage plans, Dental, Vision, Spending account, cost, contact information"}
+{"tool_id":45,"type":"name","id":"c5cd6c51-375b-46a0-98de-c25e4f5cf582","text":"Herrero Benefits"}
+{"tool_id":39,"type":"desc","id":"bef1d755-2285-40b4-9d8e-802844153d51","text":"Uploads a pdf and saves it as a json into a database\n"}
+{"tool_id":31,"type":"name","id":"48ed25bb-fdfa-4088-93a2-6f72225733a6","text":"Send Email to IT Supporter"}
+{"type":"desc","tool_id":31,"id":"d73f344c-0883-47f1-8d72-3f2d535da337","text":"If the question is too specific or relates to the company's private settings, ask user if they want to send an email to the IT Specialist. If user confirms as yes, compose an email based on the conversation history and send it to support@herrero.com."}
+{"tool_id":47,"type":"name","id":"94bc8649-6f3c-413c-90e0-ab642e6eef4d","text":"Lean Training Agent"}
+{"tool_id":49,"type":"desc","id":"6739bca9-0962-4f7a-aa01-e1fe0d5d8b49","text":"Generate marketing content based on company's previous marketing posts and user's desciption."}
+{"tool_id":49,"type":"name","id":"47e8c60f-b445-4c7a-bd72-899b25d2d6be","text":"Marketing Content Generator"}
+{"tool_id":50,"type":"name","id":"f3f339af-93b7-4e59-a64a-85012b86998c","text":"Herrero Handbook"}
+{"tool_id":50,"type":"desc","id":"fa8b5c2b-7ac4-465e-af55-d57eb80c8681","text":"Answer questions related to Herrero policies and procedures, workplace expectations, employment, attendance, compensation, time off, leave, performance, discipline, termination, benefits, diversity, pension, remote work, PTO, jury duty,  others."}
+{"tool_id":47,"type":"desc","id":"4b54a982-9287-419a-8fbb-9b395ccba72a","text":"Answer the user's question regarding the lean training content"}
+{"type":"trig","tool_id":52,"id":"30c465ea-7d0c-41b5-b601-531f0005f6ed","text":"Analyze this RFP and summarize its key components."}
+{"tool_id":52,"type":"trig","id":"ad711f58-3bd7-4612-a8d1-0d2c40e7d0b2","text":"What are the mandatory requirements in this RFP?"}
+{"tool_id":52,"type":"trig","id":"e6b7785e-9e81-4d39-9b60-05b225316525","text":"Provide a win strategy for the attached RFP."}
+{"type":"trig","tool_id":52,"id":"00af45e7-5cbd-4304-abdf-5cc712c38ab7","text":"Summarize the objectives and timeline of this RFP."}
+{"tool_id":52,"type":"desc","id":"9c5b0f4d-87f6-489f-9e43-575061d73566","text":"Reviews RFPs and provides strategic, actionable proposal insights."}
+{"type":"name","tool_id":52,"id":"b182e043-a9dc-4cb4-aae9-e2795355ba33","text":"Herrero RFP Analyzer"}
+{"type":"desc","tool_id":53,"id":"42ba8731-c13a-4ce7-b943-5321c50460c9","text":"Perform webserch, research, brain storming, programing, general Q&A"}
+{"tool_id":53,"type":"name","id":"cb9999cd-8d76-4f0b-a650-9ca4607b0202","text":"General Assistant"}
+{"type":"desc","tool_id":54,"id":"f571ffd8-cb35-4ce7-8daf-20729137cae8","text":"Answer questions that needs up-to-date information from the internet. This is a quick search, not a deep search."}
+{"tool_id":54,"type":"name","id":"27b3e819-da61-4a37-b586-6fcb8e04867c","text":"Deep Search"}
+{"tool_id":55,"type":"desc","id":"5684192d-d9b7-4982-a567-5684481811fe","text":"Download files from sharepoints using public link."}
+{"type":"name","tool_id":55,"id":"de71f415-9306-4265-9784-3eae3cf7eeb9","text":"Download Files from Sharepoints"}
+{"tool_id":2,"type":"trig","id":"5b2ae8ec-9762-412a-a19b-798e21a4afd3","text":"Add IP to maxflow git server"}
+{"type":"trig","tool_id":2,"id":"151d8b3a-0368-40f2-96fb-f95e38219c4d","text":"Allow for maxflow git server"}
+{"tool_id":2,"type":"trig","id":"c5240223-d08d-4a30-96cd-f9af4242aa51","text":"Add IP address to maxflow"}
+{"tool_id":2,"type":"trig","id":"4c190cfe-aca5-48c9-9c39-66666b7851a6","text":"add IP to git server: 12.13.14.15"}
+{"tool_id":2,"type":"trig","id":"883e515d-b8bf-452f-ab03-02c54f07fbdd","text":"add 12.13.14.15 for git server"}
+{"tool_id":2,"type":"desc","id":"4287b461-0fdc-4f52-9aba-c8818b5e11ff","text":"Add an IP to the GIT server."}
+{"type":"name","tool_id":2,"id":"b93b41fe-2709-4561-944f-967d913a3983","text":"Add IP to git server"}
+{"type":"trig","tool_id":7,"id":"8ea76af1-443b-4412-94e0-fe6b66e747fe","text":"Test the optional input"}
+{"type":"desc","tool_id":7,"id":"25e37741-9a3f-4d34-9d57-b79744a4dd36","text":"Test optional inputs"}
+{"type":"name","tool_id":7,"id":"d6fc1209-c8d5-4d8b-8c1b-d2dfd02db019","text":"Test optional inputs"}
+{"tool_id":8770,"type":"trig","id":"1f82aa34-ceb7-429a-9cc6-5abf2b5a1431","text":"Show me the available tools."}
+{"tool_id":8770,"type":"trig","id":"2e9568e7-3590-4907-8070-74b6e36599dc","text":"What's in our toolbox?"}
+{"tool_id":8770,"type":"trig","id":"e098b88f-ba34-4b9f-bc98-3e11b2bf5725","text":"What can you do?"}
+{"tool_id":8770,"type":"trig","id":"11c5c1b9-a379-4048-acb5-033135afae85","text":"Display the tools you have."}
+{"tool_id":8770,"type":"trig","id":"06c61768-519b-4d9a-b102-b7ba567f5212","text":"List out the current tools."}
+{"tool_id":8770,"type":"trig","id":"59a6654c-145c-4dea-9a85-2f252206e00c","text":"Show the current toolset."}
+{"type":"trig","tool_id":8770,"id":"586a78e1-1cb3-452e-ab46-1529235f1745","text":"What tools do you have?"}
+{"tool_id":8770,"type":"trig","id":"c7347636-2084-4ebb-905c-4f92677c206a","text":"List of available actions."}
+{"type":"trig","tool_id":8770,"id":"16893448-6f46-438e-bdd2-c8a32d340e41","text":"Show me what you can do."}
+{"tool_id":8770,"type":"trig","id":"b5c19a09-7d19-4e63-bcc6-39d92126b151","text":"What can you help with?"}
+{"tool_id":8770,"type":"trig","id":"9ef6d11c-992e-49ff-9b2c-1f473c543b32","text":"What agents do you have?"}
+{"type":"trig","tool_id":8770,"id":"f0045472-da6d-406f-8960-d8abba77c34f","text":"List all agents"}
+{"type":"trig","tool_id":8770,"id":"091444d4-5500-442c-aeae-f8ff805a45e1","text":"What can you help?"}
+{"tool_id":8809,"type":"trig","id":"27ea5653-3bc8-4f33-b455-352c6c8176a2","text":"Reads new emails in your inbox and generates suggested actions."}
+{"tool_id":8809,"type":"trig","id":"1a05f6d5-2c35-40a9-9c28-4e555a28edc0","text":"process emails"}
+{"type":"trig","tool_id":8809,"id":"8ae2675d-e880-44e5-9c2c-1a5df88da5af","text":"process gmails"}
+{"type":"trig","tool_id":8809,"id":"3f7d7ef3-30ae-49e7-9715-02f11b6153ed","text":"check gmail"}
+{"tool_id":8809,"type":"desc","id":"bee0be64-c673-4187-ade6-0102e2ac6666","text":"Reads new emails in your inbox and generates quick action suggestions."}
+{"type":"name","tool_id":8809,"id":"8d6e4ddb-f672-43a3-b4cd-1736dbdb4e8a","text":"Process Gmails"}
+{"tool_id":8824,"type":"trig","id":"45146f57-369e-454c-bc59-daa2b9f65e4a","text":"show email docs"}
+{"tool_id":8824,"type":"desc","id":"f9b090fe-982d-4df4-8eaa-2e1b88058787","text":"Show Email Supporting Docs"}
+{"type":"name","tool_id":8824,"id":"0d2566f1-8dcf-4b17-9aac-c7716f5e9e3c","text":"Show Email Supporting Docs"}
+{"type":"trig","tool_id":5,"id":"7fd58286-5f22-4b60-8a49-7c4ef84819c2","text":"Show example responses"}
+{"type":"trig","tool_id":5,"id":"0110f7b5-7560-4c81-929b-c2340e05c2f0","text":"Give me demo responses"}
+{"tool_id":5,"type":"desc","id":"6e6e601f-b436-4c54-b763-e0a8517ad7ac","text":"Examples of types of outputs that workflows send to users"}
+{"tool_id":5,"type":"name","id":"f3bb573d-55bd-404d-b913-c8d762011da9","text":"Show example responses"}
+{"type":"trig","tool_id":8,"id":"329e914d-a349-4fc5-b09a-e1fffd30f8f5","text":"Show me my user email address"}
+{"tool_id":8,"type":"trig","id":"35066537-3af4-4a2e-bc07-89f406cd21b1","text":"get user"}
+{"tool_id":8,"type":"desc","id":"55b86195-69eb-4d03-86d9-155d9caa7e97","text":"Get user email, or 'my' email"}
+{"tool_id":8,"type":"name","id":"20375d16-07f7-44d8-acaa-c83aec8c6240","text":"Get user email"}
+{"tool_id":8780,"type":"trig","id":"03f626fe-1522-4a05-889f-d202b35469c3","text":"Risk analysis with Excel"}
+{"tool_id":8780,"type":"trig","id":"511a9a28-e1e1-4185-bd60-fc256fb30d57","text":"Monte Carlo with Excel"}
+{"tool_id":8780,"type":"trig","id":"8ecc83a1-dd9e-4122-b1f9-0a987da87c10","text":"Oracle Crystalball"}
+{"type":"trig","tool_id":8780,"id":"3d8b9f85-2937-4d3b-bdf2-291b0feef438","text":"Crystalball"}
+{"type":"trig","tool_id":8780,"id":"2f72856d-8875-4392-9b63-3ec4c27286bd","text":"Risk analysis with the above Excel file"}
+{"tool_id":8780,"type":"trig","id":"912e18aa-8140-4f2d-b192-6d4a3cc05433","text":"Monte Carlo with the above Excel file"}
+{"type":"desc","tool_id":8780,"id":"5d8b9480-75d7-48d9-8340-ed07c527875a","text":"Run Monte Carlo and plot objective and parameter probabilities."}
+{"tool_id":8780,"type":"name","id":"f7c247ab-ffc7-43d8-b63f-625a9b4981ec","text":"Risk analysis with Excel"}
+{"tool_id":8823,"type":"trig","id":"fc952a6f-3df2-4159-8deb-1181db372353","text":"add email doc"}
+{"type":"desc","tool_id":8823,"id":"542d24c5-f70d-4d43-9f5e-65a832057f32","text":"Add supporting docs for email answer automation"}
+{"tool_id":8823,"type":"name","id":"b45fe37c-27ed-465e-951f-19442d6d9fb5","text":"Add Email Supporting Docs"}
+{"tool_id":8872,"type":"trig","id":"3b27977b-af06-4f5a-9bd7-a564b2c2b580","text":"get mineopt map"}
+{"type":"trig","tool_id":8872,"id":"3b10b9fd-61d2-49dc-aab3-0678d07b69ad","text":"get google map for mineopt"}
+{"tool_id":8872,"type":"trig","id":"b55d361a-a12a-4644-bf05-f97e51b48903","text":"get 3D site map for mineopt"}
+{"type":"trig","tool_id":8872,"id":"8f5c004a-9ab3-4028-9144-27d2edddcf32","text":"create 3d map"}
+{"tool_id":8872,"type":"trig","id":"844ad432-a655-48ac-ad31-d0be2171986d","text":"get mineopt map at lat, lon"}
+{"tool_id":8872,"type":"trig","id":"e0e871e3-5ec9-4b5c-9258-d7ccb529a6ec","text":"get google map for mineopt at lat, lon"}
+{"tool_id":8872,"type":"trig","id":"45f80dec-e5a4-4e61-9da8-99e550247027","text":"get 3D site map for mineopt at lat, lon"}
+{"tool_id":8872,"type":"trig","id":"800b02e7-0a57-46cf-9428-33543e09be4a","text":"create 3d map at a location"}
+{"type":"trig","tool_id":8872,"id":"30b83ad2-6dd8-4c31-9c0a-f280fd33de33","text":"get mineopt map at a location"}
+{"tool_id":8872,"type":"desc","id":"98f19975-56fa-4589-b7c0-46444ffa7805","text":"Get a 3D Map for use in other simulation apps."}
+{"type":"name","tool_id":8872,"id":"b453209f-1715-467d-ba28-9ecd16e80df0","text":"Get 3D Site Map"}
+{"tool_id":8874,"type":"trig","id":"f9fa1c53-05ca-4e43-a120-c15c29b6d730","text":"Convert Webm to MP4"}
+{"type":"desc","tool_id":8874,"id":"7c3fb742-f5b8-4cf2-9c4e-a7d517b31aa8","text":"Convert Webm to MP4"}
+{"tool_id":8874,"type":"name","id":"f630c311-0439-4f5c-afbb-6c0b6bc93264","text":"Convert Webm to MP4"}
+{"tool_id":8886,"type":"trig","id":"539e1365-a883-4cc6-a59b-75817876caa4","text":"Summarize a word or pdf document."}
+{"type":"trig","tool_id":8886,"id":"0ba3419c-5078-4e2b-b6de-65aa2169d250","text":"Summarize a document for me."}
+{"type":"desc","tool_id":8886,"id":"61acf4cd-85c4-4017-a7e0-56d338eb66a6","text":"Summarize a word or pdf document"}
+{"type":"name","tool_id":8886,"id":"62d4278f-6b22-41ed-9554-94ebae88234f","text":"Summarize Document"}
+{"type":"trig","tool_id":8940,"id":"819efadd-fae3-48fb-bf7d-7b7807285ad8","text":"I would like to talk to turbine blade 8768"}
+{"type":"trig","tool_id":8940,"id":"5639c710-c7d1-4d0f-b01a-c313d0de19ff","text":"Check out turbine blade 8768"}
+{"type":"trig","tool_id":8940,"id":"87609248-7862-45e8-84c5-0fa5f66c98e8","text":"Know about 8768"}
+{"tool_id":8940,"type":"trig","id":"9f4f56ac-e169-42bf-a10f-4b2761104d50","text":"I would like to check out the 8768 turbine blade."}
+{"tool_id":8940,"type":"desc","id":"016c4c9a-d654-40ce-b75b-0cb89b39e2dd","text":"Answer questions as relating to the turbine blade 6768"}
+{"type":"name","tool_id":8940,"id":"521d7edc-0728-456f-bd75-329f78e336ae","text":"Turbine Blade 8768"}
+{"type":"trig","tool_id":8941,"id":"625587a0-2845-4d12-96c3-ce503c3a2ad2","text":"tool call debug"}
+{"tool_id":8941,"type":"trig","id":"4e66b14b-63d4-4bd0-9fde-e007605571a8","text":"tool call optimization"}
+{"type":"trig","tool_id":8941,"id":"131782dc-ed3e-431f-ac21-234fb1bb4a5e","text":"tool call test"}
+{"type":"trig","tool_id":8941,"id":"20f57fd3-caba-4ba4-bd41-232820197f85","text":"test tool suggestion"}
+{"tool_id":8941,"type":"desc","id":"c84bfb81-3aa8-4f4c-a8af-f559cbe3fa82","text":"Calls the debug tool call API"}
+{"tool_id":8941,"type":"name","id":"0a98357a-db3e-4629-b8fb-35749b7901a4","text":"Test Tool Suggestion"}
+{"type":"trig","tool_id":8949,"id":"d97fb45c-3f73-4321-8398-c7b601a53b5c","text":"record screen"}
+{"type":"trig","tool_id":8949,"id":"667532f5-41ed-4c79-bc4f-b0673ae31d5e","text":"screen recording"}
+{"tool_id":8949,"type":"desc","id":"64e2c6fc-8228-4a1b-a019-ba4c6c5da3d2","text":"Capture your screen with ease."}
+{"tool_id":8949,"type":"name","id":"fa99f042-81a3-49ad-ba1f-9e0e49521272","text":"Record Screen"}
+{"tool_id":8954,"type":"trig","id":"68dfd4ad-4fa8-46d4-b0c0-f6a43692a275","text":"capture screen"}
+{"type":"desc","tool_id":8954,"id":"3cca5f74-c110-4eb1-a8b3-8935f05b229c","text":"Open the Sniping tool to capture screen "}
+{"tool_id":8954,"type":"name","id":"cdac8337-f618-4cd2-96f4-c7ac7f409057","text":"Capture Screen"}
+{"type":"trig","tool_id":8956,"id":"4ca9591f-52f7-4218-ab4f-ff483bcaa083","text":"manage user prompts"}
+{"tool_id":8956,"type":"trig","id":"89f6bbb3-b274-420c-acc5-7579a9ffc42f","text":"delete user prompts for tool call API"}
+{"tool_id":8956,"type":"trig","id":"59ebbe07-237e-4187-bfb4-516b7fb9b827","text":"view tool call user prompt embeddings"}
+{"type":"desc","tool_id":8956,"id":"2efed67c-4de0-46b7-8cde-ad160bafc418","text":"View and delete user prompts that have been added to Chroma DB embedding database in MaxGPT's tool call API."}
+{"type":"name","tool_id":8956,"id":"a3627dff-7914-461b-95bc-34ca551eb688","text":"Manage User Prompts"}
+{"tool_id":8985,"type":"trig","id":"d0d55558-a01f-4035-ad00-a8dd7ae747f5","text":"Remind me in 10 minutes to call Mr. ABC."}
+{"type":"trig","tool_id":8985,"id":"89a71f6f-5f1e-4717-a2af-79a10af55c8d","text":"Set reminder"}
+{"type":"trig","tool_id":8985,"id":"9770fada-1ab6-4301-8da9-2efd6dafded0","text":"Remind me after 5 seconds"}
+{"type":"desc","tool_id":8985,"id":"970136cd-ee81-4cef-9ccd-418007a77479","text":"Set quick reminders to keep you on track."}
+{"tool_id":8985,"type":"name","id":"87fc06a6-e28a-4c86-9eff-4ca8d8e714cb","text":"Reminder"}
+{"type":"trig","tool_id":8986,"id":"5e369825-f631-4100-a18c-1c7a14314280","text":"Edit Video"}
+{"type":"trig","tool_id":8986,"id":"48fc573d-40c7-468f-9fbe-6333b63a122d","text":"Edit the screen recording video."}
+{"type":"trig","tool_id":8986,"id":"36b1112b-900a-4a21-9443-f18f74016264","text":"Edit the video provided above."}
+{"type":"desc","tool_id":8986,"id":"d497ebc3-d302-4b5d-883a-f65795c88990","text":"Open the video editor"}
+{"tool_id":8986,"type":"name","id":"9e636e98-d204-4c8f-94ba-59c693795d51","text":"Edit Video"}
+{"tool_id":9020,"type":"trig","id":"6d4fccc0-b506-40f2-b8c8-8d2c4824bddc","text":"Do design exploration with Excel"}
+{"type":"desc","tool_id":9020,"id":"1b28ba00-eaeb-44b7-b9fa-8da916d27c16","text":"Do a design of experiment (DOE) and helps users explore the design space and find optimal solutions."}
+{"type":"name","tool_id":9020,"id":"295d6445-792d-4f0f-b922-0b07265acd26","text":"Design Exploration"}
+{"type":"trig","tool_id":9047,"id":"3a0eabce-8f43-4263-8793-a0c61a5e7d21","text":"Answer questions based on document."}
+{"type":"trig","tool_id":9047,"id":"6210c6c8-769f-4cb2-8c1e-b37c6c9ac4be","text":"Chat with document"}
+{"tool_id":9047,"type":"trig","id":"25588bd5-32a8-4f4e-ae81-984e2a9a31b7","text":"document qa"}
+{"tool_id":9047,"type":"desc","id":"2f063beb-a4bf-4b79-b1d8-b9b7dbd246bc","text":"Answer questions based on document."}
+{"tool_id":9047,"type":"name","id":"cc7ad28c-5d0a-4c52-a14c-76030bfd28a5","text":"Document Q&A"}
+{"tool_id":9048,"type":"trig","id":"051edae6-dc68-4e6a-b202-02845c106691","text":"get gpts data"}
+{"type":"trig","tool_id":9048,"id":"cf87965f-c4c9-436c-b543-d014374c58c3","text":"download gpts data"}
+{"tool_id":9048,"type":"desc","id":"279c16ee-e8ea-4fbc-8950-69f6c7b774dc","text":"Gets the json data of the available GPTs in the Tool Call API."}
+{"tool_id":9048,"type":"name","id":"f9df64a8-00d3-4b8d-825f-3e3e1efb6fec","text":"Get GPTs Data"}
+{"tool_id":9049,"type":"trig","id":"e403a22f-6422-49d3-ba7a-4be3fce113d2","text":"update gpts data"}
+{"tool_id":9049,"type":"trig","id":"5ed1d226-44b6-436b-8dd0-6d338cf77d7f","text":"upload gpts data"}
+{"type":"trig","tool_id":9049,"id":"4c70021f-adb1-42a6-880b-6db6e2a81a29","text":"upload gpts json"}
+{"type":"trig","tool_id":9049,"id":"a63decd0-1dfe-47a7-8d45-35a3d2a1afc7","text":"update gpts embeddings"}
+{"type":"desc","tool_id":9049,"id":"50f4601e-cf6a-4c05-bf9a-1677655a07db","text":"Updates the embeddings for GPT store tools in the Tool Call API."}
+{"type":"name","tool_id":9049,"id":"e0c8fdc6-7cc5-4115-b5d5-6247e5809916","text":"Update GPTs Data"}
+{"tool_id":9091,"type":"desc","id":"0161a065-d952-4cca-a1ff-eca989af1f5a","text":"Answer questions that needs up-to-date information from the internet. This is a quick search, not a deep search."}
+{"tool_id":9091,"type":"name","id":"914aaf34-ca48-4395-ab20-5cb21480a504","text":"Live Web Search"}
+{"tool_id":9119,"type":"trig","id":"5074e883-a9fa-4825-87f4-665cade4c1c4","text":"open 3d viewer"}
+{"type":"desc","tool_id":9119,"id":"349746df-3133-4d19-99e0-a3827da1cc89","text":"Open the 3d viewer and load a 3d file if provided."}
+{"type":"name","tool_id":9119,"id":"91137742-f8b9-4141-bfcd-bdabc0e74565","text":"3D Visualizer"}
+{"tool_id":9130,"type":"trig","id":"b39301da-5c98-400c-ad7f-4e0a91e655a9","text":"I have a question about the law consulting contract"}
+{"type":"desc","tool_id":9130,"id":"3cc410de-68ae-4fae-a5f0-0ca99d01eda8","text":"Answer question about the law consulting contract"}
+{"tool_id":9130,"type":"name","id":"a5b23dcc-4331-42bc-a0ed-818d6e4366be","text":"Test copilot"}
+{"type":"desc","tool_id":9170,"id":"962ba846-ca03-4156-a0c6-209002812e37","text":"Try the latest GPT models"}
+{"type":"name","tool_id":9170,"id":"d5a14fde-60f4-4630-a8f2-eca4b7edfbb1","text":"GPT Models"}
+{"type":"trig","tool_id":9219,"id":"8715d989-d617-4a21-829f-33bac882787b","text":"data analysis"}
+{"type":"trig","tool_id":9219,"id":"a4c550fe-43d0-45d9-95d0-96e8ab4e90c1","text":"create plot"}
+{"tool_id":9219,"type":"trig","id":"0a992d27-b17d-4bf4-ad14-6d34ca4245fa","text":"analyze and plot"}
+{"type":"trig","tool_id":9219,"id":"d10b02af-23c1-48e3-8b33-ead8dd391a55","text":"do data analysis"}
+{"type":"trig","tool_id":9219,"id":"431e6f03-83ae-4faa-94fb-f0d6fb1a2f92","text":"data analyst"}
+{"type":"trig","tool_id":9219,"id":"d2b9cdc6-d261-401a-8afa-49870b11be70","text":"do data analysis for the above file"}
+{"type":"trig","tool_id":9219,"id":"2116cbf3-ee6f-4e0a-9f57-67a3bb2f2719","text":"sumarize the above data"}
+{"type":"trig","tool_id":9219,"id":"ca7ef75c-58bf-44b5-92c3-32e496f52840","text":"sumarize the data"}
+{"type":"desc","tool_id":9219,"id":"4eccd948-380a-4d57-a464-6959920a850a","text":"Do data analysis including plotting on a set of data."}
+{"tool_id":9219,"type":"name","id":"193865d1-306a-42a7-8d44-742840657ef6","text":"Data Analysis"}
+{"tool_id":9249,"type":"desc","id":"c080e2d9-59b3-4662-9975-77b79e101b00","text":"extract data in log to dataset"}
+{"tool_id":9249,"type":"name","id":"f337b8dc-3b01-4dd8-bce5-fa9dc59c0224","text":"Log2Dataset"}
+{"tool_id":9250,"type":"trig","id":"4b7ba6bd-a0d7-4c2b-adde-9ad96ca3004f","text":"record audio"}
+{"tool_id":9250,"type":"desc","id":"19b5fa85-1264-46a8-a252-ee2fc6979cfd","text":"This is tool for recording audio"}
+{"tool_id":9250,"type":"name","id":"a7ca4f5b-e0eb-4b7a-9817-768470bbafd3","text":"Record Audio"}
+{"tool_id":9260,"type":"desc","id":"55cf7239-c3d3-48ad-bca9-586973863c1f","text":"Test"}
+{"type":"name","tool_id":9260,"id":"6e72b7cd-96ff-40b6-80dd-c7a6c1deb699","text":"Chau Experiment"}
+{"type":"desc","tool_id":9296,"id":"ed9a438e-dee1-4925-be29-8f0f2c4c07f5","text":"test web automation"}
+{"type":"name","tool_id":9296,"id":"236dc96d-1929-4a3d-9d42-50253158e397","text":"Test Web Automation - Binh"}
+{"type":"desc","tool_id":9308,"id":"c1394c33-3a2a-408c-8a57-8ddbf19c96f9","text":"Pay UIUC Rent"}
+{"tool_id":9308,"type":"name","id":"ca0dcebb-bbbd-4e6d-b6c5-8d222ba5a068","text":"Pay UIUC Rent"}
+{"tool_id":9310,"type":"desc","id":"ebcfee45-c92d-4cc5-80b8-2baaa4485404","text":"Request Alias Record"}
+{"tool_id":9310,"type":"name","id":"95b41982-dc44-4e19-81e9-9107a003df6b","text":"Request Alias Record"}
+{"type":"desc","tool_id":9311,"id":"f6e22b49-f6fe-4ec6-b149-2b5ec1e6463d","text":"Get amazon invoices"}
+{"type":"name","tool_id":9311,"id":"bf4dabe8-3658-407a-9ec1-5db60c59ad04","text":"Amazon Web Automation"}
+{"tool_id":9312,"type":"desc","id":"2d306d43-b93b-4926-b64b-1758ad8c0108","text":"Chrome river automations"}
+{"type":"name","tool_id":9312,"id":"f4a08c45-b851-4bb8-94f2-49f014510dd6","text":"Test Chrome River Integration"}
+{"type":"desc","tool_id":9313,"id":"a5d8a36d-8b34-42d9-8df0-e1a57f298f96","text":"get inbox in outlook and create suggestions"}
+{"tool_id":9313,"type":"name","id":"4e02c7e7-29e8-4baa-96f2-5b779e645f57","text":"Process Outlook Emails"}
+{"type":"desc","tool_id":9317,"id":"f2a1e0dd-71b9-4490-90df-30ea6fb94eff","text":"process mail"}
+{"tool_id":9317,"type":"name","id":"210ff631-3d4e-44b2-a887-fadc5d23b90e","text":"Process gmail v2 - with settings"}
+{"type":"desc","tool_id":9318,"id":"7488b2ce-bd40-4373-8225-f2779953aaec","text":"settings gmail"}
+{"type":"name","tool_id":9318,"id":"cffe0232-414f-42f8-b942-21db1e9f9a23","text":"Email Settings"}
+{"type":"trig","tool_id":9327,"id":"ebbeede3-33dc-40c7-9cf8-5657766d146d","text":"open my folder"}
+{"type":"trig","tool_id":9327,"id":"f47eb51c-1474-4ebd-aded-414b7cd8ee10","text":"open my data folder"}
+{"tool_id":9327,"type":"desc","id":"ca8a104c-fb12-44e7-8850-a2c405775e0b","text":"Show cloud folder User Data folder and the Current Conversation folder. Helpful for user to upload or download files from cloud."}
+{"type":"desc","tool_id":9331,"id":"3a065fee-3425-49db-b2ca-1ba298b7ed6d","text":"DOE Data Analytics"}
+{"type":"name","tool_id":9331,"id":"671df53f-8eaa-4988-8c8c-16fd61462525","text":"DOE Data Analytics"}
+{"tool_id":9346,"type":"desc","id":"8299d662-a173-466b-b526-4040dbcd61b9","text":"Trả lời câu hỏi về luật VN"}
+{"tool_id":9346,"type":"desc","id":"8299d662-a173-466b-b526-4040dbcd61b9","text":"Tra loi cau hoi ve luat VN"}
+{"tool_id":9346,"type":"name","id":"8959626b-9dca-47f2-97b7-d270db010ab9","text":"VN Law (Không hướng dẫn)"}
+{"tool_id":9346,"type":"name","id":"8959626b-9dca-47f2-97b7-d270db010ab9","text":"VN Law (Khong huong dan)"}
+{"type":"trig","tool_id":9347,"id":"ca62e8eb-cf81-49ea-ab43-15eb85a26c9d","text":"Tạo hợp đồng lao động"}
+{"type":"trig","tool_id":9347,"id":"ca62e8eb-cf81-49ea-ab43-15eb85a26c9d","text":"Tao hop dong lao dong"}
+{"tool_id":9347,"type":"desc","id":"380ed250-fa2d-42e5-9edb-30594284c5a6","text":"Tạo hợp đồng lao động cho nhân viên mới."}
+{"tool_id":9347,"type":"desc","id":"380ed250-fa2d-42e5-9edb-30594284c5a6","text":"Tao hop dong lao dong cho nhan vien moi."}
+{"type":"name","tool_id":9347,"id":"0bd18107-bd54-4661-b373-28d9ed27da2d","text":"Labor Contract Generator"}
+{"type":"desc","tool_id":9348,"id":"4d48cf3a-7eec-4d70-a196-c9904bb08c3a","text":"Get my user folder"}
+{"tool_id":9348,"type":"name","id":"9051b868-e81f-4f8c-9706-fa1d34b00aff","text":"Get user folder"}
+{"type":"desc","tool_id":9353,"id":"5e5a0333-1304-4729-bb74-ffd297fb3c33","text":"Reviews legal contracts"}
+{"tool_id":9353,"type":"name","id":"7fd1bafa-b68e-4ece-a3f3-bb810dac6d15","text":"VN Law - Sửa Hợp đồng"}
+{"tool_id":9353,"type":"name","id":"7fd1bafa-b68e-4ece-a3f3-bb810dac6d15","text":"VN Law - Sua Hop dong"}
+{"tool_id":9354,"type":"desc","id":"9cc71c5a-d9e7-46b0-a653-d78da1c83c80","text":"Chuyển hợp đồng từ Word sang markdown theo định dạng của Maxflow."}
+{"tool_id":9354,"type":"desc","id":"9cc71c5a-d9e7-46b0-a653-d78da1c83c80","text":"Chuyen hop dong tu Word sang markdown theo dinh dang cua Maxflow."}
+{"type":"name","tool_id":9354,"id":"e93b59e4-79a4-4ef6-9591-0153dea7cefa","text":"Chuyen_sang_markdown"}
+{"type":"desc","tool_id":9355,"id":"9a2e93c9-1072-47ff-a7bd-d62596d1b967","text":"Test markdown template xem dien so that vao no nhu the nao."}
+{"tool_id":9355,"type":"name","id":"b202bdd5-a410-47e7-8458-109b867101bf","text":"Thu markdown voi gia tri that cho de nhin"}
+{"tool_id":9362,"type":"desc","id":"693bb567-be4f-474a-acfc-ee02fe12e3d6","text":"Tạo hợp đồng theo yêu cầu người dùng"}
+{"tool_id":9362,"type":"desc","id":"693bb567-be4f-474a-acfc-ee02fe12e3d6","text":"Tao hop dong theo yeu cau nguoi dung"}
+{"tool_id":9362,"type":"name","id":"e60a15c0-5cc5-4214-866c-796f253d27d8","text":"Contract Generator"}
+{"tool_id":9363,"type":"trig","id":"7be15188-ae9b-4f0a-815f-6ddb97cebaa5","text":"open python coder"}
+{"tool_id":9363,"type":"desc","id":"a7033fac-750d-491a-a2cf-304af357ddb1","text":"Write python code according to instruction or open a blank code editor."}
+{"tool_id":9363,"type":"name","id":"2badb064-a60c-4b63-840b-aee39938ea61","text":"Code Editor"}
+{"type":"trig","tool_id":9368,"id":"b854bcd4-8452-4095-9285-57f02e3083a3","text":"generate image"}
+{"type":"trig","tool_id":9368,"id":"7a04d74a-2850-4e32-96fd-71496c20cc39","text":"create image"}
+{"tool_id":9368,"type":"trig","id":"048fe0f7-0470-4d77-abcb-1eab94d91386","text":"draw image"}
+{"tool_id":9368,"type":"trig","id":"f19646ea-e462-45fe-ac3d-3b5dcfed9294","text":"image"}
+{"tool_id":9368,"type":"trig","id":"916965e1-71af-4e25-9312-a245bcebb230","text":"draw something as a picture"}
+{"type":"desc","tool_id":9368,"id":"bc3ee022-ba82-41ab-9c22-3c5eb4bc29f5","text":"Generate or edit an image with text description"}
+{"type":"name","tool_id":9368,"id":"7880632b-7a38-48b4-aede-09003e00603c","text":"Generate Image"}
+{"tool_id":9369,"type":"desc","id":"070612fd-1ad8-4902-9f18-1f89b10eba7b","text":"Create a CAD model based on a description"}
+{"tool_id":9369,"type":"name","id":"7fd0fad0-0ad9-4e4a-89c7-35443e79bee0","text":"Text to CAD"}
+{"tool_id":9370,"type":"trig","id":"b2904089-6f2b-4dd4-accf-67686a2b49cb","text":"Dear Hunting Permit"}
+{"type":"trig","tool_id":9370,"id":"eba7db58-2a6a-48f6-a1be-da6149de50eb","text":"POH Deer hunting permit"}
+{"type":"desc","tool_id":9370,"id":"1b3ed37d-0538-484f-ad98-c7f7eae3bfc2","text":"Dear Hunting Permit Application or Renewal"}
+{"tool_id":9370,"type":"name","id":"f571ff4e-e0b2-4de2-879f-a88c9896105b","text":"Get Hunting Permit"}
+{"tool_id":9372,"type":"desc","id":"95471727-6bfc-4837-a1d0-266e9ba51a0c","text":"Get current user location location, if not provided."}
+{"type":"name","tool_id":9372,"id":"59aeb81f-48f8-4fc1-8fc3-717118ef925d","text":"Get User Location"}
+{"type":"trig","tool_id":9374,"id":"63d11769-0c0b-4665-8d0a-9f5ebd4365cd","text":"download youtube video: <youtube link>"}
+{"type":"trig","tool_id":9374,"id":"0467640f-ac7a-4f5c-b6c1-f236e33259c8","text":"youtube to mp4 tool"}
+{"tool_id":9374,"type":"trig","id":"a17936b0-0644-45e5-9c63-76d44a30d78a","text":"download youtube link: <youtube link>"}
+{"type":"desc","tool_id":9374,"id":"e2e8a26a-270f-4053-b278-4764cde684b9","text":"Download Youtube video as mp4 file. Youtube to mp4 converter."}
+{"type":"name","tool_id":9374,"id":"660ed666-93b2-4b4e-a8fe-f6879611fadc","text":"Download Youtube Video"}
+{"tool_id":9375,"type":"trig","id":"f768045d-aa98-4234-af0f-58726576ae42","text":"[Generate, create] monthly financial report for uiuc econ department"}
+{"tool_id":9375,"type":"desc","id":"1915f523-9e12-4301-abc9-208dccf6d81d","text":"Download UIUC Econ Department Monthly Financial Report"}
+{"tool_id":9375,"type":"name","id":"4c5d2999-4adf-40b9-a32f-26a729b99682","text":"Download UIUC Econ Department Monthly Financial Re"}
+{"tool_id":9393,"type":"desc","id":"8abcda16-e333-45f9-8bcd-ddeaa2033b30","text":"Answer questions about Maxflow corporate travel policy. Not for generic traveling advice."}
+{"type":"name","tool_id":9393,"id":"06c2ac35-4063-465b-a8e1-d3ec19abbc5d","text":"Maxflow Travel Policy"}
+{"type":"desc","tool_id":9396,"id":"6722497b-b2e8-435d-9b07-de4236fb59a6","text":"Test agent for web automation builder"}
+{"type":"name","tool_id":9396,"id":"34bc58d4-37d7-407a-94d1-9e022504d7c5","text":"Dat test"}
+{"tool_id":9397,"type":"desc","id":"74d09509-fcf9-49da-b101-238ab760c5a9","text":"Build automated workflow with step by step prompting"}
+{"tool_id":9397,"type":"name","id":"b7f06634-20e3-43d9-a6a4-bcad16762c99","text":"Workflow Builder"}
+{"tool_id":9398,"type":"desc","id":"782132b4-f759-405d-8301-5e80ccc1a75d","text":"Help write email replies, without access to email account."}
+{"tool_id":9398,"type":"name","id":"89485875-c9cb-40dd-b12d-d7d71e723eee","text":"Prepare Email Reply"}
+{"type":"trig","tool_id":9399,"id":"e818428a-e89f-4934-94bd-e118a0a91f28","text":"What is the difference between you and ChatGPT"}
+{"type":"trig","tool_id":9399,"id":"2e4310e2-7a16-45a0-abd0-a32b8d52c30b","text":"Compare yourself with ChatGPT"}
+{"type":"desc","tool_id":9399,"id":"42603337-4c51-4f56-8022-24eaa0679f56","text":"Compare and highlight the difference between you (maxflow.ai) and ChatGPT."}
+{"tool_id":9399,"type":"name","id":"606b2edb-3eda-4876-b3bc-e9bc91d4b9a6","text":"Compare to ChatGPT"}
+{"type":"trig","tool_id":9400,"id":"019178ed-55f2-43bd-bb83-807a8a75fc15","text":"Why Maxflow"}
+{"tool_id":9400,"type":"trig","id":"723bdeda-d6c7-4d75-908d-a7cf574c9c6a","text":"Why is Maxflow team is right for this platform"}
+{"type":"desc","tool_id":9400,"id":"fa928543-a225-4bfe-8cdc-32221e0f2d20","text":"Answer the question: why is Maxflow the right team for this platform"}
+{"tool_id":9400,"type":"name","id":"a50846ae-0b8f-4de1-a202-19fb64b3bda8","text":"Why Maxflow for GenAI"}
+{"type":"desc","tool_id":9402,"id":"cc6ef040-4ae8-47f8-b7d7-7a11c9a97c44","text":"Update Preferences for Simple Email Reply"}
+{"tool_id":9402,"type":"name","id":"872a24db-10e2-4e6e-b98a-f924fddef2d9","text":"Update Preferences for Simple Email Reply"}
+{"tool_id":9404,"type":"desc","id":"5cd0577a-1239-4b72-9a8b-685fb783823f","text":"Test Khai"}
+{"type":"name","tool_id":9404,"id":"069b7fa2-c0b8-4cbb-97b6-94d372cc4e39","text":"Khai Test"}
+{"tool_id":9410,"type":"desc","id":"b2ef485e-838e-45c5-be76-f13fb8a1ccce","text":"test"}
+{"tool_id":9410,"type":"name","id":"5350b268-6df6-4d8a-aaf2-0622f8f84ee4","text":"Temp"}
+{"tool_id":9412,"type":"desc","id":"1477502f-8003-433a-a6b5-89f1a2e0ecab","text":"Download"}
+{"tool_id":9412,"type":"name","id":"83df0586-be0e-41c4-a2eb-f13bcafd7b2a","text":"Download File Web Automation"}
+{"type":"desc","tool_id":9420,"id":"c2e7d6e1-c551-4b3c-a541-67df1ba87520","text":"Uiuc course registration"}
+{"tool_id":9420,"type":"name","id":"8eb3143a-16fa-485f-92f3-d7a5cdbcf723","text":"uiuc course registration"}
+{"type":"desc","tool_id":9425,"id":"9b98b86b-46c5-46ad-997d-f433fecfe6b6","text":"For fun, if you want to try out someone cold."}
+{"tool_id":9425,"type":"name","id":"3db591e9-3835-428f-aea8-93f99672925e","text":"Cold Mode"}
+{"tool_id":9428,"type":"desc","id":"6de4e9db-79d2-4564-8090-85cb88b474e4","text":"Run Payroll"}
+{"tool_id":9428,"type":"name","id":"577ae533-cbb9-4863-896f-9afc1ab9d722","text":"Run Payroll"}
+{"tool_id":9434,"type":"desc","id":"974e6348-044a-4ca7-a9aa-a07f34f06909","text":"Testing. Don't call"}
+{"type":"name","tool_id":9434,"id":"dd48f556-0cdf-46de-84c8-5bd3d07df2d7","text":"Web Automation Prompting - Binh"}
+{"type":"trig","tool_id":9439,"id":"128c68fe-761c-4f87-89c9-f249270d4549","text":"generate the 3D model for a"}
+{"tool_id":9439,"type":"desc","id":"6ff6db7d-711f-44c7-9525-3b0b5904e549","text":"Generate a 3D model based on a description"}
+{"tool_id":9439,"type":"name","id":"30619c12-5de2-46f2-abfb-43e106cb7f04","text":"Generate a  3D model"}
+{"tool_id":9440,"type":"trig","id":"57df8344-294b-41ef-8dd6-7ca9588851c5","text":"dich van ban"}
+{"type":"trig","tool_id":9440,"id":"a8460fb0-e168-44b6-b915-1d5dc29a7a89","text":"dich cac file van ban tu ngon ngu goc sang ngon ngu duoc chon"}
+{"tool_id":9440,"type":"trig","id":"cf6e2836-f084-45d8-bc4f-7fc74a078e7c","text":"dịch văn bản"}
+{"tool_id":9440,"type":"trig","id":"cf6e2836-f084-45d8-bc4f-7fc74a078e7c","text":"dich van ban"}
+{"type":"trig","tool_id":9440,"id":"02d5d189-5cf3-4a93-afc5-fc7720fc3754","text":"translate a document"}
+{"type":"desc","tool_id":9440,"id":"088baf09-a0f3-4871-8815-ac83b9563e28","text":"Translate a document from one language to another while preserving the document format."}
+{"tool_id":9440,"type":"name","id":"65f187ab-1c32-45d4-9ad5-85d13b68ae98","text":"Document Translator"}
+{"tool_id":9447,"type":"desc","id":"e46fc7bf-e2c7-4466-bb7d-983da4329152","text":"Convert Voice to Sign Language Info"}
+{"tool_id":9447,"type":"name","id":"ec505682-8600-4e3a-8277-995106f2fe01","text":"Convert Voice to Sign Language Info"}
+{"tool_id":9449,"type":"desc","id":"d0fa7b71-8bee-46af-9e01-c28488859b59","text":"Convert ASL Gloss To Hamnosys"}
+{"tool_id":9449,"type":"name","id":"2fa4063d-7d9d-4fc5-a41f-8b7819c46552","text":"ASL Gloss To Hamnosys"}
+{"type":"desc","tool_id":9450,"id":"6b0d7851-4f42-409b-be56-b0db8fc0471e","text":"Report the tokens used by users and agents."}
+{"tool_id":9450,"type":"name","id":"bcdbbf97-87c2-46b6-ba31-10c36e56dc74","text":"User Usage Reporter"}
+{"tool_id":9451,"type":"desc","id":"982ce1b1-d510-46bd-9ac3-61700053487f","text":"web auto test performance of FE"}
+{"type":"name","tool_id":9451,"id":"eba031b0-9ac6-4d44-bcae-b5ebfaac24be","text":"WAB Test performance"}
+{"tool_id":9453,"type":"desc","id":"a026b848-ba59-4f6f-90f1-f68e18e909a4","text":"Build automated workflow"}
+{"type":"name","tool_id":9453,"id":"8303f2fe-fb67-4126-a9c3-9ef63a804801","text":"Workflow Builder"}
+{"type":"name","tool_id":9456,"id":"f3cbcc79-3cbc-445e-a7aa-aad9445bde43","text":"Python Code Executor"}
+{"tool_id":9472,"type":"desc","id":"45a51aaa-ee04-493a-b6e2-bec768d6fd2d","text":"Opens Google, searches for 'swan fun facts', copies a fun fact, and sends it back to the user."}
+{"tool_id":9472,"type":"name","id":"fc3f165c-e02a-47a4-ba15-01f269fc9a07","text":"Swan Fun Fact Finder"}
+{"tool_id":9473,"type":"desc","id":"9220833c-8b60-464c-9068-96bafdb27fb8","text":"Automates the process of opening Google, searching for 'Harding Pipeline', accessing the first result, navigating to the student tab, selecting 'degree evaluation', and then choosing 'uachieve'."}
+{"type":"name","tool_id":9473,"id":"cc4a5069-9b22-4f50-b3d0-c9c2cf8c6b66","text":"Harding Pipeline Degree Evaluation"}
+{"type":"desc","tool_id":9474,"id":"640db9f9-9bed-46a1-9f21-1c9b73ef43c5","text":"This tool opens Gmail and automatically opens the top (most recent) email in the inbox."}
+{"tool_id":9474,"type":"name","id":"9c0f07c4-29b6-49a8-a5d0-b48a8113d979","text":"Open Gmail and Read Top Email"}
+{"type":"desc","tool_id":9476,"id":"3ccc11b5-21a2-4df2-ab12-d923b8f190af","text":"Automates the process of opening Google, searching for 'harding pipeline', navigating to the first result, searching for 'schedule' within the pipeline, and selecting 'My Classes (registration)', then 'my class schedule', and finally 'next term'."}
+{"type":"name","tool_id":9476,"id":"62d21526-2b2d-4149-a0c2-40a3bff9e3a2","text":"Harding Pipeline Class Schedule Navigator"}
+{"tool_id":9529,"type":"desc","id":"e712a710-069e-44e8-a9d9-064beb7f4c3c","text":"Save this conversation as an automated workflow. "}
+{"tool_id":9529,"type":"name","id":"faf2e871-49d1-404b-a2ae-0d41f975def8","text":"Create Automated Workflow from Conversation"}
+{"type":"trig","tool_id":9539,"id":"f7d56abf-6cbe-4530-bf69-7e636427bcde","text":"open a web page"}
+{"type":"trig","tool_id":9539,"id":"f62fd3ac-4faa-404a-a657-0b5fea00703a","text":"download file"}
+{"type":"trig","tool_id":9539,"id":"0a9f3575-0765-43ed-a40b-fc4b4d99a660","text":"click on"}
+{"type":"desc","tool_id":9539,"id":"a57d27d1-2fbc-47f7-b511-75f15ddfe151","text":"Browse the Web, including going to an web page or URL, take actions, downloaf files, or get data."}
+{"type":"name","tool_id":9539,"id":"603d03c4-4e94-4c7e-98c4-99acf4934c09","text":"Browse the Web"}
+{"type":"desc","tool_id":9554,"id":"e725ee45-a33d-4844-b408-0700cceae650","text":"Write Python Code to Solve Problem without Executing/Running the code."}
+{"tool_id":9565,"type":"trig","id":"7c35b811-ed2f-44fb-b0f3-e88457452da1","text":"Send SMS"}
+{"tool_id":9565,"type":"trig","id":"faf81b70-d05c-4df5-83f5-bba86941cdbb","text":"Send text message"}
+{"type":"desc","tool_id":9565,"id":"9453483b-acd4-4764-a45a-0405d74eb81e","text":"Send SMS"}
+{"type":"name","tool_id":9565,"id":"dad3ff74-6dab-4ca4-8b3a-b6389683c6d8","text":"Send SMS"}
+{"type":"trig","tool_id":9566,"id":"c8e939ff-fafd-47f0-b160-8de436d7ca25","text":"send email"}
+{"type":"trig","tool_id":9566,"id":"82277f99-ab50-453a-aa9b-f6781f8138e5","text":"email"}
+{"tool_id":9566,"type":"desc","id":"4ff9e3a1-1048-4953-87b3-1a4f41db2648","text":"Send an email"}
+{"type":"name","tool_id":9566,"id":"9d6643e8-baad-4e66-8137-9488e69107bc","text":"Send Email"}
+{"tool_id":9567,"type":"desc","id":"fdc5497a-3251-47ea-ae82-233600ba0b66","text":"Get My Email Address"}
+{"tool_id":9567,"type":"name","id":"f4fee720-659f-4c31-87cf-6ee27c387f79","text":"Get My Email Address"}
+{"type":"desc","tool_id":9569,"id":"24d46465-3b60-4830-8a41-caf156980056","text":"353453"}
+{"tool_id":9569,"type":"name","id":"4d536e29-b564-4f14-8cc7-262bd0136b3e","text":"Khai Test UI UC"}
+{"tool_id":9570,"type":"trig","id":"2459176b-039d-43ee-9b98-4c9a6b212cc6","text":"I want to summarize a RFP."}
+{"type":"trig","tool_id":9570,"id":"0829e241-32b4-4f86-88c2-203773bf1a12","text":"I want to analyze a RFP."}
+{"type":"desc","tool_id":9570,"id":"1f3ff2f8-43e2-4dd5-b46a-85da359393b5","text":"Analyze the Request for Proposal (RFP) and create a summary. This is the simple version."}
+{"type":"name","tool_id":9570,"id":"17c80463-3e64-4335-9782-73407b050481","text":"RFP Analyzer simple"}
+{"tool_id":9575,"type":"desc","id":"48d73bb7-664d-446b-8f99-87a08601a913","text":"Automate web browsing by recording user action and play back."}
+{"type":"name","tool_id":9575,"id":"2850047b-6e7d-470f-9bf2-95d187617de3","text":"Record Web Browsing Actions"}
+{"type":"desc","tool_id":9585,"id":"7c347a55-2c8a-41f7-9bd6-7918f368b006","text":"A tool to navigate to Google, search for NVIDIA stock information, and extract the current stock price and PE ratio from the search results."}
+{"tool_id":9585,"type":"name","id":"c764ffb0-6b89-4bf6-ba45-6f529308c308","text":"NVIDIA Stock Info Extractor"}
+{"tool_id":9602,"type":"desc","id":"f3f905f6-3b62-42fc-acd3-81a34a68efad","text":"Re-index Index Search Database"}
+{"tool_id":9602,"type":"name","id":"78e2f11b-ed2c-43ca-b84c-4a186332eac5","text":"Re-index Index Search Database"}
+{"tool_id":9606,"type":"desc","id":"f1cc3b0d-b705-4e65-bf68-d48795b92119","text":"Extract information page by page."}
+{"type":"name","tool_id":9606,"id":"79a5f51b-b0cf-437a-b496-943fa52efb50","text":"PDF Info Extract page by page"}
+{"tool_id":9618,"type":"desc","id":"a6b9ba9d-cb39-44c8-a07c-7271d138509e","text":"Test Simple Assistant Python Functions"}
+{"type":"name","tool_id":9618,"id":"7c2fdb68-e32f-4eaa-b7af-0a0a2c8699b0","text":"Test Simple Assistant Python Functions"}
+{"tool_id":9619,"type":"desc","id":"8b3dba60-c071-4e69-9460-faceddf5f92f","text":"Convert Scanned PDF File into a text-based PDF or Markdown file"}
+{"tool_id":9619,"type":"name","id":"241b4176-5aa9-497f-9bbc-f91097752455","text":"Convert Scanned PDF File"}
+{"type":"desc","tool_id":9622,"id":"9405ed14-720f-4a46-ac72-bac3bdf0b0b0","text":"RFP Analyzer Comprehensive"}
+{"tool_id":9622,"type":"name","id":"53e41e12-317f-4d43-8ab4-98fbae1a68f9","text":"RFP Analyzer Comprehensive"}
+{"type":"desc","tool_id":9624,"id":"181e7cc2-b399-4f63-8f7c-45109506588c","text":"Browse the Web, including going to an web page or URL, take actions, downloaf files, or get data."}
+{"type":"desc","tool_id":9627,"id":"c22b0e92-dc00-4f7f-949d-ec6f19de2bf2","text":"Test Greetings"}
+{"type":"name","tool_id":9627,"id":"46a93c69-4be8-499b-8eb1-4063da5c0c71","text":"Test Greetings"}
+{"tool_id":9635,"type":"trig","id":"f986823a-bf66-49bf-9267-7b8efef48d91","text":"upload file thuật ngữ"}
+{"tool_id":9635,"type":"trig","id":"f986823a-bf66-49bf-9267-7b8efef48d91","text":"upload file thuat ngu"}
+{"type":"trig","tool_id":9635,"id":"077dfd62-9b94-49c9-88de-bf02836e9c24","text":"upload glossary file"}
+{"type":"trig","tool_id":9635,"id":"0b9cdd97-4a54-4d83-9375-25550f155bb6","text":"glossary file"}
+{"type":"desc","tool_id":9635,"id":"4ba56084-b067-46b1-8544-49c885ceee56","text":"Update the glossary file for use by the Document Translator agent"}
+{"type":"name","tool_id":9635,"id":"bc34a3ac-bc64-4356-a7c8-3865945e8025","text":"Update Glossary File for Document Translator"}
+{"type":"desc","tool_id":9636,"id":"25ae7871-e27e-425d-813b-68f84600160e","text":"Notes for agent creation."}
+{"type":"name","tool_id":9636,"id":"50f63c20-28b6-41f0-b1d2-92a1c18d2925","text":"Agent Creation Help"}
+{"tool_id":9637,"type":"desc","id":"7f4a763e-025b-4010-82db-ef4b1c0362fd","text":"Test canvas"}
+{"tool_id":9637,"type":"name","id":"43ee5d9f-ddc5-4c12-9c26-04a33cf06276","text":"Test canvas"}
+{"tool_id":9640,"type":"desc","id":"a1352a4a-e2cd-4e18-87f0-ea0e567d47bd","text":"Answer questions about the agreement with enterprise works, UIUC wher my company Maxflow to be an affiliate. This is like a rent contract with special terms."}
+{"tool_id":9640,"type":"name","id":"666bc599-40eb-4d00-b420-c6f158c49c63","text":"EnterpriseWorks Rent Agreement"}
+{"type":"desc","tool_id":9643,"id":"e816eddb-3b68-4f40-ab3f-5113757610bd","text":"Genie: Do not use this"}
+{"tool_id":9643,"type":"name","id":"886ef0f6-37ac-4aa2-8eb0-6056187b8379","text":"Example of buttons and link buttons"}
+{"tool_id":9644,"type":"desc","id":"826ca9a1-2709-4367-adde-5c468912ddf9","text":"test 7"}
+{"tool_id":9644,"type":"name","id":"f0d38278-acd0-4e83-989a-149f0b6f2a09","text":"Test 7"}
+{"type":"desc","tool_id":9646,"id":"367f54f1-ace5-4671-8dd1-da97aaaea26b","text":"test cache"}
+{"tool_id":9646,"type":"name","id":"ca54869c-1b84-4de5-b99a-8b7ed251d34f","text":"test cache"}
+{"tool_id":9647,"type":"desc","id":"c0b801e5-56d9-4d8b-87b4-e21ccfabe0d7","text":"Testing"}
+{"type":"name","tool_id":9647,"id":"eb2ec5c9-6455-4c62-b96e-f62dfdd2df53","text":"Binh Test"}
+{"tool_id":9648,"type":"desc","id":"71de9d45-0d22-49c6-86e1-a9d0f3b4ead1","text":"test time uiuc"}
+{"type":"name","tool_id":9648,"id":"ec819403-301f-41c4-9ba0-338820546644","text":"Test UIUC"}
+{"type":"trig","tool_id":9649,"id":"98588afb-2d40-455b-96ec-74ddd13489dc","text":"what time is it now"}
+{"type":"trig","tool_id":9649,"id":"0b3a874d-a321-4bd9-adb5-10d545848c42","text":"what's today's date"}
+{"tool_id":9649,"type":"desc","id":"19b64bd3-5014-49a8-bdda-a655d29ab52e","text":"Get the current date and time"}
+{"type":"name","tool_id":9649,"id":"4722edaa-40d5-49ce-870a-05c8cdc76c07","text":"Get current date and time"}
+{"tool_id":9650,"type":"desc","id":"26bac605-c690-4a5d-9c4d-86d8158f8370","text":"Show a picture from a picture file."}
+{"type":"name","tool_id":9650,"id":"f7511366-0c80-4436-8ff9-7ad0a7a873f9","text":"Picture viewer"}
+{"tool_id":9651,"type":"desc","id":"bf567199-ed09-4a7d-b6c9-24c3c0a17bfc","text":"Generate a link to download a file that exists in this conversation."}
+{"type":"name","tool_id":9651,"id":"6b18d09a-3ac2-495c-9393-d829263c37ef","text":"Download a file from this conversation"}
+{"type":"name","tool_id":9668,"id":"11eed071-5eba-4b1c-bb09-5aa5219c3a85","text":"Deep Search"}
+{"tool_id":9671,"type":"desc","id":"4c449cbf-fb6a-4e39-87da-80a40703d68e","text":"Show a stock chart and live information about a stock."}
+{"tool_id":9671,"type":"name","id":"7b7498f3-fa28-4229-a23e-72deccf0bebc","text":"Get Live Stock Info"}
+{"tool_id":9674,"type":"desc","id":"4b49f4ef-b1e7-47e3-a89b-d9b5bc542632","text":"Test Website Url"}
+{"type":"name","tool_id":9674,"id":"9d07666d-ccf1-42e0-8817-fdf8fb6113c8","text":"Test Website Url"}
+{"tool_id":9686,"type":"desc","id":"9265cd90-ee33-4759-926c-ca5f89484b7e","text":"45345"}
+{"tool_id":9686,"type":"name","id":"bacee66a-4fea-41c3-a1a5-8f71638f5a13","text":"Khai test json form"}
+{"type":"desc","tool_id":9690,"id":"fa841665-f33a-40bf-9f84-9f05aab94982","text":"create form"}
+{"type":"name","tool_id":9690,"id":"0a64eb3d-02a1-4b63-ae35-92858b4ca366","text":"Create Form"}
+{"type":"desc","tool_id":9692,"id":"02f110ff-3d5e-445d-8ed0-ec2c7f295ca2","text":"Report"}
+{"tool_id":9692,"type":"name","id":"0a9aaac7-3ef3-47b8-a55a-3aabcd74ede1","text":"Report"}
+{"type":"desc","tool_id":9696,"id":"fc541e5a-52fd-4a05-970d-8a8ce28f620b","text":"show form"}
+{"tool_id":9696,"type":"name","id":"a5fda041-25fe-4466-85ea-72c9e2bfdbb2","text":"Show Form"}
+{"type":"desc","tool_id":9705,"id":"ec8c87e1-9a66-43b4-9805-134e7988d865","text":"Create monthly project financial analysis report"}
+{"tool_id":9705,"type":"name","id":"940b465c-5e01-4147-81fa-4e1e0635c523","text":"Create Project Financial Status Report"}
+{"type":"desc","tool_id":9706,"id":"41b82f52-00d5-426e-87ef-a618ede7b923","text":"Upload Monthly Project Report for processing it and make it ready for the Project Monthly Status report agent."}
+{"tool_id":9706,"type":"name","id":"0cc5e142-4ed1-4f50-a31f-e589db941466","text":"Upload Monthly Project Data"}
+{"type":"desc","tool_id":9724,"id":"73bb7b1c-a8e3-4977-879e-de627ea8b800","text":"Call LLM"}
+{"tool_id":9724,"type":"name","id":"56ffc09b-1834-4c39-8f8f-2d42f63fde12","text":"Call LLM"}
+{"tool_id":9725,"type":"desc","id":"c1686f20-ca48-4080-8c1c-fa02ed48575a","text":"call LLM python code"}
+{"type":"name","tool_id":9725,"id":"8084698c-c207-4c75-bf0d-6c9856831bcd","text":"call LLM python code"}
+{"tool_id":9735,"type":"desc","id":"cccb4b95-1832-4cd4-861b-b4e69f0f62dc","text":"One Pager on how to create an agent."}
+{"tool_id":9735,"type":"name","id":"2183651a-45b9-436b-9d54-592550a51f56","text":"How to Create Agent"}
+{"type":"desc","tool_id":9747,"id":"0ac91a28-e45f-403b-b832-d08819421b85","text":"Stock analysis and recommendation"}
+{"type":"name","tool_id":9747,"id":"d5a5df47-dcc7-4b81-a85c-874fce005d89","text":"Stock analysis and recommendation"}
+{"type":"desc","tool_id":9748,"id":"794625cb-6145-46b4-a368-86d77e89e39e","text":"Generate hypothesis to assist a conversation for scientific discovery"}
+{"tool_id":9748,"type":"name","id":"d51917e5-0544-430b-8cd3-4a1ec673762d","text":"Hypothesis generator"}
+{"type":"desc","tool_id":9749,"id":"1d43f406-945b-4fc8-9ddf-e57b2ec3f2a2","text":"Research compiler"}
+{"tool_id":9749,"type":"name","id":"506c37c6-8641-4a09-9024-70c493df2f20","text":"Research compiler"}
+{"tool_id":9750,"type":"desc","id":"163c991f-31de-4b4e-a9e3-d380faef67b5","text":"Simulate some pythothesis and give results."}
+{"type":"name","tool_id":9750,"id":"b1dceba1-9c78-4ff0-9c34-c88845777973","text":"Scientific Simulator"}
+{"type":"desc","tool_id":9754,"id":"bf8fcfa7-7800-4dc3-8c3a-7dd362c45115","text":"AI"}
+{"type":"name","tool_id":9754,"id":"eaf2b820-6b15-4661-af5d-ded1c702bec6","text":"TEST"}
+{"type":"trig","tool_id":9756,"id":"52cb0640-e4e5-4554-9ce5-e78bd7e93a73","text":"Làm thế nào để dùng chức năng đánh pickle ball trên máy?"}
+{"type":"trig","tool_id":9756,"id":"52cb0640-e4e5-4554-9ce5-e78bd7e93a73","text":"Lam the nao de dung chuc nang danh pickle ball tren may?"}
+{"tool_id":9756,"type":"trig","id":"7204c3e9-21af-4ce2-99e7-e77026472f68","text":"cách dùng mũ pickle ball ?"}
+{"tool_id":9756,"type":"trig","id":"7204c3e9-21af-4ce2-99e7-e77026472f68","text":"cach dung mu pickle ball ?"}
+{"type":"desc","tool_id":9756,"id":"4a0b9774-9a7c-4954-bb3d-1739d2ed41dd","text":"Test agent"}
+{"type":"name","tool_id":9756,"id":"bf5d3463-d427-4c11-99d4-c037ea282eb3","text":"Test"}
+{"type":"desc","tool_id":9757,"id":"acc46153-7723-4834-8d51-a5fce8e160b7","text":"Resume automation process for searching Chau Le on Google"}
+{"type":"name","tool_id":9757,"id":"9883bcbc-4e81-40d5-98f4-9ee2314cf31f","text":"browser_the_web_hang_dev"}
+{"tool_id":9763,"type":"desc","id":"f033c1b4-3f1e-4990-8a04-66b25db388a1","text":"Test Python Code"}
+{"type":"name","tool_id":9763,"id":"691d191b-9bb4-41a5-94e7-d64b0d222124","text":"Test Python Code"}
+{"tool_id":9765,"type":"desc","id":"12b14502-1f64-4829-8bf8-de76a1aebb11","text":"Show References for Previous Answer"}
+{"tool_id":9765,"type":"name","id":"03e308cc-2cd8-445d-bdd4-b3eac0f473c9","text":"Show References for Previous Answer"}
+{"type":"desc","tool_id":9767,"id":"d95d4862-1257-4d5d-9c94-0cd0010361a5","text":"List all customer servers."}
+{"type":"name","tool_id":9767,"id":"b3297b2c-6ba6-437e-afa7-4982e46ae63d","text":"List customer servers"}
+{"tool_id":9768,"type":"trig","id":"b680d5f9-8658-4064-8b7b-1fedc1394c00","text":"Export Models"}
+{"type":"desc","tool_id":9768,"id":"122a453a-55ee-4756-a187-b1fdb5c8c0be","text":"Export Models"}
+{"type":"name","tool_id":9768,"id":"7cef5268-66d2-4fcf-8cb0-5b22ed7b6b0a","text":"Export Models"}
+{"type":"trig","tool_id":9769,"id":"8e7cb79d-536c-4c4b-8526-80035abc5f64","text":"Import Models"}
+{"type":"desc","tool_id":9769,"id":"62d702da-d340-4e57-84d2-55facc9ebffb","text":"Import Models"}
+{"type":"name","tool_id":9769,"id":"85ee21dc-13c7-4130-9fa9-31d31206d6bd","text":"Import Models"}
+{"type":"desc","tool_id":9770,"id":"b30a46d3-0bc9-45d0-8673-9400544365d6","text":"Schedule"}
+{"tool_id":9770,"type":"name","id":"60b418a5-8d85-4842-ba9d-ecf8ca6492c4","text":"Schedule"}
+{"type":"desc","tool_id":9774,"id":"0b7cd281-97c2-41ec-8833-09d97055bc15","text":"Turn On Download Location Suggestion"}
+{"type":"name","tool_id":9774,"id":"d1e84207-e750-4dc4-be0a-50c9fe1b0666","text":"Turn On Download Location Suggestion"}
+{"tool_id":9779,"type":"trig","id":"b3acb166-b055-4e36-8dee-37a73369f2d7","text":"Export Agent"}
+{"tool_id":9779,"type":"desc","id":"17cea1be-972f-4fb5-a92f-921fa746f44f","text":"Export Agent"}
+{"tool_id":9779,"type":"name","id":"952d7377-b6e9-47df-a679-c2e667a30526","text":"Export Agent"}
+{"tool_id":9781,"type":"desc","id":"15d737e8-1a36-471f-837a-d8eedb404d95","text":"Agent Make Public"}
+{"tool_id":9781,"type":"name","id":"a0dd59e2-99bd-49d1-948a-68ac866d5b08","text":"Agent Make Public"}
+{"tool_id":9782,"type":"desc","id":"8097838a-0b59-494f-b883-c62eee8301b5","text":"Check sprinkler head coverage"}
+{"tool_id":9782,"type":"name","id":"9e14087b-4cfc-4960-9ef9-b855a5916e74","text":"Check sprinkler head coverage"}
+{"type":"desc","tool_id":9783,"id":"53de8563-4e21-4f17-9fdc-6e6fabef0b16","text":"Take user feedback."}
+{"type":"name","tool_id":9783,"id":"ba36f667-85a6-4054-bde7-f0cc8a15460f","text":"Feedback"}
+{"type":"desc","tool_id":9784,"id":"53fdb1a1-d43a-4009-8022-7bcf360b8052","text":"Show an example of a canvas response"}
+{"tool_id":9784,"type":"name","id":"446a04e9-34f0-448d-96d9-ec8c042267da","text":"Show Canvas Example"}
+{"tool_id":9785,"type":"trig","id":"cb5d9675-cc1c-4dbb-ace7-2f9a4a7c0f5f","text":"Test PDF BBB"}
+{"tool_id":9785,"type":"desc","id":"b1119927-ad6b-4ab4-b7ba-60fd84c50f92","text":"For test PDF "}
+{"type":"name","tool_id":9785,"id":"e2965516-23ea-4f0f-8b74-6f69efcfad01","text":"Test PDF BBB"}
+{"tool_id":9788,"type":"trig","id":"02e7749b-f369-405b-ad89-5e0a54dac454","text":"Answer questions based on document."}
+{"type":"trig","tool_id":9788,"id":"72cd855b-a26a-4ec7-a1a0-ff3e63df2716","text":"Chat with document"}
+{"tool_id":9788,"type":"trig","id":"0b0d2b7e-d02e-4ca8-ab3e-9d8837df3667","text":"document qa"}
+{"type":"desc","tool_id":9788,"id":"d4f7d7e0-6800-4475-a75b-18332c3a5af9","text":"Answer questions based on document."}
+{"tool_id":9788,"type":"name","id":"93287ed6-e52b-4a16-bd32-791cd3f1456b","text":"Document Q&A(TP)"}
+{"tool_id":9817,"type":"desc","id":"c160148e-f73d-45bb-8bf5-e8d37018b089","text":"Read Document Files including .pdf, .docx, .doc, .txt, .md, .html"}
+{"tool_id":9819,"type":"desc","id":"86501047-f900-45c2-b798-52bfca073da0","text":"Create Form Public Link"}
+{"tool_id":9819,"type":"name","id":"59bd820e-da8e-4331-bb33-67d2cfeefec2","text":"Create Public Link to a form"}
+{"type":"desc","tool_id":9820,"id":"cc8c5975-dc2b-479b-ba0a-833f639e9617","text":"Get Stock Historical Data"}
+{"type":"name","tool_id":9820,"id":"6d783291-30ba-466f-b955-f01bc085736e","text":"Get Stock Historical Data"}
+{"tool_id":9828,"type":"desc","id":"f13d8a9c-c8e8-405c-9767-fbeface930ba","text":"Import Agent"}
+{"tool_id":9828,"type":"name","id":"3002757f-5497-4050-b794-7cc2fadd6efb","text":"Import Agent"}
+{"tool_id":9830,"type":"desc","id":"bf765f42-7526-4ace-8f2d-fbf764821f61","text":"This agent will answer your questions about SLIM and its software, Fiji, and ImageJ."}
+{"tool_id":9830,"type":"name","id":"816ca428-43f1-4439-a1bb-fabf965d8e5c","text":"SLIM Instruction "}
+{"type":"desc","tool_id":9839,"id":"dc25da21-b295-4b68-b2db-9b8157376c21","text":"Answer fundamental biology questions "}
+{"type":"name","tool_id":9839,"id":"de3d5962-a041-4c38-9150-04e7bec3d7ed","text":"Biology Mentor "}
+{"type":"desc","tool_id":9841,"id":"edc964bf-4752-4c9e-b8b8-763c015202bf","text":"For Admin Only, show messages before it is sent to GPTs. To enable, start a conversation with #debug:"}
+{"tool_id":9841,"type":"name","id":"42f52b20-4647-4966-8ec0-500ee402b61f","text":"Show Debug Messages"}
+{"tool_id":9845,"type":"desc","id":"284077e6-f3db-4c6d-8311-69ba04c978f5","text":"56546"}
+{"type":"name","tool_id":9845,"id":"a6d40d7d-3ef8-4c58-90f9-7233e590cf59","text":"khai test"}
+{"tool_id":9850,"type":"desc","id":"b55b2ab4-e769-47bd-b793-b622a5ac8903","text":"Compare the two documents and highlight minor changes\n"}
+{"tool_id":9850,"type":"name","id":"30ace4b1-5e4e-4462-b4b5-4bfd6f6eed0b","text":"Compare the two documents for minor changes"}
+{"type":"desc","tool_id":9851,"id":"71f38c35-f7af-4614-88f2-85eb71948dab","text":"Convert .doc to .docx"}
+{"type":"name","tool_id":9851,"id":"d50f00b6-1206-4c9b-8174-81bbe1496a90","text":"Convert .doc to .docx"}
+{"type":"desc","tool_id":9853,"id":"c3d4b8f3-20ed-4f99-b4a7-5d4a42ad5aa2","text":"Answer questions about a document based on a document"}
+{"type":"name","tool_id":9853,"id":"66f1ef6e-2444-4f98-bf7c-cece5bac985d","text":"Simple Assistant Test"}
+{"type":"trig","tool_id":9854,"id":"4a211820-8631-4cd7-bf6d-9840c5795719","text":"Compare this contract with Serac standard contract"}
+{"tool_id":9854,"type":"desc","id":"f1c4a617-2cd6-4f94-aaeb-6b4486c8d8ae","text":"Review contract equipment supply"}
+{"type":"desc","tool_id":9855,"id":"7e933a80-0bf9-4d22-830e-7bdf3d55f474","text":"786786786"}
+{"type":"name","tool_id":9855,"id":"6c0a2f63-f451-4247-b8e8-8fd60e9778b6","text":"Test Gmail- Khai"}
+{"tool_id":9642,"type":"desc","id":"40006cd1-179e-426d-8a4c-6754c25f22b6","text":"Ask questions about a contract. \nTest, do not call"}
+{"tool_id":9642,"type":"name","id":"997b6d94-effd-4e78-8b83-c8d50511bb51","text":"TEST - Do not call Contract Review & QA"}
+{"type":"name","tool_id":9854,"id":"4ba50506-188b-4e16-9bb9-f10e6d1cdf12","text":"Serac Contract Reviewer"}
+{"type":"desc","tool_id":9856,"id":"a3b8cd97-eae1-4779-92e0-154797caf4fa","text":"test"}
+{"type":"name","tool_id":9856,"id":"288983ad-9294-4bbc-8990-676cc393ec68","text":"test"}
+{"tool_id":9858,"type":"trig","id":"55b8c8ac-0ad5-4cdc-b9ac-55bd5d6d01c2","text":"Test agent Thanh Do"}
+{"tool_id":9858,"type":"desc","id":"27a28fd1-b010-46db-b384-ff4a580ea854","text":"Test agent Thanh Do"}
+{"tool_id":9858,"type":"name","id":"77306a00-e920-4713-ba91-b3785d89eae7","text":"Test agent Thanh Do"}
+{"tool_id":9624,"type":"name","id":"883ed848-494f-4837-8a45-d327229ec744","text":"Browse The Web - NO LOOP"}
+{"type":"name","tool_id":9327,"id":"a3ae3e4f-f0f3-4037-b1eb-502c73cd9244","text":"Open my cloud folders"}
+{"tool_id":9859,"type":"desc","id":"980d8047-2197-4041-b252-eaa10576e93e","text":"Playback web automation script"}
+{"type":"name","tool_id":9859,"id":"e37fd1a6-2f03-47fc-9e5a-7eac0f4b3114","text":"Playback web automation script"}
+{"tool_id":9860,"type":"desc","id":"23ba4b4c-e1b7-48b1-97bb-d45701d07093","text":"Contract Review Serac"}
+{"tool_id":9860,"type":"name","id":"53e32faf-33a0-4627-a7bd-63a2344987ab","text":"Serac Test#2"}
+{"type":"desc","tool_id":9861,"id":"ff656cb1-add6-4f88-9d86-4d1f1fbee1b8","text":"contract reviewer"}
+{"type":"name","tool_id":9861,"id":"52d7bb7d-349e-4c98-b1e2-df32bec4b3d2","text":"Serac #3"}
+{"type":"desc","tool_id":9862,"id":"2bb0de3e-cd44-4906-bba3-8eb494ca9c38","text":"test serac"}
+{"tool_id":9862,"type":"name","id":"41372181-b3c6-4f4a-b8f3-3daa0e8ff485","text":"test #4"}
+{"type":"desc","tool_id":9864,"id":"4fb707d7-77f8-44ab-9256-5bf387439a96","text":"Retrieve Python Code from a file"}
+{"type":"name","tool_id":9864,"id":"69bf546a-3015-4e58-aab4-b7cecae3024c","text":"Retrieve Python code from file"}
+{"type":"desc","tool_id":9863,"id":"853138f5-c93c-4e33-9646-18ee298203c3","text":"This workflow retrieves historical stock data for a stock, analyzes it using a custom Python algorithm, generates a buy/sell recommendation, and emails the result to the user."}
+{"type":"name","tool_id":9863,"id":"69795b35-f347-42d0-8c93-c9c44328c667","text":"Stock Analysis and Recommendation Workflow"}
+{"tool_id":9865,"type":"desc","id":"88d5c32d-2e9b-4914-aef1-1a817d24a6fb","text":"A workflow to compare two Python files using a Python script and output the differences."}
+{"tool_id":9865,"type":"name","id":"e8a32d2e-b298-4841-b6c8-4a630c1b3b6f","text":"File Comparison Workflow"}
+{"type":"desc","tool_id":9691,"id":"3457b74a-64a8-4332-89e6-ae1d09f3de54","text":"Execute a python code file and return the result."}
+{"type":"name","tool_id":9691,"id":"b7595fd8-e5e3-4490-9c49-ce303d47930a","text":"Execute Python Code"}
+{"type":"desc","tool_id":9866,"id":"b80402c5-a2c7-482c-8568-97ab5631c9bd","text":"A workflow to retrieve historical stock data for NVIDIA (NVDA), analyze it using Python scripts, generate visualizations, and provide a buy/sell recommendation."}
+{"type":"name","tool_id":9866,"id":"5b204f36-97f1-4249-a655-cff0add5eb24","text":"NVDA Stock Analysis Workflow (loi execute nham pyt"}
+{"tool_id":9867,"type":"name","id":"e48d5763-7970-4961-a92c-9d40b2d0e0c0","text":"Maxflow Company Information"}
+{"type":"desc","tool_id":9867,"id":"19ca02b1-72c5-4bde-96e4-05697cc8aa29","text":"Maxflow Technology Information, including:\n- Tax ID (EIN)\n- Date of incorporation"}
+{"type":"desc","tool_id":9868,"id":"2c21bf05-0cab-4fce-9433-52dfd4d832eb","text":"Tự động tạo file trình chiếu PowerPoint (.pptx) theo yêu cầu."}
+{"type":"desc","tool_id":9868,"id":"2c21bf05-0cab-4fce-9433-52dfd4d832eb","text":"Tu dong tao file trinh chieu PowerPoint (.pptx) theo yeu cau."}
+{"type":"name","tool_id":9868,"id":"cd8f7c0f-4e3e-4df9-9876-755cc774b3bb","text":"Create automation pptx"}
+{"tool_id":9869,"type":"desc","id":"ece3bf2a-85a1-48de-a538-d4db1ddfc371","text":"Browse The Web - Test feature"}
+{"type":"desc","tool_id":9576,"id":"6b5cc5a8-bcc2-42e3-a6ca-1f5a4fa8e022","text":"Create Agent From Web Automation Script"}
+{"type":"name","tool_id":9576,"id":"6f428b71-ade0-4b89-88fa-965fc34c631a","text":"Create Agent From Web Automation Script"}
+{"tool_id":9817,"type":"name","id":"84d744ca-0bed-4e0f-8544-ff15ec564c59","text":"Read Files for Content"}
+{"tool_id":9870,"type":"desc","id":"df6a95e3-b810-4710-ac30-4799ea9ab0ce","text":"Write and Execute Python Code to solve a problem."}
+{"tool_id":9870,"type":"name","id":"5fd2a528-4b3c-454d-a5d7-549111ec9868","text":"Write and Execute Python Code"}
+{"tool_id":9554,"type":"name","id":"1f3dcb3f-51f3-4320-85d8-31ded8b5951d","text":"Write Python Code without Executing"}
+{"type":"desc","tool_id":9456,"id":"c06f03d9-97d1-4f26-b337-aa3dc0c321df","text":"Execute an existing python code and return the result."}
+{"type":"desc","tool_id":9871,"id":"1aef84b7-67eb-43c6-87dd-3cd3f5988f1b","text":"Show all the emoji markup"}
+{"type":"name","tool_id":9871,"id":"03528f36-9aa5-4f94-99d0-c73b96707a30","text":"Show all EMOJI"}
+{"tool_id":9869,"type":"name","id":"20d11f89-478d-40ce-8345-7f44afa87042","text":"Record test"}
+{"type":"desc","tool_id":9876,"id":"070d7191-e827-470e-b093-1243d1f9fac2","text":"A workflow to analyze multiple resumes, extract relevant information, and create a summary table ranking candidates for a GenAI internship position based on specified criteria."}
+{"tool_id":9876,"type":"name","id":"ef6597ac-9aff-471a-a2dd-eae92171e655","text":"Resume Analysis for GenAI Internship"}
+{"tool_id":9878,"type":"desc","id":"d4036573-d83e-4ab9-bcc2-4a9ca3cd6b83","text":"so sanh vat lieu test"}
+{"tool_id":9878,"type":"name","id":"8f5bcd7e-5e4f-4a41-bfc8-9417ffa5a9cd","text":"so sanh vat lieu test"}
+{"type":"desc","tool_id":9852,"id":"e9938bb6-585e-491a-b006-ced7cb1e0252","text":"test extension python "}
+{"tool_id":9852,"type":"name","id":"3c1538b6-c468-4f17-8e48-562c6c20d0c3","text":"test extension python "}
+{"type":"desc","tool_id":9880,"id":"7c89aa8e-1991-41f9-b22a-d2aa1b18d7fe","text":"test only extension"}
+{"type":"name","tool_id":9880,"id":"5850d1cb-6ae4-44c4-be51-99468381438f","text":"test only extension"}
+{"tool_id":9875,"type":"name","id":"5f2e83db-d95f-42ea-96cf-4297c920ca8f","text":"Benthic Safety Incident Report"}
+{"type":"desc","tool_id":9875,"id":"0053c7b8-21e2-4453-9f5f-cbf0f176e41e","text":"Create a safety issue report card for Benthic based on an image and an optional description."}
+{"type":"desc","tool_id":9881,"id":"3f47d164-2743-499a-9865-96ec2bc2c54c","text":"Create a safety positive recognition card for Benthic based on an image and an optional description."}
+{"type":"name","tool_id":9881,"id":"8caee2e9-40e3-4884-9678-57c3f0284885","text":"Benthic Safety Positive Recognition"}
+{"type":"desc","tool_id":9882,"id":"737ce2e6-f2a0-44ef-b7ac-a93ba5fa7e41","text":"Test files"}
+{"type":"name","tool_id":9882,"id":"f2c4d31a-2e82-48a4-884b-7d70791c1c35","text":"Test files"}
+{"tool_id":9883,"type":"desc","id":"33e19456-60f4-42c5-ad67-45ea95473e36","text":"DucSonSlide"}
+{"tool_id":9883,"type":"name","id":"fe89158c-3d45-46e3-96d7-3c5322f0bc8a","text":"DucSonSlide"}
+{"type":"desc","tool_id":9884,"id":"7a791a2c-8b33-466c-a1da-297fb44b1e2c","text":"Test Slide Gamma"}
+{"tool_id":9884,"type":"name","id":"7355c64e-22dc-4016-aad0-ca4095bbe3a2","text":"Test Slide Gamma"}
+{"type":"desc","tool_id":9885,"id":"42dbfcd5-ec92-4dda-be3c-bae63fec549d","text":"Test simple doc"}
+{"tool_id":9885,"type":"name","id":"f546f5fa-8639-4f5c-b00a-c1f17d2c5783","text":"Test simple doc"}
+{"type":"desc","tool_id":9886,"id":"a4be34ba-0f35-4702-b97b-cca00082d11a","text":"Đạt test chạy recorded actions"}
+{"type":"name","tool_id":9886,"id":"915fd9c2-0dcf-4b3b-8f36-0bf63ed0df38","text":"Đạt test chạy recorded actions"}
+{"tool_id":8770,"type":"desc","id":"e4317fcd-7815-4541-8c8a-30924af65c27","text":"Describe what this app can do. In other words, what you Genie can do."}
+{"type":"name","tool_id":8770,"id":"fb3cc408-b641-4701-b98d-cf13896ef788","text":"What Can You Do"}
+{"tool_id":9566,"type":"trig","id":"5606e3f1-546d-423d-bd4a-ce92e3f0aa04","text":"email to"}
+{"type":"trig","tool_id":9890,"id":"791f9125-a3f4-48d8-ab33-0ca58f0c1d96","text":"Run a DCF for Microsoft (MSFT) with default assumptions"}
+{"type":"desc","tool_id":9889,"id":"cf5ecc6f-2743-450b-9b98-a28c00ae119f","text":"Add models"}
+{"type":"name","tool_id":9889,"id":"cc1a34a7-f1c5-45c8-a0ca-b2ed3ac5243f","text":"Add models"}
+{"tool_id":9890,"type":"desc","id":"b5c8786b-0c8e-4e2a-a624-6dee6b01db8e","text":"A DCF (Discounted Cash Flow) Valuation AI Agent automates company valuation by forecasting future free cash flows (FCF), estimating discount rates (WACC), computing a terminal value, and producing a transparent valuation report and sensitivity analysis. "}
+{"tool_id":9890,"type":"name","id":"7272963e-ba17-4bde-94c7-3bd5141a9794","text":"DCF "}
+{"tool_id":9891,"type":"desc","id":"73cafa99-505a-44dc-875d-e92f08dc4ce4","text":"Finalize a scientific paper review based on the content of the paper and a deep search result for the paper."}
+{"type":"name","tool_id":9891,"id":"c76c61c9-6d7e-468b-af2f-fe11dafa1ee5","text":"Finalize Scientific Paper Review"}
+{"type":"name","tool_id":9888,"id":"da570d78-ddd1-4cd2-b299-7681d945b500","text":"Review Sientific Paper"}
+{"type":"desc","tool_id":9888,"id":"0b5c2e8d-990a-4ad8-93f9-b29ccaa10feb","text":"Help review a scienfic paper\n"}
+{"type":"desc","tool_id":9668,"id":"b7b08a8a-dc4b-480d-9b76-7320bdb49c17","text":"Do a deep research using content on the web"}
