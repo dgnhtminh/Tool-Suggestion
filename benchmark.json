@@ -413,5 +413,135 @@
     "prompt": "Generate a buy/sell recommendation for NVDA stock.",
     "expected_tool_ids": [9747, 9890],
     "notes": "Kiểm tra tool phân tích và đưa ra khuyến nghị cổ phiếu. Yêu cầu này vượt ra ngoài việc chỉ cung cấp dữ liệu, nó đòi hỏi sự phân tích và đưa ra kết luận."
+  },
+  {
+    "prompt": "Show me a picture of a galaxy.",
+    "expected_tool_ids": [11, 9368, 9650],
+    "notes": "Prompt mơ hồ. 'Show me a picture' có thể hiểu là *tạo ra* một ảnh mới (11, 9368) hoặc *hiển thị* một ảnh đã có từ một file (9650). Mô hình nên hỏi lại để làm rõ, ví dụ: 'Bạn muốn tôi tạo một ảnh mới hay hiển thị một ảnh có sẵn?'"
+  },
+  {
+    "prompt": "I want to build a new workflow from scratch to automate my daily reports.",
+    "expected_tool_ids": [9397, 9453],
+    "notes": "Kiểm tra khả năng phân biệt giữa việc *xây dựng một workflow mới* từng bước (9397, 9453) và việc *lưu lại cuộc trò chuyện hiện tại* thành workflow (1, 9529, 9920)."
+  },
+  {
+    "prompt": "Convert the ASL gloss phrase 'BOOK READ I FINISH' into its HamNoSys representation.",
+    "expected_tool_ids": [9449],
+    "notes": "Kiểm tra việc kích hoạt một tool rất chuyên biệt và kỹ thuật (ASL Gloss To Hamnosys). Dùng để đánh giá khả năng xử lý các thuật ngữ trong lĩnh vực hẹp."
+  },
+  {
+    "prompt": "Theo luật lao động Việt Nam, thời gian thử việc tối đa cho công việc cần trình độ cao đẳng trở lên là bao lâu?",
+    "expected_tool_ids": [9346],
+    "notes": "Kiểm tra tool chuyên về luật Việt Nam (9346) với một câu hỏi pháp lý rất cụ thể. Tool này được ghi chú là 'Không hướng dẫn', tức là chỉ trả lời, không tư vấn."
+  },
+  {
+    "prompt": "Analyze today's market data for Bitcoin. If the price increased by more than 5%, generate a 'Bull Market Alert' report. Otherwise, just summarize the daily price change.",
+    "expected_tool_ids": [9820, 9671, 9870, 9692, 8886],
+    "notes": "Yêu cầu kịch bản có điều kiện (if/else). Cần tool lấy dữ liệu tài chính (9820, 9671), sau đó một tool Python (9870) để thực hiện logic so sánh, và cuối cùng gọi tool tạo báo cáo (9692) hoặc tóm tắt (8886) tùy vào kết quả."
+  },
+  {
+    "prompt": "Can you remind me what my email address is on this platform?",
+    "expected_tool_ids": [8, 9567],
+    "notes": "Kiểm tra tool truy xuất thông tin định danh của người dùng. Các tool 8 và 9567 có chức năng tương tự nhau."
+  },
+  {
+    "prompt": "Why is your team uniquely suited to develop this technology?",
+    "expected_tool_ids": [9400],
+    "notes": "Kiểm tra khả năng ưu tiên một tool được lập trình sẵn để trả lời một câu hỏi cụ thể về năng lực của công ty (9400 - 'Why Maxflow for GenAI') thay vì để mô hình tự suy diễn."
+  },
+  {
+    "prompt": "Extract all structured data from the attached application log and save it as a dataset.",
+    "expected_tool_ids": [9249],
+    "notes": "Kiểm tra tool chuyên dụng cho việc xử lý log và chuyển đổi thành dataset (Log2Dataset)."
+  },
+  {
+    "prompt": "Create a presentation comparing our company's quarterly performance against our top three competitors.",
+    "expected_tool_ids": [9868, 54, 9668],
+    "notes": "Kịch bản phức hợp. Yêu cầu mô hình phải hiểu rằng để 'tạo bài thuyết trình so sánh', trước hết nó cần phải *tìm kiếm thông tin* về đối thủ cạnh tranh bằng tool Deep Search (54, 9668), sau đó mới tổng hợp và trình bày bằng tool Create Presentation (9868)."
+  },
+  {
+    "prompt": "Take the attached audio file of a customer service call, transcribe it, and then analyze the customer's sentiment.",
+    "expected_tool_ids": [9219, 9870],
+    "notes": "Kịch bản chuỗi phức tạp. Yêu cầu khả năng Speech-to-Text (khả năng nền của mô hình), sau đó dùng tool phân tích dữ liệu (9219) hoặc tool Python tùy chỉnh (9870) để thực hiện phân tích tình cảm (sentiment analysis) trên văn bản đó."
+  },
+  {
+    "prompt": "Show me some examples of the types of outputs that workflows can send to users.",
+    "expected_tool_ids": [5],
+    "notes": "Kiểm tra tool 5 (Show example responses), một công cụ meta dùng để minh họa khả năng của hệ thống."
+  },
+  {
+    "prompt": "Run a test of the optional inputs feature for the agent.",
+    "expected_tool_ids": [7],
+    "notes": "Kiểm tra tool 7 (Test optional inputs), một công cụ gỡ lỗi rất cụ thể."
+  },
+  {
+    "prompt": "Generate a report on my token usage for the last 30 days.",
+    "expected_tool_ids": [24, 9450],
+    "notes": "Kiểm tra tool 24, 9450 (User Usage Reporter), một công cụ dành cho quản trị viên để theo dõi việc sử dụng."
+  },
+  {
+    "prompt": "After generating this construction cost chart, please provide expert insights based on it.",
+    "expected_tool_ids": [33],
+    "notes": "Kiểm tra tool 33 (Construction Data analysts), được mô tả là chỉ chạy *sau khi* một biểu đồ đã được tạo, yêu cầu khả năng nhận biết ngữ cảnh."
+  },
+  {
+    "prompt": "Based on the attached RFP, outline a winning proposal strategy for our company.",
+    "expected_tool_ids": [34, 52],
+    "notes": "Kiểm tra tool 34 (RFP Analyst and Strategist), yêu cầu không chỉ phân tích mà còn phải đưa ra *chiến lược*."
+  },
+  {
+    "prompt": "Upload this PDF invoice to the construction project database and save it as a JSON record.",
+    "expected_tool_ids": [39],
+    "notes": "Kiểm tra tool 39 (Upload PDF to Construction Database), một workflow chuyên biệt kết hợp việc tải file và chuyển đổi định dạng."
+  },
+  {
+    "prompt": "What does the 'Value Stream Mapping' concept mean according to our lean training materials?",
+    "expected_tool_ids": [47],
+    "notes": "Kiểm tra tool 47 (Lean Training Agent), một công cụ hỏi đáp dựa trên một kho kiến thức cụ thể (tài liệu huấn luyện Lean)."
+  },
+  {
+    "prompt": "Add this PDF as a new supporting document for the email answering agent.",
+    "expected_tool_ids": [8823],
+    "notes": "Kiểm tra tool 8823 (Add Email Supporting Docs), một công cụ quản trị để cập nhật kiến thức cho một agent khác."
+  },
+  {
+    "prompt": "Generate a 3D site map for the mining operation located at 21.0285° N, 105.8542° E.",
+    "expected_tool_ids": [8872],
+    "notes": "Kiểm tra tool 8872 (Get 3D Site Map), một công cụ kỹ thuật cao yêu cầu tọa độ địa lý."
+  },
+  {
+    "prompt": "Please convert this video file from .webm to .mp4 format.",
+    "expected_tool_ids": [8874],
+    "notes": "Kiểm tra tool 8874 (Convert Webm to MP4), một tiện ích xử lý file media."
+  },
+  {
+    "prompt": "Open the snipping tool so I can grab a screenshot.",
+    "expected_tool_ids": [8954],
+    "notes": "Kiểm tra tool 8954 (Capture Screen), phân biệt rõ ràng với việc *quay video* màn hình. Tool này chỉ mở công cụ chụp ảnh."
+  },
+  {
+    "prompt": "Remind me in 10 minutes to call the client.",
+    "expected_tool_ids": [8985],
+    "notes": "Kiểm tra tool 8985 (Reminder), một tiện ích cá nhân đơn giản."
+  },
+  {
+    "prompt": "I need to apply for a POH deer hunting permit.",
+    "expected_tool_ids": [9370],
+    "notes": "Kiểm tra tool 9370 (Get Hunting Permit), một workflow tự động hóa cho một tác vụ rất cụ thể."
+  },
+  {
+    "prompt": "Please update the glossary file for the Document Translator with this new terminology list.",
+    "expected_tool_ids": [9635],
+    "notes": "Kiểm tra tool 9635 (Update Glossary File), một công cụ quản trị cho agent dịch thuật."
+  },
+  {
+    "prompt": "Connect with this person on LinkedIn and send a standard introduction message.",
+    "expected_tool_ids": [9912],
+    "notes": "Kiểm tra tool 9912 (Action with LinkedIn), một công cụ tự động hóa mạng xã hội."
+  },
+    {
+    "prompt": "Refresh and add the latest LLM models like Claude 3 and Gemini 1.5 to the available model list.",
+    "expected_tool_ids": [9889],
+    "notes": "Kiểm tra tool 9889 (Add LLM models), một công cụ dành cho nhà phát triển để cập nhật hệ thống."
   }
 ]

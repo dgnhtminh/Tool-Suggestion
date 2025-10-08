@@ -134,7 +134,7 @@ class ToolSuggestion:
         sorted_tools = sorted(rrf_scores.keys(), key= lambda x: rrf_scores[x], reverse=True)
         return sorted_tools
 
-    # @staticmethod
+    @staticmethod
     # def suggest(
     #     prompt: str,
     #     allowed_tools: Optional[List[int]],
@@ -247,9 +247,9 @@ class ToolSuggestion:
         general_tool_ids: Optional[List[int]] = None
     ) -> ToolSuggestionModel:
         # --- CÁC THAM SỐ TINH CHỈNH ---
-        EMBEDDING_DISTANCE_THRESHOLD = 0.6 # Nới lỏng ngưỡng một chút để không bỏ sót
-        BM25_SCORE_THRESHOLD = 0.5       # Nới lỏng ngưỡng một chút để không bỏ sót
-        FINAL_RESULTS_LIMIT = 5          # Giới hạn số kết quả cuối cùng
+        EMBEDDING_DISTANCE_THRESHOLD = 0.8 # Nới lỏng ngưỡng một chút để không bỏ sót
+        BM25_SCORE_THRESHOLD = 0.1       # Nới lỏng ngưỡng một chút để không bỏ sót
+        FINAL_RESULTS_LIMIT = 7          # Giới hạn số kết quả cuối cùng
 
         allowed_tools = allowed_tools if isinstance(allowed_tools, list) else []
         if not isinstance(prompt, str):
