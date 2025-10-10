@@ -412,7 +412,7 @@ class ToolSuggestion:
         results = {"documents": [[]], "metadatas": [[]], "distances": [[]], "ids": [[]]}
         if collection:
             results = collection.query(
-                query_texts=prompt,
+                 query_texts=prompt,
                 n_results=20,
                 where=metadata_filter
             )

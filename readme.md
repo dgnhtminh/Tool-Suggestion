@@ -2,7 +2,7 @@
 ## Setup
 0. Install Python and pip
 1. `python -m venv venv`
-2. `source venv\Scripts\activate` (Run each time after opening a new terminal)
+2. `source venv/Scripts/activate` (Run each time after opening a new terminal)
 3. `pip install -r requirements.txt`
 4. `pip install transformers --no-deps`
 5. Set `TOOLCALL_DATA_DIR` in .env to the path of ./data
